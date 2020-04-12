@@ -1,0 +1,41 @@
+{
+  "name": "acnh-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/bootstrap": "^4.3.2",
+    "@types/jquery": "^3.3.34",
+    "bootstrap": "^4.4.1",
+    "copy-webpack-plugin": "^5.1.1",
+    "css-loader": "^3.5.2",
+    "handlebars": "^4.7.6",
+    "handlebars-loader": "^1.7.1",
+    "html-webpack-plugin": "^4.2.0",
+    "jquery": "^3.5.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "raw-loader": "^4.0.0",
+    "ts-loader": "^6.2.2",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "env NODE_ENV=prod webpack",
+    "devBuild": "env NODE_ENV=dev webpack",
+    "start:dev": "env NODE_ENV=dev webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlf-io/acnh-pwa.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wlf-io/acnh-pwa/issues"
+  },
+  "homepage": "https://github.com/wlf-io/acnh-pwa#readme"
+}

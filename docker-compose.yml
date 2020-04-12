@@ -1,0 +1,24 @@
+version: "3.7"
+
+networks:
+    web:
+        external:
+            name: shared-web
+
+services: 
+    acnh:
+        image: wlf-express-local:latest
+        volumes: 
+            - "./dist:/home/node/app/dist/host/www:ro"
+        networks: 
+            - web
+        environment:
+            HOST_ALIAS_www: t1
+        labels:
+            - traefik.enable=true
+            - traefik.http.services.wlf-sync.loadbalancer.server.port=8080
+            - traefik.http.routers.whoami.rule=Host(`t1.wlf.test`)
+#            - traefik.http.routers.whoami.tls=true
+#            - traefik.http.routers.whoami.tls.certresolver=letsenc
+            - traefik.docker.network=shared-web
+        
