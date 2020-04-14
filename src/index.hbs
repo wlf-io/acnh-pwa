@@ -4,11 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="manifest" href="./manifest.webmanifest" />
     <title>Document</title>
 </head>
 
 <body>
-    <ul class="nav nav-tabs" ud="mainTabs" role="tablist">
+    <ul class="nav nav-tabs" id="mainTabs" role="tablist">
         <li class="nav-item">
             <a class="nav-link" id="home-tab" data-toggle="tab" href="#home-content" role="tab">AC NH</a>
         </li>
@@ -37,7 +38,38 @@
                 </div>
                 <div class="col">
                     <div class="card card-body bg-light">
-                        Col B
+                        <h5>Stores Checked:</h5>
+                        <div id="storesCheckboxes"></div>
+                    </div>
+                    <div class="card card-body bg-light">
+                        <h5>Villagers:</h5>
+                        <div id="villagersCheckboxes"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="card card-body bg-light">
+                        <ul class="nav nav-tabs" id="noteTabs" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="notes-today-tab" data-toggle="tab"
+                                    href="#notes-today-content" role="tab">Today</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="notes-yesterday-tab" data-toggle="tab"
+                                    href="#notes-yesterday-content" role="tab">Yesterday</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="noteTabsContent">
+                            <div class="tab-pane fadeshow active" id="notes-today-content" role="tabpanel"
+                                aria-labelledby="notes-today-tab">
+                                <textarea id="notes-today-box" cols="30" rows="10"></textarea>
+                            </div>
+                            <div class="tab-pane fade" id="notes-yesterday-content" role="tabpanel"
+                                aria-labelledby="notes-today-tab">
+                                <pre id="notes-yesterday-pre"></pre>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

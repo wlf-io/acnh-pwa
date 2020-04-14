@@ -4,22 +4,33 @@ const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 let environment = "production";
-
+let DEV = false;
+let PROD = false;
 switch ((process.env.NODE_ENV || "production").toLowerCase()) {
     case "d":
     case "dev":
     case "development":
         environment = "development";
+        DEV = true;
         break;
     case "prod":
     case "p":
     case "production":
     default:
+        PROD = true;
         environment = "production";
         break;
 }
 
 console.log(`WEBPACK AS [${environment}]`);
+
+const package = require("./package.json");
+console.log(package.version);
+
+const replacements = [
+    { search: "%%%DATE%%%", replace: () => Date.now().toString() },
+    { search: "%%%VERSION%%%", replace: () => PROD ? package.version : Date.now().toString() },
+];
 
 module.exports = {
     entry: {
@@ -30,8 +41,20 @@ module.exports = {
         rules: [
             {
                 test: /\.tsx?$/,
-                loader: "ts-loader",
+                // loader: "ts-loader",
                 exclude: /node_modules/,
+                use: [
+
+                    {
+                        loader: "string-replace-loader",
+                        options: {
+                            multiple: replacements,
+                        }
+                    },
+                    {
+                        loader: "ts-loader"
+                    }
+                ]
             },
             {
                 test: /\.css$/i,
@@ -48,6 +71,20 @@ module.exports = {
                 test: /\.hbs$/,
                 loader: 'raw-loader',
             },
+            {
+                test: /\.(raw|txt)$/,
+                use: [
+                    {
+                        loader: "string-replace-loader",
+                        options: {
+                            multiple: replacements,
+                        }
+                    },
+                    {
+                        loader: "raw-loader",
+                    }
+                ]
+            }
         ]
     },
     plugins: [

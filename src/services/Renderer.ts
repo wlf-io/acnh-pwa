@@ -1,49 +1,34 @@
 import $ from "jquery";
 import Handlebars from "handlebars";
 
-import * as templates from "./templates";
+import * as templates from "../templates";
 
-export default class Renderer {
-    private static instance: Renderer | null = null;
-    private static loaded: boolean = false;
-
+export default class Renderer implements iRenderer {
 
     private views: { [k: string]: any } = {};
 
     private _replace: boolean = false;
     private _selector: string | null = null;
 
-    public static Get() {
-        if (Renderer.instance === null) {
-            Renderer.instance = new Renderer();
-        }
-        return Renderer.instance;
-    }
-
-    private constructor() {
-        if (Renderer.loaded) {
-            throw { error: "RENDERER SHOULD RUN CONSTRUCTOR MORE THAN ONCE" };
-        }
+    constructor() {
         this.loadTemplates();
-        Renderer.loaded = true;
     }
 
-    private targetElement(selector: string, replace: boolean) {
+    private targetElement(selector: string, replace: boolean): iRenderer {
         this._replace = replace;
         this._selector = selector;
         return this;
     }
 
-    public fill(selector: string) {
+    public fill(selector: string): iRenderer {
         return this.targetElement(selector, false);
     }
 
-    public replace(selector: string) {
+    public replace(selector: string): iRenderer {
         return this.targetElement(selector, true);
     }
 
     public with(templateName: string, data: { [k: string]: any }) {
-        console.log("WITH");
         templateName = this.cleanTemplateName(templateName);
         if (!this.views.hasOwnProperty(templateName)) {
             throw { error: `template '${templateName}' could not be found` };
@@ -51,11 +36,8 @@ export default class Renderer {
         if (this._selector === null) {
             throw { error: `no selector set, use replace or fill first` };
         }
-        console.log("CHECKS", this.views[templateName]);
         const template = this.views[templateName];
-        console.log("template");
         const result = template(data);
-        console.log("TEMPLATING", this._replace, templateName, data, result);
         if (this._replace) {
             $(this._selector).replaceWith(result);
         } else {
@@ -70,7 +52,6 @@ export default class Renderer {
             // @ts-ignore
             this.views[this.cleanTemplateName(templateName)] = Handlebars.compile(templates[templateName]);
         }
-        console.log("LOADED");
     }
 
     private cleanTemplateName(name: string) {

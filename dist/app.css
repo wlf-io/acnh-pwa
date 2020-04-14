@@ -16,4 +16,20 @@
     padding: 7px;
 }
 
+.nav-link {
+    padding: .5rem .5rem;
+}
+
+.card-body + .card-body {
+    margin-top: 7px;
+}
+
+.row + .row {
+    margin-top: 7px;
+}
+
+.card-body>.nav-tabs {
+    margin: -7px -7px 0 -7px;
+}
+
 /*# sourceMappingURL=app.css.map*/
