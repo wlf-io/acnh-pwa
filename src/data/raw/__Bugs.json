@@ -1,0 +1,2363 @@
+[
+  {
+    "id": "agrias-butterfly",
+    "name": "Agrias Butterfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Around flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ant",
+    "name": "Ant",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Appears when spoiled turnips",
+          "candies",
+          "lollipops",
+          "and rotten fruits are left on the ground."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "atlas-moth",
+    "name": "Atlas Moth",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12000
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "bagworm",
+    "name": "Bagworm",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "On trees (shake them)."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shake trees (year round)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        }
+      }
+    }
+  },
+  {
+    "id": "banded-dragonfly",
+    "name": "Banded Dragonfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Anywhere other than above salt water (the sea)."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 18000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bee",
+    "name": "Bee",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Hidden in trees with bee hives (grab and shake)."
+        ]
+      }
+    }
+  },
+  {
+    "id": "beehive",
+    "name": "Beehive",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Shaking trees"
+        ]
+      }
+    }
+  },
+  {
+    "id": "bell-cricket",
+    "name": "Bell Cricket",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 430
+        },
+        "sources": [
+          "In grassy patches."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 430
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "birdwing",
+    "name": "Birdwing",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Around flowers."
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-weevil-beetle",
+    "name": "Blue Weevil Beetle",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "brown-cicada",
+    "name": "Brown Cicada",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "centipede",
+    "name": "Centipede",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Hidden under rocks (smack with a shovel)."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hit rock with shovel or axe (Sept-Jun)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        }
+      }
+    }
+  },
+  {
+    "id": "cicada-shell",
+    "name": "Cicada Shell",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "citrus-long-horned-beetle",
+    "name": "Citrus Long-horned Beetle",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "On stumps (year round)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 350
+        }
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "common-bluebottle",
+    "name": "Common Bluebottle",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "common-butterfly",
+    "name": "Common Butterfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Around flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Around flowers (Jan-Jun, Sept-Dec)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        }
+      }
+    }
+  },
+  {
+    "id": "cricket",
+    "name": "Cricket",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 130
+        },
+        "sources": [
+          "In grassy patches."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 130
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 520
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cyclommatus-stag",
+    "name": "Cyclommatus Stag",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 32000
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "cyclommatus",
+    "name": "Cyclommatus",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "sources": [
+          "On palm trees."
+        ]
+      }
+    }
+  },
+  {
+    "id": "damselfly",
+    "name": "Damselfly",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "darner-dragonfly",
+    "name": "Darner Dragonfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "sources": [
+          "Anywhere other than above salt water (the sea)."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 230
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "diving-beetle",
+    "name": "Diving Beetle",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "drone-beetle",
+    "name": "Drone Beetle",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "dung-beetle",
+    "name": "Dung Beetle",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "Next to snowballs."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "earth-boring-dung-beetle",
+    "name": "Earth-boring Dung Beetle",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "emperor-butterfly",
+    "name": "Emperor Butterfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Around flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "At night (Dec-Mar, Jun-Sept)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    }
+  },
+  {
+    "id": "evening-cicada",
+    "name": "Evening Cicada",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "firefly",
+    "name": "Firefly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In the air above freshwater (rivers",
+          "etc.)."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flea",
+    "name": "Flea",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 70
+        },
+        "sources": [
+          "On neighbors walking outside."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 70
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 280
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fly",
+    "name": "Fly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Around rafflesia and spoiled turnips and trash left on the ground."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fruit-beetle",
+    "name": "Fruit Beetle",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "On trees."
+        ]
+      }
+    }
+  },
+  {
+    "id": "giant-cicada",
+    "name": "Giant Cicada",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "giant-stag",
+    "name": "Giant Stag",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "giant-water-bug",
+    "name": "Giant Water Bug",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8000
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "giraffe-stag",
+    "name": "Giraffe Stag",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 12000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 48000
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "golden-stag",
+    "name": "Golden Stag",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 12000
+        },
+        "sources": [
+          "On palm trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 12000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 48000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "goliath-beetle",
+    "name": "Goliath Beetle",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "sources": [
+          "On palm trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 32000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "grasshopper",
+    "name": "Grasshopper",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "In grassy patches."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "great-purple-emperor",
+    "name": "Great Purple Emperor",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12000
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "hermit-crab",
+    "name": "Hermit Crab",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "Only found on the tropical island (never in town)."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Beach"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    }
+  },
+  {
+    "id": "honeybee",
+    "name": "Honeybee",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Around flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Around flowers (Mar-Jul)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "horned-atlas",
+    "name": "Horned Atlas",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "sources": [
+          "On palm trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 32000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "horned-dynastid",
+    "name": "Horned Dynastid",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1350
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1350
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "horned-elephant",
+    "name": "Horned Elephant",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "sources": [
+          "On palm trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 32000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "horned-hercules",
+    "name": "Horned Hercules",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 12000
+        },
+        "sources": [
+          "On palm trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 12000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 48000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "house-centipede",
+    "name": "House Centipede",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Hidden under rocks (smack with a shovel)."
+        ]
+      }
+    }
+  },
+  {
+    "id": "jewel-beetle",
+    "name": "Jewel Beetle",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 9600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ladybug",
+    "name": "Ladybug",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "On flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "On flowers (Mar-Jun, Oct)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "lantern-fly",
+    "name": "Lantern Fly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "On trees."
+        ]
+      }
+    }
+  },
+  {
+    "id": "long-locust",
+    "name": "Long Locust",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "In grassy patches."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "longhorn-beetle",
+    "name": "Longhorn Beetle",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "sources": [
+          "On tree stumps."
+        ]
+      }
+    }
+  },
+  {
+    "id": "madagascan-sunset-moth",
+    "name": "Madagascan Sunset Moth",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "man-faced-stink-bug",
+    "name": "Man-faced Stink Bug",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "On flowers (Mar-Oct)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "mantis",
+    "name": "Mantis",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 430
+        },
+        "sources": [
+          "On flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "On flowers (Mar-Nov)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 430
+        }
+      }
+    }
+  },
+  {
+    "id": "migratory-locust",
+    "name": "Migratory Locust",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "In grassy patches."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "miyama-stag",
+    "name": "Miyama Stag",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mole-cricket",
+    "name": "Mole Cricket",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "sources": [
+          "Hidden in dirt -- dig up with a shovel."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig near chirping) (Nov-May)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    }
+  },
+  {
+    "id": "monarch-butterfly",
+    "name": "Monarch Butterfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "sources": [
+          "Around flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mosquito",
+    "name": "Mosquito",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 130
+        },
+        "sources": [
+          "In the air."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 130
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 520
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "moth",
+    "name": "Moth",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Around the lit up windows of Re-Tail",
+          "The Roost café",
+          "and around street lamps."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 130
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 520
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "oak-silk-moth",
+    "name": "Oak Silk Moth",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "sources": [
+          "On trees."
+        ]
+      }
+    }
+  },
+  {
+    "id": "orchid-mantis",
+    "name": "Orchid Mantis",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "sources": [
+          "On white flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "On flowers (Mar-Nov)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        }
+      }
+    }
+  },
+  {
+    "id": "paper-kite-butterfly",
+    "name": "Paper Kite Butterfly",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Around flowers (year round)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "peacock-butterfly",
+    "name": "Peacock Butterfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "sources": [
+          "Around blue",
+          "purple",
+          "and black flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Near hybrid flowers (Mar-Jun)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    }
+  },
+  {
+    "id": "petaltail-dragonfly",
+    "name": "Petaltail Dragonfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "sources": [
+          "Anywhere other than above salt water (the sea)."
+        ]
+      }
+    }
+  },
+  {
+    "id": "pill-bug",
+    "name": "Pill Bug",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Hidden under rocks (smack with a shovel)."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hit rock with shovel or axe"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        }
+      }
+    }
+  },
+  {
+    "id": "pondskater",
+    "name": "Pondskater",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 130
+        },
+        "sources": [
+          "On the surface of lakes and ponds."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 130
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 520
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "queen-alexandras-birdwing",
+    "name": "Queen Alexandra's Birdwing",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 16000
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "rainbow-stag",
+    "name": "Rainbow Stag",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 24000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "raja-brooke",
+    "name": "Raja Brooke",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "In the air above freshwater (rivers",
+          "etc.)."
+        ]
+      }
+    }
+  },
+  {
+    "id": "rajah-brookes-birdwing",
+    "name": "Rajah Brooke's Birdwing",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "red-dragonfly",
+    "name": "Red Dragonfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Anywhere other than above salt water (the sea)."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rice-grasshopper",
+    "name": "Rice Grasshopper",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "In grassy patches."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "robust-cicada",
+    "name": "Robust Cicada",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rosalia-batesi-beetle",
+    "name": "Rosalia Batesi Beetle",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12000
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "saw-stag",
+    "name": "Saw Stag",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "scarab-beetle",
+    "name": "Scarab Beetle",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "scorpion",
+    "name": "Scorpion",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "sources": [
+          "On grass and dirt."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 32000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "snail",
+    "name": "Snail",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "On bushes and shrubs (only on rainy days)."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "On rocks during rain (year round)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        }
+      }
+    }
+  },
+  {
+    "id": "spider",
+    "name": "Spider",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "stink-bug",
+    "name": "Stink Bug",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "On trees."
+        ]
+      }
+    }
+  },
+  {
+    "id": "stinkbug",
+    "name": "Stinkbug",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "On flowers (Mar-Oct)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        }
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "tarantula",
+    "name": "Tarantula",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "sources": [
+          "On grass and dirt."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Ground at night (Nov-Apr)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        }
+      }
+    }
+  },
+  {
+    "id": "tiger-beetle",
+    "name": "Tiger Beetle",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "In grassy patches."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "On ground (Feb-Oct)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        }
+      }
+    }
+  },
+  {
+    "id": "tiger-butterfly",
+    "name": "Tiger Butterfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Around red/pink flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Around flowers (Mar-Sept)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        }
+      }
+    }
+  },
+  {
+    "id": "violin-beetle",
+    "name": "Violin Beetle",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "sources": [
+          "On tree stumps."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "walker-cicada",
+    "name": "Walker Cicada",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "walking-leaf",
+    "name": "Walking Leaf",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "On trees."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "walking-stick",
+    "name": "Walking Stick",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "walkingstick",
+    "name": "Walkingstick",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "On trees."
+        ]
+      }
+    }
+  },
+  {
+    "id": "wasp",
+    "name": "Wasp",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Catch from nest after shaking tree"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    },
+    "category": "Bugs"
+  },
+  {
+    "id": "wharf-roach",
+    "name": "Wharf Roach",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "On the beach."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "On shore rocks (year round)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "yellow-butterfly",
+    "name": "Yellow Butterfly",
+    "category": "Bugs",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Around flowers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Around flowers (Mar-Jun, Sept-Oct)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        }
+      }
+    }
+  }
+]

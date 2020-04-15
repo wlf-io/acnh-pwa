@@ -1,0 +1,286 @@
+[
+  {
+    "id": "conch-shell",
+    "name": "Conch Shell",
+    "category": "Seashells",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 350
+        },
+        "sources": [
+          "Beach"
+        ]
+      }
+    }
+  },
+  {
+    "id": "conch",
+    "name": "Conch",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 700
+        }
+      }
+    },
+    "category": "Seashells"
+  },
+  {
+    "id": "coral",
+    "name": "Coral",
+    "category": "Seashells",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Beach"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Beach"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    }
+  },
+  {
+    "id": "cowrie-shell",
+    "name": "Cowrie Shell",
+    "category": "Seashells",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 30
+        },
+        "sources": [
+          "Beach"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cowrie",
+    "name": "Cowrie",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Beach"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        }
+      }
+    },
+    "category": "Seashells"
+  },
+  {
+    "id": "giant-clam-shell",
+    "name": "Giant-clam Shell",
+    "category": "Seashells",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "sources": [
+          "Beach"
+        ]
+      }
+    }
+  },
+  {
+    "id": "giant-clam",
+    "name": "Giant Clam",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Beach"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        }
+      }
+    },
+    "category": "Seashells"
+  },
+  {
+    "id": "oyster-shell",
+    "name": "Oyster Shell",
+    "category": "Seashells",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "sources": [
+          "Beach"
+        ]
+      }
+    }
+  },
+  {
+    "id": "pearl-oyster-shell",
+    "name": "Pearl-oyster Shell",
+    "category": "Seashells",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "sources": [
+          "Beach"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sand-dollar",
+    "name": "Sand Dollar",
+    "category": "Seashells",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Beach"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Beach"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        }
+      }
+    }
+  },
+  {
+    "id": "scallop-shell",
+    "name": "Scallop Shell",
+    "category": "Seashells",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "Beach"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sea-snail-shell",
+    "name": "Sea-snail Shell",
+    "category": "Seashells",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Beach"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sea-snail",
+    "name": "Sea Snail",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Beach"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        }
+      }
+    },
+    "category": "Seashells"
+  },
+  {
+    "id": "summer-shell",
+    "name": "Summer Shell",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        }
+      }
+    },
+    "category": "Seashells"
+  },
+  {
+    "id": "venus-comb-shell",
+    "name": "Venus-comb Shell",
+    "category": "Seashells",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Beach"
+        ]
+      }
+    }
+  },
+  {
+    "id": "venus-comb",
+    "name": "Venus Comb",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Beach"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        }
+      }
+    },
+    "category": "Seashells"
+  }
+]

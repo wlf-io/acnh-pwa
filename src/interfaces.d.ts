@@ -21,3 +21,16 @@ interface iACDay {
 interface iComponent {
     run: () => void;
 }
+
+declare interface iCritterData {
+    id: string;
+    name: string;
+    sources: iCritterSource[];
+}
+
+declare interface iCritterSource {
+    region: string;
+    times: number[];
+    months: string[];
+    locale: string;
+}

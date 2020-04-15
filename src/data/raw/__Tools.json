@@ -1,0 +1,1311 @@
+[
+  {
+    "id": "axe",
+    "name": "Axe",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Gardening Store"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        },
+        "recipe": {
+          "flimsy-axe": 1,
+          "wood": 3,
+          "iron-nugget": 1
+        }
+      }
+    }
+  },
+  {
+    "id": "bamboo-wand",
+    "name": "Bamboo Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3900
+        },
+        "recipe": {
+          "young-spring-bamboo": 6,
+          "star-fragment": 3
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "bug-wand",
+    "name": "Bug Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "bunny-day-wand",
+    "name": "Bunny Day Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 11100
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "cherry-blossom-wand",
+    "name": "Cherry-blossom Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2700
+        },
+        "recipe": {
+          "cherry-blossom-petal": 3,
+          "star-fragment": 3
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "colorful-fishing-rod",
+    "name": "Colorful Fishing Rod",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "colorful-net",
+    "name": "Colorful Net",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "colorful-shovel",
+    "name": "Colorful Shovel",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "colorful-slingshot",
+    "name": "Colorful Slingshot",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "colorful-watering-can",
+    "name": "Colorful Watering Can",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "cosmos-wand",
+    "name": "Cosmos Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1580
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "elephant-watering-can",
+    "name": "Elephant Watering Can",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "fish-fishing-rod",
+    "name": "Fish Fishing Rod",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "fish-wand",
+    "name": "Fish Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "fishing-rod",
+    "name": "Fishing Rod",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Nookling stores"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "recipe": {
+          "flimsy-fishing-rod": 1,
+          "iron-nugget": 1
+        }
+      }
+    }
+  },
+  {
+    "id": "flimsy-axe",
+    "name": "Flimsy Axe",
+    "category": "Tools",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ],
+        "recipe": {
+          "tree-branch": 5,
+          "stone": 1
+        }
+      }
+    }
+  },
+  {
+    "id": "flimsy-fishing-rod",
+    "name": "Flimsy Fishing Rod",
+    "category": "Tools",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ],
+        "recipe": {
+          "tree-branch": 5
+        }
+      }
+    }
+  },
+  {
+    "id": "flimsy-net",
+    "name": "Flimsy Net",
+    "category": "Tools",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ],
+        "recipe": {
+          "tree-branch": 5
+        }
+      }
+    }
+  },
+  {
+    "id": "flimsy-shovel",
+    "name": "Flimsy Shovel",
+    "category": "Tools",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ],
+        "recipe": {
+          "hardwood": 5
+        }
+      }
+    }
+  },
+  {
+    "id": "flimsy-watering-can",
+    "name": "Flimsy Watering Can",
+    "category": "Tools",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ],
+        "recipe": {
+          "softwood": 5
+        }
+      }
+    }
+  },
+  {
+    "id": "flower-fairy-wand",
+    "name": "Flower Fairy Wand",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Destroy at least 100 candy blocks in Candy Attack on any difficulty in Puzzle League"
+        ]
+      }
+    }
+  },
+  {
+    "id": "golden-axe",
+    "name": "Golden Axe",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Gardening Store (buy 50 or more saplings)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10655
+        }
+      }
+    }
+  },
+  {
+    "id": "golden-can",
+    "name": "Golden Can",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Isabelle (Maintain a perfect town rating for 15 days)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "golden-net",
+    "name": "Golden Net",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Bug Off (full insect encyclopedia)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10400
+        }
+      }
+    }
+  },
+  {
+    "id": "golden-rod",
+    "name": "Golden Rod",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Fishing Tourney (full fish/deep-sea catch encyclopedia)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10400
+        }
+      }
+    }
+  },
+  {
+    "id": "golden-shovel",
+    "name": "Golden Shovel",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Gardening Store (buy 50 or more bags of fertilizer)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10675
+        }
+      }
+    }
+  },
+  {
+    "id": "golden-slingshot",
+    "name": "Golden Slingshot",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Gift balloon (after popping lots of balloons)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10300
+        },
+        "recipe": {
+          "gold-nugget": 1,
+          "slingshot": 1
+        }
+      }
+    }
+  },
+  {
+    "id": "golden-wand",
+    "name": "Golden Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 20750
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "golden-watering-can",
+    "name": "Golden Watering Can",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10675
+        },
+        "recipe": {
+          "gold-nugget": 1,
+          "watering-can": 1
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "hyacinth-wand",
+    "name": "Hyacinth Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1660
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "ice-wand",
+    "name": "Ice Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6500
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "iron-wand",
+    "name": "Iron Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3750
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "kiki-and-lala-wand",
+    "name": "Kiki And Lala Wand",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "etoile"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ladder",
+    "name": "Ladder",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1440
+        },
+        "recipe": {
+          "wood": 4,
+          "hardwood": 4,
+          "softwood": 4
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "light-stick",
+    "name": "Light Stick",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "lily-wand",
+    "name": "Lily Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1580
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "megaphone",
+    "name": "Megaphone",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Super T&T"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mums-wand",
+    "name": "Mums Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1580
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "mushroom-wand",
+    "name": "Mushroom Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3300
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "net",
+    "name": "Net",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Nookling stores",
+          "Bug Off"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "recipe": {
+          "flimsy-net": 1,
+          "iron-nugget": 1
+        }
+      }
+    }
+  },
+  {
+    "id": "nook-inc-uchiwa-fan",
+    "name": "Nook Inc. Uchiwa Fan",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Miles System"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "buyPrices": [
+          {
+            "currency": "miles",
+            "value": 400
+          }
+        ]
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "outdoorsy-fishing-rod",
+    "name": "Outdoorsy Fishing Rod",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "outdoorsy-net",
+    "name": "Outdoorsy Net",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "outdoorsy-shovel",
+    "name": "Outdoorsy Shovel",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "outdoorsy-slingshot",
+    "name": "Outdoorsy Slingshot",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "outdoorsy-watering-can",
+    "name": "Outdoorsy Watering Can",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "pan-flute",
+    "name": "Pan Flute",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2800
+        },
+        "recipe": {
+          "young-spring-bamboo": 7
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "pansy-wand",
+    "name": "Pansy Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1580
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "printed-design-shovel",
+    "name": "Printed-design Shovel",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "rose-wand",
+    "name": "Rose Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1580
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "shell-wand",
+    "name": "Shell Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5100
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "shovel",
+    "name": "Shovel",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Nookling stores"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "recipe": {
+          "flimsy-shovel": 1,
+          "iron-nugget": 1
+        }
+      }
+    }
+  },
+  {
+    "id": "silver-axe",
+    "name": "Silver Axe",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Island Gift Shop (rare)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "silver-can",
+    "name": "Silver Can",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Gardening Store (buy 50 or more bags of flower seeds)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "silver-net",
+    "name": "Silver Net",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Museum Shop (after donating 30 or more insects)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "silver-rod",
+    "name": "Silver Rod",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Museum Shop (after donating 30 or more fish & deep-sea catches)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "silver-shovel",
+    "name": "Silver Shovel",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Museum Shop (after donating 15 or more fossils)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "silver-slingshot",
+    "name": "Silver Slingshot",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Gift balloon (after popping lots of balloons)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "slingshot",
+    "name": "Slingshot",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "T&T Mart"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 225
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 900
+          }
+        ],
+        "recipe": {
+          "hardwood": 5
+        }
+      }
+    }
+  },
+  {
+    "id": "star-net",
+    "name": "Star Net",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "star-wand",
+    "name": "Star Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6500
+        },
+        "recipe": {
+          "large-star-fragment": 1,
+          "star-fragment": 3
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "stone-axe",
+    "name": "Stone Axe",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "recipe": {
+          "flimsy-axe": 1,
+          "wood": 3
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "tambourine",
+    "name": "Tambourine",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "timer",
+    "name": "Timer",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Super T&T"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        }
+      }
+    }
+  },
+  {
+    "id": "toy-hammer",
+    "name": "Toy Hammer",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Island Gift Shop (rare)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 10
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tree-branch-wand",
+    "name": "Tree-branch Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1550
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "tulip-wand",
+    "name": "Tulip Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1580
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "vaulting-pole",
+    "name": "Vaulting Pole",
+    "category": "Tools",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "recipe": {
+          "softwood": 5
+        }
+      }
+    }
+  },
+  {
+    "id": "wand",
+    "name": "Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    },
+    "category": "Tools"
+  },
+  {
+    "id": "watering-can",
+    "name": "Watering Can",
+    "category": "Tools",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Gardening Store"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        }
+      }
+    }
+  },
+  {
+    "id": "windflower-wand",
+    "name": "Windflower Wand",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1580
+        }
+      }
+    },
+    "category": "Tools"
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "id": "apple",
+    "name": "Apple",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Apple tree"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shaking fruit tree",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "banana",
+    "name": "Banana",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Island tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cherry",
+    "name": "Cherry",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Cherry tree"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shaking fruit tree",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Island tree"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shaking fruit tree",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        }
+      }
+    }
+  },
+  {
+    "id": "durian",
+    "name": "Durian",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Island tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Island tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "lychee",
+    "name": "Lychee",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Island tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Island tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Orange tree"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shaking fruit tree",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "peach",
+    "name": "Peach",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Peach tree"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shaking fruit tree",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pear",
+    "name": "Pear",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Pear tree"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shaking fruit tree",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "perfect-apple",
+    "name": "Perfect Apple",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "Perfect apple tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "perfect-cherry",
+    "name": "Perfect Cherry",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "Perfect cherry tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "perfect-orange",
+    "name": "Perfect Orange",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "Perfect orange tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "perfect-peach",
+    "name": "Perfect Peach",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "Perfect peach tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "perfect-pear",
+    "name": "Perfect Pear",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "Perfect pear tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "persimmon",
+    "name": "Persimmon",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "T&T Emporium"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rotten-apple",
+    "name": "Rotten Apple",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Dying perfect apple tree",
+          "rotten apple tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rotten-cherry",
+    "name": "Rotten Cherry",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Dying perfect cherry tree",
+          "rotten cherry tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rotten-orange",
+    "name": "Rotten Orange",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Dying perfect orange tree",
+          "rotten orange tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rotten-peach",
+    "name": "Rotten Peach",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Dying perfect peach tree",
+          "rotten peach tree"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rotten-pear",
+    "name": "Rotten Pear",
+    "category": "Fruit",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Dying perfect pear tree",
+          "rotten pear tree"
+        ]
+      }
+    }
+  }
+]

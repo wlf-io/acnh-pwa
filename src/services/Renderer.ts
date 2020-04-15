@@ -1,5 +1,6 @@
 import $ from "jquery";
 import Handlebars from "handlebars";
+import Helpers from "./HandlebarHelpers";
 
 import * as templates from "../templates";
 
@@ -12,6 +13,7 @@ export default class Renderer implements iRenderer {
 
     constructor() {
         this.loadTemplates();
+        this.registerHelpers();
     }
 
     private targetElement(selector: string, replace: boolean): iRenderer {
@@ -51,6 +53,13 @@ export default class Renderer implements iRenderer {
         for (const templateName in templates) {
             // @ts-ignore
             this.views[this.cleanTemplateName(templateName)] = Handlebars.compile(templates[templateName]);
+        }
+    }
+
+    private registerHelpers() {
+        for (const name in Helpers) {
+            console.log(name, Helpers[name]);
+            Handlebars.registerHelper(name, Helpers[name]);
         }
     }
 

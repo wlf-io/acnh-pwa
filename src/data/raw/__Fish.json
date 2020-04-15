@@ -1,0 +1,2708 @@
+[
+  {
+    "id": "abalone",
+    "name": "Abalone",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "acorn-barnacle",
+    "name": "Acorn Barnacle",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "anchovy",
+    "name": "Anchovy",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Small Shadows at Sea, All Year (4am-9pm)",
+          "South: Small Shadows at Sea, All Year (4am-9pm)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "angelfish",
+    "name": "Angelfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Small Shadows on River, May-Oct (4pm-9am)",
+          "South: Small Shadows on River, Nov-Apr (4pm-9am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    }
+  },
+  {
+    "id": "arapaima",
+    "name": "Arapaima",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Huge Shadows on River, Jun-Sep (4pm-9am)",
+          "South: Huge Shadows on River, Dec-Mar (4pm-9am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        }
+      }
+    }
+  },
+  {
+    "id": "arowana",
+    "name": "Arowana",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Large Shadows on River, Jun-Sep (4pm-9am)",
+          "South: Large Shadows on River, Dec-Mar (4pm-9am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        }
+      }
+    }
+  },
+  {
+    "id": "barbel-steed",
+    "name": "Barbel Steed",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "In rivers."
+        ]
+      }
+    }
+  },
+  {
+    "id": "barred-knifejaw",
+    "name": "Barred Knifejaw",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Medium Shadows at Sea, Mar-Nov (All day)",
+          "South: Medium Shadows at Sea, Sep-May (All day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    }
+  },
+  {
+    "id": "barreleye",
+    "name": "Barreleye",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Small Shadows at Sea, All Year (9pm-4am)",
+          "South: Small Shadows at Sea, All Year (9pm-4am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        }
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "betta",
+    "name": "Betta",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Small Shadows on River, May-Oct (9am-4pm)",
+          "South: Small Shadows on River, Nov-Apr (9am-4pm)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "bitterling",
+    "name": "Bitterling",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Tiny Shadows on River, Nov-Mar (All day)",
+          "South: Tiny Shadows on River, May-Sep (All day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        }
+      }
+    }
+  },
+  {
+    "id": "black-bass",
+    "name": "Black Bass",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Large Shadows on River, All Year (All day)",
+          "South: Large Shadows on River, All Year (All day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        }
+      }
+    }
+  },
+  {
+    "id": "blowfish",
+    "name": "Blowfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Medium Shadows at Sea, Nov-Feb (9pm-4am)",
+          "South: Medium Shadows at Sea, May-Aug (9pm-4am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    }
+  },
+  {
+    "id": "blue-marlin",
+    "name": "Blue Marlin",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Huge Shadows at Pier, Jul-Sep and Nov-Apr (All day)",
+          "South: Huge Shadows at Pier, Jan-Mar and May-Oct (All day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        }
+      }
+    }
+  },
+  {
+    "id": "bluegill",
+    "name": "Bluegill",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Small Shadows on River, All Year (9am-4pm)",
+          "South: Small Shadows on River, All Year (9am-4pm)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        }
+      }
+    }
+  },
+  {
+    "id": "butterfly-fish",
+    "name": "Butterfly Fish",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Small Shadows at Sea, Apr-Sep (All day)",
+          "South: Small Shadows at Sea, Oct-Mar (All day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "butterflyfish",
+    "name": "Butterflyfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "carp",
+    "name": "Carp",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Large Shadows in Pond, All Year (All day)",
+          "South: Large Shadows in Pond, All Year (All day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        }
+      }
+    }
+  },
+  {
+    "id": "catfish",
+    "name": "Catfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Large Shadows in Pond, May-Oct (4pm-9am)",
+          "South: Large Shadows in Pond, Nov-Apr (4pm-9am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        }
+      }
+    }
+  },
+  {
+    "id": "chambered-nautilus",
+    "name": "Chambered Nautilus",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "char",
+    "name": "Char",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3800
+        },
+        "sources": [
+          "In waterfalls."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Medium Shadows on Clifftop Rivers, Mar-Jun and Sep-Nov (4pm-9am)",
+          "South: Medium Shadows on Clifftop Rivers, Mar-May and Sep-Dec (4pm-9am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3800
+        }
+      }
+    }
+  },
+  {
+    "id": "cherry-salmon",
+    "name": "Cherry Salmon",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Medium Shadows on Clifftop Rivers, Mar-Jun and Sep-Nov (4pm-9am)",
+          "South: Medium Shadows on Clifftop Rivers, Mar-May and Sep-Dec (4pm-9am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    }
+  },
+  {
+    "id": "clam",
+    "name": "Clam",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "clown-fish",
+    "name": "Clown Fish",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Tiny Shadows at Sea, Apr-Sep (All day)",
+          "South: Tiny Shadows at Sea, Oct-Mar (All day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 650
+        }
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "clownfish",
+    "name": "Clownfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 650
+        },
+        "sources": [
+          "In the sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "coelacanth",
+    "name": "Coelacanth",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        },
+        "sources": [
+          "In the ocean when it is raining."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Huge Shadows at Sea while raining, All Year (All day)",
+          "South: Huge Shadows at Sea while raining, All Year (All day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        }
+      }
+    }
+  },
+  {
+    "id": "crawfish",
+    "name": "Crawfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Medium Shadows in Pond, Apr-Sep (All day)",
+          "South: Medium Shadows in Pond, Oct-Mar (All day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "crucian-carp",
+    "name": "Crucian Carp",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows on River, All Year (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        }
+      }
+    }
+  },
+  {
+    "id": "dab",
+    "name": "Dab",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Shadows in Sea, Oct-Apr (All Day)",
+          "South: Shadows in Sea, Aug-Oct (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        }
+      }
+    }
+  },
+  {
+    "id": "dace",
+    "name": "Dace",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows on River, All Year (4pm-9am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        }
+      }
+    }
+  },
+  {
+    "id": "dorado",
+    "name": "Dorado",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        },
+        "sources": [
+          "North: Shadows in River, Jun-Sep (4am-9pm)",
+          "South: Shadows in River, Dec-Mar (4am-9pm)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ear-shell",
+    "name": "Ear Shell",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "eel",
+    "name": "Eel",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      }
+    }
+  },
+  {
+    "id": "flatworm",
+    "name": "Flatworm",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "football-fish",
+    "name": "Football Fish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Shadows in Sea, Nov-Mar (4pm-9am)",
+          "North: Shadows in Sea, May-Sep (4pm-9am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    }
+  },
+  {
+    "id": "freshwater-goby",
+    "name": "Freshwater Goby",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows on River, All Year (4pm-9am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        }
+      }
+    }
+  },
+  {
+    "id": "frog",
+    "name": "Frog",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "North: Shadows in Pond, May-Aug (All Day)",
+          "South: Shadows in Pond, Nov-Feb (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gar",
+    "name": "Gar",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "sources": [
+          "Location:In lakes."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "sources": [
+          "North: Shadow in Pond, Jun-Sep (4pm-9am)",
+          "South: Shadow in Pond, Dec-Mar (4pm-9am)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "giant-isopod",
+    "name": "Giant Isopod",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 9000
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "giant-snakehead",
+    "name": "Giant Snakehead",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        },
+        "sources": [
+          "North: Shadows in Pond, Jun-Aug (9am-4pm)",
+          "South: Shadows in Pond, Dec-Feb (9am-4pm)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "giant-trevally",
+    "name": "Giant Trevally",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "North: Shadows at Pier, May-Sep (All Day)",
+          "South: Shadows at Pier, Nov-Mar (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "golden-trout",
+    "name": "Golden Trout",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        },
+        "sources": [
+          "Shadows in River Clifftop, Mar-May and Sep-Nov (4pm-9am)"
+        ]
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "goldfish",
+    "name": "Goldfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows in Pond, All Year (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        }
+      }
+    }
+  },
+  {
+    "id": "great-white-shark",
+    "name": "Great White Shark",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        },
+        "sources": [
+          "North: Shadows in Sea, Jun-Sep (4pm-9am)",
+          "South: Shadows in Sea, Dec-Mar (4pm-9am)"
+        ]
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "guppy",
+    "name": "Guppy",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        },
+        "sources": [
+          "North: Shadows in River, Apr-Nov (9am-4pm)",
+          "South: Shadows in River, Oct-May (9am-4pm)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "hammerhead-shark",
+    "name": "Hammerhead Shark",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8000
+        },
+        "sources": [
+          "North: Shadows in Sea, Jun-Sep (4pm-9am)",
+          "South: Shadows in Sea, Dec-Mar (4pm-9am)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "horse-mackerel",
+    "name": "Horse Mackerel",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows in Sea, All Year (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        }
+      }
+    }
+  },
+  {
+    "id": "horsehair-crab",
+    "name": "Horsehair Crab",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "horseshoe-crab",
+    "name": "Horseshoe Crab",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "killifish",
+    "name": "Killifish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "North: Shadows in pond, Apr-Aug (All Day)",
+          "South: Shadows in pond, Oct-Feb (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "king-salmon",
+    "name": "King Salmon",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "Sea (early September)/River (late September)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "North: Shadows in River Mouth, Sep (All Day)",
+          "North: Shadows in River Mouth, Mar (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "koi",
+    "name": "Koi",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows in Pond, All Year (4pm-9am)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    }
+  },
+  {
+    "id": "loach",
+    "name": "Loach",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Shadows on River, Mar-May (All Day)",
+          "South: Shadows on River, Sep-Nov (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        }
+      }
+    }
+  },
+  {
+    "id": "lobster",
+    "name": "Lobster",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "mahi-mahi",
+    "name": "Mahi-mahi",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "sources": [
+          "North: Shadows at Pier, May-Oct (All Day)",
+          "South: Shadows at Pier, Nov-Apr (All Day)"
+        ]
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "mantis-shrimp",
+    "name": "Mantis Shrimp",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1250
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "mitten-crab",
+    "name": "Mitten Crab",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "North: Shadows in River, Sep-Nov (4pm-9am)",
+          "North: Shadows in River, Mar-May (4pm-9am)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "moray-eel",
+    "name": "Moray Eel",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "North: Shadows in Sea, Aug-Oct (All Day)",
+          "South: Shadows in Sea, Feb-Apr (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "napoleonfish",
+    "name": "Napoleonfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "sources": [
+          "North: Shadows in Sea, Jul-Aug (4am-9pm)",
+          "South: Shadows in Sea, Jan-Feb (4am-9pm)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "neon-tetra",
+    "name": "Neon Tetra",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "North: Shadows in River, Apr-Nov (9am-4pm)",
+          "South: Shadows in River, Oct-May (9am-4pm)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "nibble-fish",
+    "name": "Nibble Fish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "North: Shadows in River, May-Sep (9am-4pm)",
+          "North: Shadows in River, Nov-Mar (9am-4pm)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "oarfish",
+    "name": "Oarfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 9000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Shadows in Sea, Dec-May (All Day)",
+          "South: Shadows in Sea, Jun-Nov (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 9000
+        }
+      }
+    }
+  },
+  {
+    "id": "ocean-sunfish",
+    "name": "Ocean Sunfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "North: Shadows in Sea, Jul-Sep (4am-9pm)",
+          "South: Shadows in Sea, Jan-Mar (4am-9pm)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "octopus",
+    "name": "Octopus",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "olive-flounder",
+    "name": "Olive Flounder",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows in Sea, All Year (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        }
+      }
+    }
+  },
+  {
+    "id": "oyster",
+    "name": "Oyster",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "pale-chub",
+    "name": "Pale Chub",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows on River, All Year (9am-4pm)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "pearl-oyster",
+    "name": "Pearl Oyster",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "pike",
+    "name": "Pike",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "North: Shadows on River, Sep-Dec (All Day)",
+          "South: Shadows on River, Mar-Jun (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "piranha",
+    "name": "Piranha",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "North: Shadows in River, Jun-Sep (9am-4pm and 9pm-4am)",
+          "South: Shadows in River, Dec-Mar (9am-4pm and 9pm-4am)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "pond-smelt",
+    "name": "Pond Smelt",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "North: Shadows on River, Dec-Feb (All Day)",
+          "South: Shadows on River, Jun-Aug (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "pop-eyed-goldfish",
+    "name": "Pop-eyed Goldfish",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows in Pond, All Year (9am-4pm)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        }
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "popeyed-goldfish",
+    "name": "Popeyed Goldfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        },
+        "sources": [
+          "In rivers."
+        ]
+      }
+    }
+  },
+  {
+    "id": "puffer-fish",
+    "name": "Puffer Fish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "North: Shadows in Sea, Jul-Sep (All Day)",
+          "South: Shadows in Sea, Jan-Mar (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rainbow-trout",
+    "name": "Rainbow Trout",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "In rivers."
+        ]
+      }
+    }
+  },
+  {
+    "id": "rainbowfish",
+    "name": "Rainbowfish",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "North: Shadows in River, May-Oct (9am-4pm)",
+          "South: Shadows in River, Nov-Apr (9am-4pm)"
+        ]
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "ranchu-goldfish",
+    "name": "Ranchu Goldfish",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Shadows in Pond, All Year (9am-4pm)"
+        ]
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "ray",
+    "name": "Ray",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "North: Shadows in Sea, Aug-Nov (4am-9pm)",
+          "South: Shadows in Sea, Feb-May (4am-9pm)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-king-crab",
+    "name": "Red King Crab",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-snapper",
+    "name": "Red Snapper",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows in Sea, All Year (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    }
+  },
+  {
+    "id": "ribbon-eel",
+    "name": "Ribbon Eel",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "North: Shadows in Sea, Jun-Oct (All Day)",
+          "North: Shadows in Sea, Dec-Apr (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "saddled-bichir",
+    "name": "Saddled Bichir",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "North: Shadows in River, Jun-Sep (9pm-4am)",
+          "North: Shadows in River, Dec-Mar (9pm-4am)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "salmon",
+    "name": "Salmon",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 700
+        },
+        "sources": [
+          "Sea (early September)/River (late September)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 700
+        },
+        "sources": [
+          "North: Shadows in River Mouth, Sep (All Day)",
+          "South: Shadows in River Mouth, Mar (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "saw-shark",
+    "name": "Saw Shark",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 12000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 12000
+        },
+        "sources": [
+          "North: Shadows in Sea, Jun-Sep (4pm-9am)",
+          "South: Shadows in Sea, Dec-Mar (4pm-9am)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "scallop",
+    "name": "Scallop",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "sea-anemone",
+    "name": "Sea Anemone",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "sea-bass",
+    "name": "Sea Bass",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shadows in Sea, All Year (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        }
+      }
+    }
+  },
+  {
+    "id": "sea-butterfly",
+    "name": "Sea Butterfly",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Shadows in Sea, Dec-Mar (All Day)",
+          "South: Shadows in Sea, Jun-Sep (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    }
+  },
+  {
+    "id": "sea-cucumber",
+    "name": "Sea Cucumber",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "sea-grapes",
+    "name": "Sea Grapes",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "sea-horse",
+    "name": "Sea Horse",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1100
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1100
+        },
+        "sources": [
+          "North: Shadows in Sea, Apr-Nov (All Day)",
+          "South: Shadows in Sea, Oct-May (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sea-slug",
+    "name": "Sea Slug",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "sea-star",
+    "name": "Sea Star",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "sea-urchin",
+    "name": "Sea Urchin",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "seaweed",
+    "name": "Seaweed",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "shark",
+    "name": "Shark",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "snapping-turtle",
+    "name": "Snapping Turtle",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "sources": [
+          "North: Shadows on River, Apr-Oct (9pm-4am)",
+          "South: Shadows on River, Oct-Apr (9pm-4am)"
+        ]
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "snow-crab",
+    "name": "Snow Crab",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "soft-shelled-turtle",
+    "name": "Soft-shelled Turtle",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3750
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3750
+        },
+        "sources": [
+          "North: Shadows on River, Aug-Sep (4pm-9am)",
+          "South: Shadows on River, Feb-Mar (4pm-9am)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "spider-crab",
+    "name": "Spider Crab",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "spiny-lobster",
+    "name": "Spiny Lobster",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "spotted-garden-eel",
+    "name": "Spotted Garden Eel",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "squid",
+    "name": "Squid",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Shadows in Sea, Dec-Aug (All Day)",
+          "South: Shadows in Sea, Jun-Feb (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    }
+  },
+  {
+    "id": "stringfish",
+    "name": "Stringfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        },
+        "sources": [
+          "North: Shadows on Rivers Clifftop, Dec-Mar (4pm-9am)",
+          "South: Shadows on Rivers Clifftop, Jun-Sep (4pm-9am)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sturgeon",
+    "name": "Sturgeon",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Shadows in River Mouth, Sep-Mar (All Day)",
+          "South: Shadows in River Mouth, Mar-Sep (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        }
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "suckerfish",
+    "name": "Suckerfish",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "North: Shadows in Sea, Jun-Sep (All Day)",
+          "South: Shadows in Sea, Dec-Mar (All Day)"
+        ]
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "surgeonfish",
+    "name": "Surgeonfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "North: Shadows in Sea, Apr-Sep (All Day)",
+          "South: Shadows in Sea, Oct-Mar (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sweet-shrimp",
+    "name": "Sweet Shrimp",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 650
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "sweetfish",
+    "name": "Sweetfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "North: Shadows on River, Jul-Sep (All Day)",
+          "South: Shadows on River, Dec-Mar (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tadpole",
+    "name": "Tadpole",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Shadows in Pond, Mar-Jul (All Day)",
+          "South: Shadows in Pond, Sep-Jan (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        }
+      }
+    }
+  },
+  {
+    "id": "tiger-prawn",
+    "name": "Tiger Prawn",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "tilapia",
+    "name": "Tilapia",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "North: Shadows on River, Jun-Oct (All Day)",
+          "South: Shadows on River, Dec-Apr (All Day)"
+        ]
+      }
+    },
+    "category": "Fish"
+  },
+  {
+    "id": "tuna",
+    "name": "Tuna",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Shadows at Pier, Nov-Apr (All Day)",
+          "South: Shadows at Pier, May-Oct (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7000
+        }
+      }
+    }
+  },
+  {
+    "id": "turban-shell",
+    "name": "Turban Shell",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "In the deep sea."
+        ]
+      }
+    }
+  },
+  {
+    "id": "whale-shark",
+    "name": "Whale Shark",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 13000
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 13000
+        },
+        "sources": [
+          "North: Shadows in Sea, Jun-Sep (All Day)",
+          "South: Shadows in Sea, Dec-Mar (All Day)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-perch",
+    "name": "Yellow Perch",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "sources": [
+          "In rivers."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "North: Shadows on River, Oct-Mar (All Day)",
+          "South: Shadows on River, Apr-Sep (All Day)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        }
+      }
+    }
+  },
+  {
+    "id": "zebra-turkeyfish",
+    "name": "Zebra Turkeyfish",
+    "category": "Fish",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "In the sea."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "North: Shadows in Sea, Apr-Nov (All Day)",
+          "South: Shadows in Sea, Oct-May (All Day)"
+        ]
+      }
+    }
+  }
+]

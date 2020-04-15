@@ -1,0 +1,154 @@
+[
+  {
+    "id": "black-wet-suit",
+    "name": "Black Wet Suit",
+    "category": "Wetsuits",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-wet-suit",
+    "name": "Blue Wet Suit",
+    "category": "Wetsuits",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-wet-suit",
+    "name": "Green Wet Suit",
+    "category": "Wetsuits",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "orange-wet-suit",
+    "name": "Orange Wet Suit",
+    "category": "Wetsuits",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Island Gift Shop (rare)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-wet-suit",
+    "name": "Pink Wet Suit",
+    "category": "Wetsuits",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Island Gift Shop (rare)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-wet-suit",
+    "name": "Red Wet Suit",
+    "category": "Wetsuits",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Island Gift Shop (Club Tortimer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "striped-wet-suit",
+    "name": "Striped Wet Suit",
+    "category": "Wetsuits",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Island Gift Shop (Club Tortimer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-wet-suit",
+    "name": "White Wet Suit",
+    "category": "Wetsuits",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Island Gift Shop (Club Tortimer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  }
+]

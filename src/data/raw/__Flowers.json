@@ -1,0 +1,1923 @@
+[
+  {
+    "id": "black-cosmos",
+    "name": "Black Cosmos",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "sources": [
+          "Hybrid - From two Orange Cosmos (rare)."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        }
+      }
+    }
+  },
+  {
+    "id": "black-lilies",
+    "name": "Black Lilies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "black-lily",
+    "name": "Black Lily",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From two Red Lilys."
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-rose",
+    "name": "Black Rose",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "sources": [
+          "Hybrid - From two Red Roses."
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-roses",
+    "name": "Black Roses",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "black-tulip",
+    "name": "Black Tulip",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "sources": [
+          "Hybrid - From two Red Tulips."
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-tulips",
+    "name": "Black Tulips",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "blue-hyacinths",
+    "name": "Blue Hyacinths",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "blue-pansies",
+    "name": "Blue Pansies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "blue-pansy",
+    "name": "Blue Pansy",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "sources": [
+          "Hybrid - From Two White Pansy."
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-rose",
+    "name": "Blue Rose",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Hybrid - From two Red Roses that are offsprings of an Orange and Purple cross."
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-roses",
+    "name": "Blue Roses",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "blue-violet",
+    "name": "Blue Violet",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From Purple and White Violets."
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-windflowers",
+    "name": "Blue Windflowers",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "dandelion-puff",
+    "name": "Dandelion Puff",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Withered dandelion"
+        ]
+      }
+    }
+  },
+  {
+    "id": "dandelion",
+    "name": "Dandelion",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Town weeds"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gold-rose",
+    "name": "Gold Rose",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Hybrid - Have a black Rose wilt",
+          "and water with a Golden watering can."
+        ]
+      }
+    }
+  },
+  {
+    "id": "gold-roses",
+    "name": "Gold Roses",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "green-mums",
+    "name": "Green Mums",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "jacobs-ladder",
+    "name": "Jacob's Ladder",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Perfect Town"
+        ]
+      }
+    }
+  },
+  {
+    "id": "lucky-clover",
+    "name": "Lucky Clover",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Town weeds"
+        ]
+      }
+    }
+  },
+  {
+    "id": "orange-cosmos",
+    "name": "Orange Cosmos",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From Red and Yellow Cosmos."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    }
+  },
+  {
+    "id": "orange-hyacinths",
+    "name": "Orange Hyacinths",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "orange-lilies",
+    "name": "Orange Lilies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "orange-lily",
+    "name": "Orange Lily",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From Yellow and Red Lily."
+        ]
+      }
+    }
+  },
+  {
+    "id": "orange-pansies",
+    "name": "Orange Pansies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "orange-pansy",
+    "name": "Orange Pansy",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From Red and Yellow Pansy."
+        ]
+      }
+    }
+  },
+  {
+    "id": "orange-rose",
+    "name": "Orange Rose",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From Red and Yellow Roses."
+        ]
+      }
+    }
+  },
+  {
+    "id": "orange-roses",
+    "name": "Orange Roses",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "orange-tulip",
+    "name": "Orange Tulip",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "sources": [
+          "Hybrid - From Red and Yellow tulips."
+        ]
+      }
+    }
+  },
+  {
+    "id": "orange-tulips",
+    "name": "Orange Tulips",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "orange-windflowers",
+    "name": "Orange Windflowers",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "pink-carnation",
+    "name": "Pink Carnation",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Mom on Mother's Day."
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-cosmos",
+    "name": "Pink Cosmos",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From Red and White Cosmos."
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    }
+  },
+  {
+    "id": "pink-hyacinths",
+    "name": "Pink Hyacinths",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "pink-lilies",
+    "name": "Pink Lilies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "pink-lily",
+    "name": "Pink Lily",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From White and Red Lily."
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-mums",
+    "name": "Pink Mums",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "pink-rose",
+    "name": "Pink Rose",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From Red and White Roses."
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-roses",
+    "name": "Pink Roses",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "pink-tulip",
+    "name": "Pink Tulip",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From Red and White tulips."
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-tulips",
+    "name": "Pink Tulips",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "pink-windflowers",
+    "name": "Pink Windflowers",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "purple-hyacinths",
+    "name": "Purple Hyacinths",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "purple-mums",
+    "name": "Purple Mums",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "purple-pansies",
+    "name": "Purple Pansies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "purple-pansy",
+    "name": "Purple Pansy",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - Two Red Pansys"
+        ]
+      }
+    }
+  },
+  {
+    "id": "purple-rose",
+    "name": "Purple Rose",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "sources": [
+          "Hybrid - From two White Roses."
+        ]
+      }
+    }
+  },
+  {
+    "id": "purple-roses",
+    "name": "Purple Roses",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "purple-tulip",
+    "name": "Purple Tulip",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Hybrid - From Black and Pink tulips."
+        ]
+      }
+    }
+  },
+  {
+    "id": "purple-tulips",
+    "name": "Purple Tulips",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "purple-violet",
+    "name": "Purple Violet",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ]
+      }
+    }
+  },
+  {
+    "id": "purple-windflowers",
+    "name": "Purple Windflowers",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground at mystery island",
+          "crossbreeding flowers"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        }
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "red-carnation",
+    "name": "Red Carnation",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Dad on Father's Day."
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-cosmos",
+    "name": "Red Cosmos",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-hyacinths",
+    "name": "Red Hyacinths",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "red-lilies",
+    "name": "Red Lilies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "red-lily",
+    "name": "Red Lily",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-mums",
+    "name": "Red Mums",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "red-pansies",
+    "name": "Red Pansies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "red-pansy",
+    "name": "Red Pansy",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-rose",
+    "name": "Red Rose",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-roses",
+    "name": "Red Roses",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "red-tulip",
+    "name": "Red Tulip",
+    "category": "Flowers",
+    "games": {
+      "nh": {
+        "sources": [
+          "Pick from flower which regrows (speculated)"
+        ]
+      },
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-tulips",
+    "name": "Red Tulips",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "red-windflowers",
+    "name": "Red Windflowers",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "white-carnation",
+    "name": "White Carnation",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "Hybrid - From Red and Pink Carnation."
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-cosmos",
+    "name": "White Cosmos",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-hyacinths",
+    "name": "White Hyacinths",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "white-lilies",
+    "name": "White Lilies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "white-lily",
+    "name": "White Lily",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-mums",
+    "name": "White Mums",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "white-pansies",
+    "name": "White Pansies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "white-pansy",
+    "name": "White Pansy",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-rose",
+    "name": "White Rose",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-roses",
+    "name": "White Roses",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "white-tulip",
+    "name": "White Tulip",
+    "category": "Flowers",
+    "games": {
+      "nh": {
+        "sources": [
+          "Pick from flower which regrows (speculated)"
+        ]
+      },
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-tulips",
+    "name": "White Tulips",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "white-violet",
+    "name": "White Violet",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-windflowers",
+    "name": "White Windflowers",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "yellow-cosmos",
+    "name": "Yellow Cosmos",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-hyacinths",
+    "name": "Yellow Hyacinths",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "yellow-lilies",
+    "name": "Yellow Lilies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "yellow-lily",
+    "name": "Yellow Lily",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-mums",
+    "name": "Yellow Mums",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "yellow-pansies",
+    "name": "Yellow Pansies",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "yellow-pansy",
+    "name": "Yellow Pansy",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-rose",
+    "name": "Yellow Rose",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-roses",
+    "name": "Yellow Roses",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "yellow-tulip",
+    "name": "Yellow Tulip",
+    "category": "Flowers",
+    "games": {
+      "nh": {
+        "sources": [
+          "Pick from flower which regrows (speculated)"
+        ]
+      },
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-tulips",
+    "name": "Yellow Tulips",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Find on ground",
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    },
+    "category": "Flowers"
+  },
+  {
+    "id": "yellow-violet",
+    "name": "Yellow Violet",
+    "category": "Flowers",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Gardening Store"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  }
+]

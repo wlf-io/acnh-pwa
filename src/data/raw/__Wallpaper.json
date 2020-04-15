@@ -1,0 +1,8529 @@
+[
+  {
+    "id": "abstract-wall",
+    "name": "Abstract Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "alpine-wall",
+    "name": "Alpine Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "set": "Alpine",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ancient-wall",
+    "name": "Ancient Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2300
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "apple-wall",
+    "name": "Apple Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 16000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "aqua-tile-wall",
+    "name": "Aqua Tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 355
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1420
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "arched-window-wall",
+    "name": "Arched-window Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 537
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2150
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "arched-window",
+    "name": "Arched Window",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 538
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2152
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "astro-wall",
+    "name": "Astro Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "set": "Astro",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 530
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2120
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "autumn-wall",
+    "name": "Autumn Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4700
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 18800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "backgammon-wall",
+    "name": "Backgammon Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "backyard-fence-wall",
+    "name": "Backyard-fence Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "backyard-fence",
+    "name": "Backyard Fence",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "set": "Mossy Garden",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "maggie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "balloon-wall",
+    "name": "Balloon Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Balloon",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "sources": [
+          "Gift balloon"
+        ]
+      }
+    }
+  },
+  {
+    "id": "bamboo-grove-wall",
+    "name": "Bamboo-grove Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "boots"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4300
+        },
+        "recipe": {
+          "young-spring-bamboo": 7,
+          "bamboo-shoot": 3
+        }
+      }
+    }
+  },
+  {
+    "id": "bamboo-screen-wall",
+    "name": "Bamboo-screen Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 442
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1770
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "bamboo-wall",
+    "name": "Bamboo Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 288
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1152
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 9600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bank-vault-wall",
+    "name": "Bank-vault Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "basement-wall",
+    "name": "Basement Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1875
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "basic-wall",
+    "name": "Basic Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "louie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bathhouse-wall",
+    "name": "Bathhouse Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "set": "Spa",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "beaded-curtain-wall",
+    "name": "Beaded-curtain Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 430
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1720
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "beige-art-deco-wall",
+    "name": "Beige Art-deco Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 695
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2780
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "beige-blossoming-wall",
+    "name": "Beige Blossoming Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 440
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1760
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "beige-desert-tile-wall",
+    "name": "Beige Desert-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 610
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2440
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "black-botanical-tile-wall",
+    "name": "Black Botanical-tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 310
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1240
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "black-brick-wall",
+    "name": "Black-brick Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "black-crown-wall",
+    "name": "Black-crown Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 587
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2350
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "black-hallway-wall",
+    "name": "Black Hallway Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "black-perforated-board-wall",
+    "name": "Black Perforated-board Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 295
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1180
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "black-two-toned-tile-wall",
+    "name": "Black Two-toned Tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 462
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1850
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blackboard-wall",
+    "name": "Blackboard Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-blossoming-wall",
+    "name": "Blue Blossoming Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 440
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1760
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-camo-wall",
+    "name": "Blue Camo Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 287
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1150
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-crown-wall",
+    "name": "Blue-crown Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 587
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2350
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-delicate-blooms-wall",
+    "name": "Blue Delicate-blooms Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 475
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1900
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-desert-tile-wall",
+    "name": "Blue Desert-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 610
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2440
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-diner-wall",
+    "name": "Blue Diner Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 605
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2420
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-flower-print-wall",
+    "name": "Blue Flower-print Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 445
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1780
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-heart-pattern-wall",
+    "name": "Blue Heart-pattern Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-honeycomb-tile-wall",
+    "name": "Blue Honeycomb-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-intricate-wall",
+    "name": "Blue Intricate Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 392
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1570
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-molded-panel-wall",
+    "name": "Blue Molded-panel Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 495
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1980
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-paint-wall",
+    "name": "Blue-paint Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-painted-wood-wall",
+    "name": "Blue Painted-wood Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 412
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1650
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-playroom-wall",
+    "name": "Blue Playroom Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 635
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2540
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-quilt-wall",
+    "name": "Blue Quilt Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 537
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2150
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-rose-wall",
+    "name": "Blue-rose Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 430
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1720
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-shanty-wall",
+    "name": "Blue Shanty Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 155
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 620
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-simple-cloth-wall",
+    "name": "Blue Simple-cloth Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-striped-wall",
+    "name": "Blue-striped Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1520
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-subway-tile-wall",
+    "name": "Blue Subway-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 335
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1340
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-tarp",
+    "name": "Blue Tarp",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "set": "Construction",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1400
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "boyd"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-tile-wall",
+    "name": "Blue Tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 355
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1420
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-trim-wall",
+    "name": "Blue-trim Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 355
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-two-toned-tile-wall",
+    "name": "Blue Two-toned Tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 462
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1850
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "blue-wall",
+    "name": "Blue Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "set": "Blue",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 315
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "sylvana"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1260
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "botanical-tile-wall",
+    "name": "Botanical-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 310
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1240
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "brown-botanical-tile-wall",
+    "name": "Brown Botanical-tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 310
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1240
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "brown-brick-wall",
+    "name": "Brown-brick Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "brown-crown-wall",
+    "name": "Brown-crown Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 587
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2350
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "brown-diner-wall",
+    "name": "Brown Diner Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 605
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2420
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "brown-hallway-wall",
+    "name": "Brown Hallway Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "brown-herringbone-wall",
+    "name": "Brown Herringbone Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "brown-shanty-wall",
+    "name": "Brown Shanty Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 155
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 620
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "bunny-day-wall",
+    "name": "Bunny Day Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4800
+        },
+        "recipe": {
+          "earth-egg": 2,
+          "stone-egg": 2,
+          "leaf-egg": 2,
+          "wood-egg": 2,
+          "sky-egg": 2,
+          "water-egg": 2
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "butterflies-wall",
+    "name": "Butterflies Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 840
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3360
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "butterfly-wall",
+    "name": "Butterfly Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Insect",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Bug Off"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cabana-wall",
+    "name": "Cabana Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "set": "Cabana",
+        "sources": [
+          "Island Gift Shop (rare)"
+        ],
+        "rvs": [
+          "kappn",
+          "tybalt"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cabin-wall",
+    "name": "Cabin Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "set": "Cabin",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "cyrus"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cafe-curtain-wall",
+    "name": "Café-curtain Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "ellie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "camo-wall",
+    "name": "Camo Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 287
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1150
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "card-wall",
+    "name": "Card Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Card",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 49000
+        },
+        "sources": [
+          "GracieGrace (summer",
+          "during sales)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "chain-link-fence",
+    "name": "Chain-link Fence",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "buzz",
+          "stu"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cheese-wall",
+    "name": "Cheese Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 340
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cherry-blossom-trees-wall",
+    "name": "Cherry-blossom-trees Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 18400
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "cherry-wall",
+    "name": "Cherry Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 16000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "chic-tearoom-wall",
+    "name": "Chic Tearoom Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 437
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1750
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "chic-wall",
+    "name": "Chic Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 490
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1960
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 490
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1960
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "chocolate-hallway-wall",
+    "name": "Chocolate Hallway Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "chocolate-herringbone-wall",
+    "name": "Chocolate Herringbone Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "cinnamoroll-wall",
+    "name": "Cinnamoroll Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "chai"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "circuit-board-wall",
+    "name": "Circuit-board Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "citrus-wall",
+    "name": "Citrus Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cityscape-wall",
+    "name": "Cityscape Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "piper"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "classic-library-wall",
+    "name": "Classic-library Wall",
+    "games": {
+      "nh": {
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5800
+          }
+        ],
+        "recipe": {
+          "book": 10
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "classic-wall",
+    "name": "Classic Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "set": "Classic",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "classroom-wall",
+    "name": "Classroom Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi"
+        ],
+        "set": "Classroom",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "leopold"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "colorful-puzzle-wall",
+    "name": "Colorful Puzzle Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "colorful-tile-wall",
+    "name": "Colorful-tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 355
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1420
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "common-wall",
+    "name": "Common Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 310
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1240
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "concrete-wall",
+    "name": "Concrete Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Sci-Fi",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "spike",
+          "wendell"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 235
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 940
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "construction-site-wall",
+    "name": "Construction-site Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "convenient-wall",
+    "name": "Convenient Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "filly"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "creepy-wall",
+    "name": "Creepy Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Jack (Halloween)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "crepe-design-wall",
+    "name": "Crepe-design Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 387
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1550
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "cute-blue-wall",
+    "name": "Cute Blue Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 470
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1880
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "cute-red-wall",
+    "name": "Cute Red Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 470
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1880
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "cute-white-wall",
+    "name": "Cute White Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 470
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1880
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "cute-yellow-wall",
+    "name": "Cute Yellow Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 470
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1880
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "dark-chocolate-wall",
+    "name": "Dark-chocolate Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "dark-wooden-mosaic-wall",
+    "name": "Dark Wooden-mosaic Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "recipe": {
+          "wood": 15
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "desert-vista",
+    "name": "Desert Vista",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2250
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dig-site-wall",
+    "name": "Dig-site Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Museum Shop (complete the fossil exhibit)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dirt-clod-wall",
+    "name": "Dirt-clod Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "hornsby"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dojo-wall",
+    "name": "Dojo Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "dotted-wall",
+    "name": "Dotted Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Polka-dot",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 460
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1840
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dungeon-wall",
+    "name": "Dungeon Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "egg-wall",
+    "name": "Egg Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Egg",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8888
+        },
+        "sources": [
+          "Zipper T. Bunny (Bunny Day)"
+        ],
+        "rvs": [
+          "zipper-t-bunny"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "exhibit-room-wall",
+    "name": "Exhibit-room Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Museum Shop"
+        ]
+      }
+    }
+  },
+  {
+    "id": "exotic-wall",
+    "name": "Exotic Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Rustic"
+        ],
+        "set": "Exotic",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 355
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "exquisite-wall",
+    "name": "Exquisite Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 368
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1472
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "floral-wall",
+    "name": "Floral Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 563
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "tasha"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2252
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flower-pop-wall",
+    "name": "Flower Pop Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "forest-wall",
+    "name": "Forest Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "set": "Mush",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 0
+        },
+        "sources": [
+          "Pick mushrooms during November"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 44000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 176000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fruit-panel-wall",
+    "name": "Fruit-panel Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "sources": [
+          "Play more Story Mode in Puzzle League"
+        ]
+      }
+    }
+  },
+  {
+    "id": "fueki-wall",
+    "name": "Fueki Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "holden"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "future-tech-wall",
+    "name": "Future-tech Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "garbage-heap-wall",
+    "name": "Garbage-heap Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "recipe": {
+          "empty-can": 2,
+          "boot": 2,
+          "old-tire": 2
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "garden-wall",
+    "name": "Garden Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gold-screen-wall",
+    "name": "Gold Screen Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 545
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2180
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 20750
+        },
+        "recipe": {
+          "gold-nugget": 2,
+          "screen-wall": 1
+        }
+      }
+    }
+  },
+  {
+    "id": "golden-wall",
+    "name": "Golden Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "set": "Golden",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gorgeous-wall",
+    "name": "Gorgeous Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Gorgeous",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 31000
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gracie-wallpaper",
+    "name": "Gracie Wallpaper",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Gracie",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 31000
+        },
+        "sources": [
+          "GracieGrace (summer)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gray-diner-wall",
+    "name": "Gray Diner Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 605
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2420
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "gray-molded-panel-wall",
+    "name": "Gray Molded-panel Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 495
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1980
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "gray-shanty-wall",
+    "name": "Gray Shanty Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 155
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 620
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "gray-striped-wall",
+    "name": "Gray-striped Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1520
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "gray-struped-wall",
+    "name": "Gray-struped Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1520
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "green-blossoming-wall",
+    "name": "Green Blossoming Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 440
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1760
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "green-delicate-blooms-wall",
+    "name": "Green Delicate-blooms Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 475
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1900
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "green-flower-print-wall",
+    "name": "Green Flower-print Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 445
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1780
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "green-honeycomb-tile-wall",
+    "name": "Green Honeycomb-tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "green-intricate-wall",
+    "name": "Green Intricate Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 392
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1570
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "green-molded-panel-wall",
+    "name": "Green Molded-panel Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 495
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1980
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "green-paint-wall",
+    "name": "Green-paint Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "green-painted-wood-wall",
+    "name": "Green Painted-wood Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 412
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1650
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "green-playroom-wall",
+    "name": "Green Playroom Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 635
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2540
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "green-wall",
+    "name": "Green Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "set": "Green",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 263
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "bea",
+          "isabelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1052
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "groovy-wall",
+    "name": "Groovy Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hallway-wall",
+    "name": "Hallway Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "boris",
+          "gonzo"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "harmonious-wall",
+    "name": "Harmonious Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 445
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1780
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "harvest-wall",
+    "name": "Harvest Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Harvest",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 834
+        },
+        "sources": [
+          "Nookling stores (11/1 through Harvest Festival)"
+        ],
+        "rvs": [
+          "franklin"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3336
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "heavy-curtain-wall",
+    "name": "Heavy-curtain Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "hello-kitty-wall",
+    "name": "Hello Kitty Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "rilla"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "honeycomb-tile-wall",
+    "name": "Honeycomb-tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "honeycomb-wall",
+    "name": "Honeycomb Wall",
+    "games": {
+      "nh": {
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 14400
+          }
+        ],
+        "recipe": {
+          "wasp-nest": 6
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "hyrule-wall",
+    "name": "Hyrule Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "epona",
+          "ganon",
+          "medli",
+          "wolf-link"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ice-wall",
+    "name": "Ice Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Ice",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8888
+        },
+        "sources": [
+          "Snowmam"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 32800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "iceberg-wall",
+    "name": "Iceberg Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 16000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "illusion-wall",
+    "name": "Illusion Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 340
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "imperial-wall",
+    "name": "Imperial Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 665
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2660
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "industrial-wall",
+    "name": "Industrial Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ink-splattered-wall",
+    "name": "Ink-splattered Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "inkwell"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "inkopolis-wall",
+    "name": "Inkopolis Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "cece",
+          "viche"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ivy-wall",
+    "name": "Ivy Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 313
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "ketchup"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1252
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "jingle-wall",
+    "name": "Jingle Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Jingle",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1224
+        },
+        "sources": [
+          "Nookling stores (12/1 through 12/23)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4896
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 10000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "jungle-wall",
+    "name": "Jungle Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Museum Shop (complete the insects exhibit)"
+        ],
+        "rvs": [
+          "nat"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5520
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kerokerokeroppi-wall",
+    "name": "Kerokerokeroppi Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "toby"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kiddie-wall",
+    "name": "Kiddie Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Kiddie",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "hopkins"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kiki-and-lala-wall",
+    "name": "Kiki And Lala Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "etoile"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kisses-wall",
+    "name": "Kisses Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "kitchen-wall",
+    "name": "Kitchen Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "cashmere"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kitschy-wall",
+    "name": "Kitschy Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 310
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lab-wall",
+    "name": "Lab Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Sci-Fi"
+        ],
+        "set": "Mad Scientist",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 365
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "murphy"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1460
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "laboratory-wall",
+    "name": "Laboratory Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "lattice-wall",
+    "name": "Lattice Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 445
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1780
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 445
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1780
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "library-wall",
+    "name": "Library Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "blathers",
+          "dobie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lovely-wall",
+    "name": "Lovely Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Lovely",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 470
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1880
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lunar-horizon",
+    "name": "Lunar Horizon",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi"
+        ],
+        "set": "Space",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1900
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "celeste",
+          "villager"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "magma-cavern-wall",
+    "name": "Magma-cavern Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "felyne"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "manga-library-wall",
+    "name": "Manga-library Wall",
+    "games": {
+      "nh": {
+        "sources": [
+          "Balloon (recipe)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1050
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4200
+          }
+        ],
+        "recipe": {
+          "magazine": 10
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "mangrove-wall",
+    "name": "Mangrove Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "manor-wall",
+    "name": "Manor Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 263
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1052
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "marine-pop-wall",
+    "name": "Marine Pop Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 410
+        },
+        "sources": [
+          "Fishing Tourney"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 805
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3220
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "maze-wall",
+    "name": "Maze Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "meadow-vista",
+    "name": "Meadow Vista",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "booker",
+          "maddie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mermaid-wall",
+    "name": "Mermaid Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Mermaid",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "misty-garden-wall",
+    "name": "Misty-garden Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "mod-wall",
+    "name": "Mod Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 305
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1220
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "modern-screen",
+    "name": "Modern Screen",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Rustic",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 288
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "wade"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1152
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "modern-shoji-screen-wall",
+    "name": "Modern Shoji-screen Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 287
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1150
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "modern-tearoom-wall",
+    "name": "Modern Tearoom Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 437
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1750
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "modern-wall",
+    "name": "Modern Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Modern",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 363
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "digby",
+          "raddle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1452
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "modern-wood-wall",
+    "name": "Modern Wood Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic",
+          "Trendy"
+        ],
+        "set": "Modern Wood",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "sandy"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "monochromatic-dotted-wall",
+    "name": "Monochromatic Dotted Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "monochromatic-tile-wall",
+    "name": "Monochromatic-tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 355
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1420
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "mortar-wall",
+    "name": "Mortar Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1750
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mosaic-tile-wall",
+    "name": "Mosaic-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 362
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1450
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "mosaic-wall",
+    "name": "Mosaic Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "bitty"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mossy-garden-wall",
+    "name": "Mossy-garden Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "museum-wall",
+    "name": "Museum Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Museum Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mush-wall",
+    "name": "Mush Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 21400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 85600
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "mushroom-mural",
+    "name": "Mushroom Mural",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Mario",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "sources": [
+          "Fortune cookie #1"
+        ]
+      }
+    }
+  },
+  {
+    "id": "music-room-wall",
+    "name": "Music-room Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "copper",
+          "weber"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "my-melody-wall",
+    "name": "My Melody Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "chelsea"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "neutral-wall",
+    "name": "Neutral Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Minimalist",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "candi"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "nook-inc-wall",
+    "name": "Nook Inc. Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Miles System"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "buyPrices": [
+          {
+            "currency": "miles",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "notebook-wall",
+    "name": "Notebook Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5940
+        },
+        "sources": [
+          "DLC (JP)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 23760
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ocean-horizon-wall",
+    "name": "Ocean-horizon Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sources": [
+          "Unlock intermediate levels in Desert Island Escape"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "office-wall",
+    "name": "Office Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1750
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "cleo",
+          "tom-nook"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "old-brick-wall",
+    "name": "Old Brick Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "old-wallpaper",
+    "name": "Old Wallpaper",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Halloween (Neighbor trick)"
+        ],
+        "rvs": [
+          "jacob",
+          "resetti"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "olive-desert-tile-wall",
+    "name": "Olive Desert-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 610
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2440
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "orange-camo-wall",
+    "name": "Orange Camo Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 287
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1150
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "orange-molded-panel-wall",
+    "name": "Orange Molded-panel Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 495
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1980
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "orange-paint-wall",
+    "name": "Orange-paint Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "orange-wall",
+    "name": "Orange Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 16000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "ornate-wall",
+    "name": "Ornate Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 395
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1580
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "paintball-wall",
+    "name": "Paintball Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Museum Shop (complete the art exhibit)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "palace-wall",
+    "name": "Palace Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "parlor-wall",
+    "name": "Parlor Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "reese"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "party-wall",
+    "name": "Party Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 340
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "jingle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1360
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pastel-dot-wall",
+    "name": "Pastel-dot Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pastel-dotted-wall",
+    "name": "Pastel Dotted Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pastel-puzzle-wall",
+    "name": "Pastel Puzzle Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pave-wall",
+    "name": "Pavé Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Pavé",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "Pavé (Festivale)"
+        ],
+        "rvs": [
+          "pave"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "paw-print-wall",
+    "name": "Paw-print Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "peach-two-toned-tile-wall",
+    "name": "Peach Two-toned Tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 462
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1850
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "peach-wall",
+    "name": "Peach Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 16000
+          }
+        ],
+        "recipe": {
+          "peach": 20
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pear-wall",
+    "name": "Pear Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "recipe": {
+          "pear": 20
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "perforated-board-wall",
+    "name": "Perforated-board Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 295
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1180
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-blossoming-wall",
+    "name": "Pink Blossoming Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 440
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1760
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-crown-wall",
+    "name": "Pink-crown Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 587
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2350
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-diner-wall",
+    "name": "Pink Diner Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 605
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2420
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-flower-print-wall",
+    "name": "Pink Flower-print Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 445
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1780
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-heart-pattern-wall",
+    "name": "Pink Heart-pattern Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-painted-wood-wall",
+    "name": "Pink Painted-wood Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 412
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1650
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-playroom-wall",
+    "name": "Pink Playroom Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 635
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2540
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-quilt-wall",
+    "name": "Pink Quilt Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 537
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2150
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-shanty-wall",
+    "name": "Pink Shanty Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 155
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 620
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-simple-cloth-wall",
+    "name": "Pink Simple-cloth Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "pink-striped-wall",
+    "name": "Pink-striped Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1520
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "plaster-wall",
+    "name": "Plaster Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "timmy-tommy"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "playroom-wall",
+    "name": "Playroom Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Nursery",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "carrie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "plaza-wall",
+    "name": "Plaza Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 490
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1960
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "polka-dot-wall",
+    "name": "Polka-dot Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "lottie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pompompurin-wall",
+    "name": "Pompompurin Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "marty"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "princess-wall",
+    "name": "Princess Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Princess",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 31000
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 124000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "purple-camo-wall",
+    "name": "Purple Camo Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 287
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1150
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "purple-desert-tile-wall",
+    "name": "Purple Desert-tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 610
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2440
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "purple-dotted-wall",
+    "name": "Purple Dotted Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "purple-puzzle-wall",
+    "name": "Purple Puzzle Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "purple-quilt-wall",
+    "name": "Purple Quilt Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 537
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2150
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "purple-rose-wall",
+    "name": "Purple-rose Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 430
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1720
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "rammed-earth-wall",
+    "name": "Rammed-earth Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "ramshackle-wall",
+    "name": "Ramshackle Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ranch-wall",
+    "name": "Ranch Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "set": "Ranch",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 363
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "mabel"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1452
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-art-deco-wall",
+    "name": "Red Art-deco Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 695
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2780
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "red-brick-wall",
+    "name": "Red-brick Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "red-delicate-blooms-wall",
+    "name": "Red Delicate-blooms Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 475
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1900
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "red-dotted-wall",
+    "name": "Red Dotted Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "red-heart-pattern-wall",
+    "name": "Red Heart-pattern Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "red-intricate-wall",
+    "name": "Red Intricate Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 392
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1570
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "red-perforated-board-wall",
+    "name": "Red Perforated-board Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 295
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1180
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "red-tile-wall",
+    "name": "Red Tile Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-two-toned-tile-wall",
+    "name": "Red Two-toned Tile Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 462
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1850
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "regal-wall",
+    "name": "Regal Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale"
+        ],
+        "set": "Regal",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "billy"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "retro-flower-print-wall",
+    "name": "Retro Flower-print Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 415
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1660
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "rice-paddy-wall",
+    "name": "Rice-paddy Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "tad"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ringside-seating",
+    "name": "Ringside Seating",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Boxing",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2250
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "robo-wall",
+    "name": "Robo-wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "set": "Robo",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 445
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1780
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rock-climbing-wall",
+    "name": "Rock-climbing Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "rococo-wall",
+    "name": "Rococo Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale"
+        ],
+        "set": "Rococo",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "julia"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rose-wall",
+    "name": "Rose Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "stella"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 430
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ruins-wall",
+    "name": "Ruins Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "rustic-stone-wall",
+    "name": "Rustic-stone Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1750
+        },
+        "recipe": {
+          "stone": 5,
+          "clay": 5
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "sakura-wood-wall",
+    "name": "Sakura-wood Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12800
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "sci-fi-wall",
+    "name": "Sci-fi Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 30000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "screen-wall",
+    "name": "Screen Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "sea-view",
+    "name": "Sea View",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Pirate Ship",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "Pascal"
+        ],
+        "rvs": [
+          "chip",
+          "pascal"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "security-monitors-wall",
+    "name": "Security-monitors Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "sepia-puzzle-wall",
+    "name": "Sepia Puzzle Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "server-room-wall",
+    "name": "Server-room Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "shanty-wall",
+    "name": "Shanty Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "admiral"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "shoji-screen",
+    "name": "Shoji Screen",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1875
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "joan"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 470
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1880
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "shutter-wall",
+    "name": "Shutter Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "ski-slope-wall",
+    "name": "Ski-slope Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "sources": [
+          "Snowman"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "skull-wall",
+    "name": "Skull Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "sky-wall",
+    "name": "Sky Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "skyscraper-wall",
+    "name": "Skyscraper Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sleek-wall",
+    "name": "Sleek Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Trendy"
+        ],
+        "set": "Sleek",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sloppy-wall",
+    "name": "Sloppy Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "set": "Sloppy",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Re-Tail (flea market) or Police Station (lost and found)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "snowflake-wall",
+    "name": "Snowflake Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 19200
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "snowman-wall",
+    "name": "Snowman Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Snowman",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8888
+        },
+        "sources": [
+          "Snowboy"
+        ]
+      }
+    }
+  },
+  {
+    "id": "soothing-tearoom-wall",
+    "name": "Soothing Tearoom Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 437
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1750
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "spooky-wall",
+    "name": "Spooky Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "set": "Spooky",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1031
+        },
+        "sources": [
+          "Nookling stores (Oct.)"
+        ],
+        "rvs": [
+          "jack"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4124
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sporty-wall",
+    "name": "Sporty Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "stacked-wood-wall",
+    "name": "Stacked-wood Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "stadium-wall",
+    "name": "Stadium Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "sprocket"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "standard-tearoom-wall",
+    "name": "Standard Tearoom Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 437
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1750
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "starry-sky-wall",
+    "name": "Starry-sky Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 30000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "starry-wall",
+    "name": "Starry Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 30000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "stately-wall",
+    "name": "Stately Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 613
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2452
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 612
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2450
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "steel-frame-wall",
+    "name": "Steel-frame Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "ike"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "recipe": {
+          "iron-nugget": 8
+        }
+      }
+    }
+  },
+  {
+    "id": "stone-wall",
+    "name": "Stone Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "claude",
+          "kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "stormy-night-wall",
+    "name": "Stormy-night Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "straw-wall",
+    "name": "Straw Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "strawberry-chocolate-wall",
+    "name": "Strawberry-chocolate Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "street-art-wall",
+    "name": "Street-art Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "stripe-wall",
+    "name": "Stripe Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Stripe",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "summit-wall",
+    "name": "Summit Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "rex"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sweets-wall",
+    "name": "Sweets Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Sweets",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 31000
+        },
+        "sources": [
+          "GracieGrace (fall)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tearoom-wall",
+    "name": "Tearoom Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 438
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "snooty"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1752
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tent-wall",
+    "name": "Tent Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "saharah"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "train-window-wall",
+    "name": "Train-window Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "rvs": [
+          "rover"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tree-lined-wall",
+    "name": "Tree-lined Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1850
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "olive"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tropical-vista",
+    "name": "Tropical Vista",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1250
+        },
+        "sources": [
+          "Island Gift Shop (rare)"
+        ],
+        "rvs": [
+          "gulliver",
+          "plucky"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 100
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 24000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "underwater-wall",
+    "name": "Underwater Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Museum Shop (complete the fish and deep-sea exhibit)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 34400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "waiting-room-wall",
+    "name": "Waiting-room Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "huck",
+          "june"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wavy-tile-wall",
+    "name": "Wavy-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 435
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1740
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "western-vista",
+    "name": "Western Vista",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Western",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-botanical-tile-wall",
+    "name": "White Botanical-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 310
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1240
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "white-brick-wall",
+    "name": "White Brick Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "rvs": [
+          "blanca",
+          "kk",
+          "norma",
+          "vivian"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-chocolate-wall",
+    "name": "White-chocolate Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "white-delicate-blooms-wall",
+    "name": "White Delicate-blooms Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 475
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1900
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "white-hallway-wall",
+    "name": "White Hallway Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "white-honeycomb-tile-wall",
+    "name": "White Honeycomb-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "white-painted-wood-wall",
+    "name": "White Painted-wood Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 412
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1650
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "white-perforated-board-wall",
+    "name": "White Perforated-board Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 295
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1180
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "white-rose-wall",
+    "name": "White-rose Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 430
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1720
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "white-simple-cloth-wall",
+    "name": "White Simple-cloth Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "white-subway-tile-wall",
+    "name": "White Subway-tile Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 335
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1340
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "white-tile-wall",
+    "name": "White Tile Wall",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "paolo"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wild-wood-wall",
+    "name": "Wild-wood Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ],
+        "recipe": {
+          "wood": 15
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "wood-paneling",
+    "name": "Wood Paneling",
+    "category": "Wallpaper",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "ursala"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wooden-knot-wall",
+    "name": "Wooden-knot Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "wooden-mosaic-wall",
+    "name": "Wooden-mosaic Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "recipe": {
+          "wood": 15
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "woodland-wall",
+    "name": "Woodland Wall",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Villagers (recipe)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5520
+          }
+        ],
+        "recipe": {
+          "clump-of-weeds": 15,
+          "softwood": 9
+        }
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "yellow-flower-print-wall",
+    "name": "Yellow Flower-print Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 445
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1780
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "yellow-heart-pattern-wall",
+    "name": "Yellow Heart-pattern Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "yellow-intricate-wall",
+    "name": "Yellow Intricate Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 392
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1570
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "yellow-paint-wall",
+    "name": "Yellow-paint Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "yellow-playroom-wall",
+    "name": "Yellow Playroom Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 635
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2540
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "yellow-quilt-wall",
+    "name": "Yellow Quilt Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 537
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2150
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "yellow-simple-cloth-wall",
+    "name": "Yellow Simple-cloth Wall",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  },
+  {
+    "id": "yellow-striped-wall",
+    "name": "Yellow-striped Wall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1520
+          }
+        ]
+      }
+    },
+    "category": "Wallpaper"
+  }
+]

@@ -1,0 +1,2727 @@
+[
+  {
+    "id": "bowtoid",
+    "name": "Bowtoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "brewstoid",
+    "name": "Brewstoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Rustic",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Brewster (work at The Roost)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "buzzoid",
+    "name": "Buzzoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "clankoid",
+    "name": "Clankoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "croakoid",
+    "name": "Croakoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "dekkoid",
+    "name": "Dekkoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "dingloid",
+    "name": "Dingloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "drilloid",
+    "name": "Drilloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gargloid",
+    "name": "Gargloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gongoid",
+    "name": "Gongoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "harmonoid",
+    "name": "Harmonoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "howloid",
+    "name": "Howloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "lamentoid",
+    "name": "Lamentoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "lullaboid",
+    "name": "Lullaboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-alloid",
+    "name": "Mega Alloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-bovoid",
+    "name": "Mega Bovoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Rustic",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-bowtoid",
+    "name": "Mega Bowtoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-brewstoid",
+    "name": "Mega Brewstoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Rustic",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Brewster (work at The Roost)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-buzzoid",
+    "name": "Mega Buzzoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-clankoid",
+    "name": "Mega Clankoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-croakoid",
+    "name": "Mega Croakoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-dekkoid",
+    "name": "Mega Dekkoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-dingloid",
+    "name": "Mega Dingloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-dinkoid",
+    "name": "Mega Dinkoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-drilloid",
+    "name": "Mega Drilloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-echoid",
+    "name": "Mega Echoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-fizzoid",
+    "name": "Mega Fizzoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-freakoid",
+    "name": "Mega Freakoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-gongoid",
+    "name": "Mega Gongoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-harmonoid",
+    "name": "Mega Harmonoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-howloid",
+    "name": "Mega Howloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-lamentoid",
+    "name": "Mega Lamentoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-lullaboid",
+    "name": "Mega Lullaboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-nebuloid",
+    "name": "Mega Nebuloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-oboid",
+    "name": "Mega Oboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-oombloid",
+    "name": "Mega Oombloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-percoloid",
+    "name": "Mega Percoloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-plinkoid",
+    "name": "Mega Plinkoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-poltergoid",
+    "name": "Mega Poltergoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-puffoid",
+    "name": "Mega Puffoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-quazoid",
+    "name": "Mega Quazoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-rustoid",
+    "name": "Mega Rustoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-sproid",
+    "name": "Mega Sproid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-sputnoid",
+    "name": "Mega Sputnoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-squelchoid",
+    "name": "Mega Squelchoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-strumboid",
+    "name": "Mega Strumboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-timpanoid",
+    "name": "Mega Timpanoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mega-tootoid",
+    "name": "Mega Tootoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "metatoid",
+    "name": "Metatoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-alloid",
+    "name": "Mini Alloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-bowtoid",
+    "name": "Mini Bowtoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-brewstoid",
+    "name": "Mini Brewstoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Rustic",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Brewster (work at The Roost)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-buzzoid",
+    "name": "Mini Buzzoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-clankoid",
+    "name": "Mini Clankoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-croakoid",
+    "name": "Mini Croakoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-dekkoid",
+    "name": "Mini Dekkoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-dingloid",
+    "name": "Mini Dingloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-dinkoid",
+    "name": "Mini Dinkoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-drilloid",
+    "name": "Mini Drilloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-echoid",
+    "name": "Mini Echoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-fizzoid",
+    "name": "Mini Fizzoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-freakoid",
+    "name": "Mini Freakoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-gargloid",
+    "name": "Mini Gargloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-gongoid",
+    "name": "Mini Gongoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-harmonoid",
+    "name": "Mini Harmonoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-howloid",
+    "name": "Mini Howloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-lamentoid",
+    "name": "Mini Lamentoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-lullaboid",
+    "name": "Mini Lullaboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-metatoid",
+    "name": "Mini Metatoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-nebuloid",
+    "name": "Mini Nebuloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-oombloid",
+    "name": "Mini Oombloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-plinkoid",
+    "name": "Mini Plinkoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-poltergoid",
+    "name": "Mini Poltergoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-puffoid",
+    "name": "Mini Puffoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-quazoid",
+    "name": "Mini Quazoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-rhythmoid",
+    "name": "Mini Rhythmoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-rustoid",
+    "name": "Mini Rustoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-sproid",
+    "name": "Mini Sproid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-sputnoid",
+    "name": "Mini Sputnoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-squelchoid",
+    "name": "Mini Squelchoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-strumboid",
+    "name": "Mini Strumboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-timpanoid",
+    "name": "Mini Timpanoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-tootoid",
+    "name": "Mini Tootoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-warbloid",
+    "name": "Mini Warbloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "nebuloid",
+    "name": "Nebuloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "oboid",
+    "name": "Oboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "oombloid",
+    "name": "Oombloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "plinkoid",
+    "name": "Plinkoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "poltergoid",
+    "name": "Poltergoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "quazoid",
+    "name": "Quazoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rhythmoid",
+    "name": "Rhythmoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rustoid",
+    "name": "Rustoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "slim-nebuloid",
+    "name": "Slim Nebuloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "slim-quazoid",
+    "name": "Slim Quazoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sproid",
+    "name": "Sproid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sputnoid",
+    "name": "Sputnoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "squat-dingloid",
+    "name": "Squat Dingloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "squat-nebuloid",
+    "name": "Squat Nebuloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "squelchoid",
+    "name": "Squelchoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "strumboid",
+    "name": "Strumboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-alloid",
+    "name": "Tall Alloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-bovoid",
+    "name": "Tall Bovoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Rustic",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-bowtoid",
+    "name": "Tall Bowtoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-brewstoid",
+    "name": "Tall Brewstoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Rustic",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Brewster (work at The Roost)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-buzzoid",
+    "name": "Tall Buzzoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-clankoid",
+    "name": "Tall Clankoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-croakoid",
+    "name": "Tall Croakoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-dingloid",
+    "name": "Tall Dingloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-droploid",
+    "name": "Tall Droploid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-echoid",
+    "name": "Tall Echoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-gargloid",
+    "name": "Tall Gargloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-gongoid",
+    "name": "Tall Gongoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-harmonoid",
+    "name": "Tall Harmonoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-lamentoid",
+    "name": "Tall Lamentoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-lullaboid",
+    "name": "Tall Lullaboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-nebuloid",
+    "name": "Tall Nebuloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-oboid",
+    "name": "Tall Oboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-oombloid",
+    "name": "Tall Oombloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-percoloid",
+    "name": "Tall Percoloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-poltergoid",
+    "name": "Tall Poltergoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-puffoid",
+    "name": "Tall Puffoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-quazoid",
+    "name": "Tall Quazoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-sproid",
+    "name": "Tall Sproid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-sputnoid",
+    "name": "Tall Sputnoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-strumboid",
+    "name": "Tall Strumboid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-timpanoid",
+    "name": "Tall Timpanoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tall-warbloid",
+    "name": "Tall Warbloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "timpanoid",
+    "name": "Timpanoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tootoid",
+    "name": "Tootoid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "warbloid",
+    "name": "Warbloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  },
+  {
+    "id": "wee-dingloid",
+    "name": "Wee Dingloid",
+    "category": "Gyroids",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 828
+        },
+        "sources": [
+          "Dig up with a shovel"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,7459 @@
+[
+  {
+    "id": "academy-uniform",
+    "name": "Academy Uniform",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 520
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2080
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "adventure-dress",
+    "name": "Adventure Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 700
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "alpinist-dress",
+    "name": "Alpinist Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Alpinist Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "alpinist-overalls",
+    "name": "Alpinist Overalls",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "ancient-belted-robe",
+    "name": "Ancient Belted Robe",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 910
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3640
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "ancient-sashed-robe",
+    "name": "Ancient Sashed Robe",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "ao-dai",
+    "name": "Áo Dài",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "apple-dress",
+    "name": "Apple Dress",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6400
+          }
+        ],
+        "recipe": {
+          "apple": 8
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "astro-dress",
+    "name": "Astro Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "attus-robe",
+    "name": "Attus Robe",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "baby-chick-costume",
+    "name": "Baby-chick Costume",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 425
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1700
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "baby-romper",
+    "name": "Baby Romper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "baji-jeogori",
+    "name": "Baji Jeogori",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "ballet-outfit",
+    "name": "Ballet Outfit",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 720
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2880
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "balmacaan-coat",
+    "name": "Balmacaan Coat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "baseball-uniform",
+    "name": "Baseball Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 440
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1760
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "bath-towel-wrap",
+    "name": "Bath-towel Wrap",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 157
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 630
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "bathrobe",
+    "name": "Bathrobe",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "set": "Spa Patron Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1450
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5800
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bear-costume",
+    "name": "Bear Costume",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "set": "Bear Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 425
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1700
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bekasab-robe",
+    "name": "Bekasab Robe",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "belted-dotted-dress",
+    "name": "Belted Dotted Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "bingata-dress",
+    "name": "Bingata Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "black-velvet-dress",
+    "name": "Black-velvet Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blossom-dress",
+    "name": "Blossom Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blossoming-dress",
+    "name": "Blossoming Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 155
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 620
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blossoming-kimono",
+    "name": "Blossoming Kimono",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 805
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3220
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "blue-ballet-outfit",
+    "name": "Blue Ballet Outfit",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-dotted-dress",
+    "name": "Blue Dotted Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-lace-up-dress",
+    "name": "Blue Lace-up Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-party-dress",
+    "name": "Blue Party Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-retro-dress",
+    "name": "Blue Retro Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Modern"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "boa-parka",
+    "name": "Boa Parka",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "bohemian-tunic-dress",
+    "name": "Bohemian Tunic Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 475
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1900
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "bold-muumuu",
+    "name": "Bold Muumuu",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "bolero-coat",
+    "name": "Bolero Coat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 520
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2080
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "bone-costume",
+    "name": "Bone Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "box-skirt-uniform",
+    "name": "Box-skirt Uniform",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 575
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2300
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "bunny-dress",
+    "name": "Bunny Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "butterfly-dress",
+    "name": "Butterfly Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "GracieGrace (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "butterfly-visiting-kimono",
+    "name": "Butterfly Visiting Kimono",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 665
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2660
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "cake-dress",
+    "name": "Cake Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Official"
+        ],
+        "set": "Wedding Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cake-tank-dress",
+    "name": "Cake Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Official"
+        ],
+        "set": "Wedding Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "casual-chic-dress",
+    "name": "Casual Chic Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "casual-kimono",
+    "name": "Casual Kimono",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "casual-outfit",
+    "name": "Casual Outfit",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cat-dress",
+    "name": "Cat Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "set": "Cat Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cat-tank-dress",
+    "name": "Cat Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "set": "Cat Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "caterpillar-costume",
+    "name": "Caterpillar Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 425
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1700
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "caveman-tank-dress",
+    "name": "Caveman Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Historical"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "caveman-tank",
+    "name": "Caveman Tank",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Historical"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 95
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 380
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 262
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1050
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "checkered-jumper-dress",
+    "name": "Checkered Jumper Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 460
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1840
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "cheerleading-uniform",
+    "name": "Cheerleading Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "cherry-dress",
+    "name": "Cherry Dress",
+    "games": {
+      "nh": {
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6400
+          }
+        ],
+        "recipe": {
+          "cherry": 8
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "chic-tuxedo-dress",
+    "name": "Chic Tuxedo Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "chima-jeogori-dress",
+    "name": "Chima Jeogori Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "chima-jeogori",
+    "name": "Chima Jeogori",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "china-poblana",
+    "name": "China Poblana",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "chiton",
+    "name": "Chiton",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "citrus-gingham-dress",
+    "name": "Citrus Gingham Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "classic-dress",
+    "name": "Classic Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "clover-dress",
+    "name": "Clover Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "cold-country-bunad",
+    "name": "Cold-country Bunad",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "cold-country-dress",
+    "name": "Cold-country Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "concierge-uniform",
+    "name": "Concierge Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "cool-dress",
+    "name": "Cool Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Modern"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "sources": [
+          "GracieGrace (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "coveralls-with-arm-covers",
+    "name": "Coveralls With Arm Covers",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "cyber-suit",
+    "name": "Cyber Suit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 875
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "dapper-dress",
+    "name": "Dapper Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dazed-dress",
+    "name": "Dazed Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "denim-overalls",
+    "name": "Denim Overalls",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "desert-outfit",
+    "name": "Desert Outfit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "desert-princess-outfit",
+    "name": "Desert-princess Outfit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "diner-uniform",
+    "name": "Diner Uniform",
+    "category": "Dresses",
+    "games": {
+      "ac": {
+        "orderable": true,
+        "sources": [
+          "Tom Nook (Spring)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 72
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 290
+          }
+        ]
+      },
+      "afe+": {
+        "orderable": true,
+        "sources": [
+          "Tom Nook (Spring)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 72
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 290
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dogtooth-dress",
+    "name": "Dogtooth Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dollhouse-dress",
+    "name": "Dollhouse Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8000
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 700
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dragon-suit",
+    "name": "Dragon Suit",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 85
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 340
+          }
+        ]
+      },
+      "ac": {
+        "orderable": true,
+        "sources": [
+          "Tom Nook (Summer)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 85
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 340
+          }
+        ]
+      },
+      "afe+": {
+        "orderable": true,
+        "sources": [
+          "Tom Nook (Summer)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 85
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 340
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2500
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dreamy-dress",
+    "name": "Dreamy Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 520
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2080
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "dreamy-tank-dress",
+    "name": "Dreamy Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "earth-egg-outfit",
+    "name": "Earth-egg Outfit",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "recipe": {
+          "earth-egg": 3
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "egg-party-dress",
+    "name": "Egg Party Dress",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7200
+        },
+        "recipe": {
+          "earth-egg": 3,
+          "stone-egg": 3,
+          "leaf-egg": 3,
+          "wood-egg": 3,
+          "sky-egg": 3,
+          "water-egg": 3
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "egg-sushi-costume",
+    "name": "Egg-sushi Costume",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "elegant-dress",
+    "name": "Elegant Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "embroidered-dress",
+    "name": "Embroidered Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fairy-dress",
+    "name": "Fairy Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 910
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3640
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "fairy-tale-dress",
+    "name": "Fairy-tale Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fancy-kimono",
+    "name": "Fancy Kimono",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "fancy-party-dress",
+    "name": "Fancy Party Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "farmer-overalls",
+    "name": "Farmer Overalls",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "fashionable-royal-dress",
+    "name": "Fashionable Royal Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "festivale-tank-dress",
+    "name": "Festivale Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters (the week before Festivale through Festivale)"
+        ],
+        "rvs": [
+          "pave"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "festive-dress",
+    "name": "Festive Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters (12/1 through 12/24)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "festive-tree-dress",
+    "name": "Festive-tree Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Rustic",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8000
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "figure-skating-costume",
+    "name": "Figure-skating Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 720
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2880
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "figure-skating-dress",
+    "name": "Figure-skating Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 720
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2880
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "firefighter-uniform",
+    "name": "Firefighter Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "fishing-waders",
+    "name": "Fishing Waders",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "flapper-dress",
+    "name": "Flapper Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 650
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "flashy-kimono",
+    "name": "Flashy Kimono",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "fleece-dress",
+    "name": "Fleece Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fleece-pjs",
+    "name": "Fleece Pj's",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "flight-crew-uniform",
+    "name": "Flight-crew Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 700
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "floral-knit-dress",
+    "name": "Floral Knit Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "floral-lace-dress",
+    "name": "Floral Lace Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 455
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1820
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "flower-fairy-dress",
+    "name": "Flower Fairy Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Obtain at least 10",
+          "000 points in Score Attack on any difficulty in Puzzle League"
+        ]
+      }
+    }
+  },
+  {
+    "id": "flower-print-dress",
+    "name": "Flower-print Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "fluffy-dress",
+    "name": "Fluffy Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fluffy-tank-dress",
+    "name": "Fluffy Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "set": "Rabbit Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "folk-dance-outfit",
+    "name": "Folk-dance Outfit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "forest-print-dress",
+    "name": "Forest-print Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "frilly-dress",
+    "name": "Frilly Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "frock-coat",
+    "name": "Frock Coat",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "frog-costume",
+    "name": "Frog Costume",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "set": "Frog Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 425
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1700
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "frugal-dress",
+    "name": "Frugal Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "frugal-outfit",
+    "name": "Frugal Outfit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 112
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 450
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "full-body-tights",
+    "name": "Full-body Tights",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "full-length-dress-with-pearls",
+    "name": "Full-length Dress With Pearls",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 650
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "gaudy-dress",
+    "name": "Gaudy Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gizzard-shad-sushi-costume",
+    "name": "Gizzard-shad-sushi Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 360
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1440
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "gold-armor",
+    "name": "Gold Armor",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320000
+          }
+        ],
+        "recipe": {
+          "gold-nugget": 8
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "grape-dress",
+    "name": "Grape Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "green-dress",
+    "name": "Green Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-lace-up-dress",
+    "name": "Green Lace-up Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gumdrop-dress",
+    "name": "Gumdrop Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hakama-with-crest",
+    "name": "Hakama With Crest",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "hakama",
+    "name": "Hakama",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 795
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3180
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "hello-kitty-dress",
+    "name": "Hello Kitty Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "rilla"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hibiscus-muumuu",
+    "name": "Hibiscus Muumuu",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "hot-dog-costume",
+    "name": "Hot-dog Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "house-print-dress",
+    "name": "House-print Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "ice-hockey-uniform",
+    "name": "Ice-hockey Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 660
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2640
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "icy-dress",
+    "name": "Icy Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "impish-costume",
+    "name": "Impish Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "instant-muscles-suit",
+    "name": "Instant-muscles Suit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 570
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2280
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "iron-armor",
+    "name": "Iron Armor",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 24000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "jester-costume",
+    "name": "Jester Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "jinbei",
+    "name": "Jinbei",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 455
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1820
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "jockey-uniform",
+    "name": "Jockey Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "judogi",
+    "name": "Judogi",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 440
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1760
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "jumper-work-suit",
+    "name": "Jumper Work Suit",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 262
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1050
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "junihitoe-kimono",
+    "name": "Junihitoe Kimono",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "kabuki-actor-yukata",
+    "name": "Kabuki-actor Yukata",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "kandoora",
+    "name": "Kandoora",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "kappa-costume",
+    "name": "Kappa Costume",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "set": "Kappa Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 20
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 425
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1700
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kiki-and-lala-dress",
+    "name": "Kiki And Lala Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "etoile"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kimono",
+    "name": "Kimono",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Geisha Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 205
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 820
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kiwi-dress",
+    "name": "Kiwi Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "labelle-dress",
+    "name": "Labelle Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 850
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3400
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "lace-up-dress",
+    "name": "Lace-up Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "lacy-dress",
+    "name": "Lacy Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "layered-sleeveless-dress",
+    "name": "Layered Sleeveless Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "layered-tank-dress",
+    "name": "Layered Tank Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "leaf-egg-outfit",
+    "name": "Leaf-egg Outfit",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "recipe": {
+          "leaf-egg": 3
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "lime-dress",
+    "name": "Lime Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "linen-dress",
+    "name": "Linen Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "lively-plaid-dress",
+    "name": "Lively Plaid Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "long-chenille-cardigan",
+    "name": "Long Chenille Cardigan",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "long-denim-cardigan",
+    "name": "Long Denim Cardigan",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "long-down-coat",
+    "name": "Long Down Coat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 475
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1900
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "long-pleather-coat",
+    "name": "Long Pleather Coat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 460
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1840
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "loose-fall-dress",
+    "name": "Loose Fall Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "lotus-tank-dress",
+    "name": "Lotus Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "loud-bloom-dress",
+    "name": "Loud Bloom Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lovely-dress",
+    "name": "Lovely Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mages-robe",
+    "name": "Mage's Robe",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "magical-dress",
+    "name": "Magical Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 795
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3180
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "maid-dress",
+    "name": "Maid Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 580
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "marble-dots-dress",
+    "name": "Marble-dots Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "marble-print-dress",
+    "name": "Marble-print Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "mariachi-clothing",
+    "name": "Mariachi Clothing",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "marie-dress",
+    "name": "Marie Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-Roll"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "viche"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "maxi-shirtdress",
+    "name": "Maxi Shirtdress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "miko-attire",
+    "name": "Miko Attire",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "milkmaid-dress",
+    "name": "Milkmaid Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Milkmaid Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "moldy-dress",
+    "name": "Moldy Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "morning-glory-yukata",
+    "name": "Morning-glory Yukata",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 570
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2280
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "mummy-outfit",
+    "name": "Mummy Outfit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "musicians-outfit",
+    "name": "Musician's Outfit",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "set": "Welcome amiibo Update",
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "muumuu",
+    "name": "Muumuu",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 15
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "my-melody-dress",
+    "name": "My Melody Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "chelsea"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mysterious-dress",
+    "name": "Mysterious Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 780
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3120
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "natty-dress",
+    "name": "Natty Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "nightgown",
+    "name": "Nightgown",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "ninja-costume",
+    "name": "Ninja Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "noble-dress",
+    "name": "Noble Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "noble-zap-suit",
+    "name": "Noble Zap Suit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 690
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2760
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "nurses-dress-uniform",
+    "name": "Nurse's Dress Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "nurses-uniform",
+    "name": "Nurse's Uniform",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "office-uniform",
+    "name": "Office Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "old-commoners-kimono",
+    "name": "Old Commoner's Kimono",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "orange-dress",
+    "name": "Orange Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6400
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "orange-lace-up-dress",
+    "name": "Orange Lace-up Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "orange-retro-dress",
+    "name": "Orange Retro Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "overall-dress",
+    "name": "Overall Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 145
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 580
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "oversized-print-dress",
+    "name": "Oversized Print Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "oversized-sweats-dress",
+    "name": "Oversized-sweats Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "painters-coverall",
+    "name": "Painter's Coverall",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "pajama-dress",
+    "name": "Pajama Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "palatial-tank-dress",
+    "name": "Palatial Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "parka-and-shirtdress",
+    "name": "Parka And Shirtdress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "parka-dress",
+    "name": "Parka Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "pastel-stripe-dress",
+    "name": "Pastel-stripe Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "patched-dress",
+    "name": "Patched Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Halloween (Neighbor trick)"
+        ],
+        "rvs": [
+          "jack"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "peach-dress",
+    "name": "Peach Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6400
+          }
+        ],
+        "recipe": {
+          "peach": 8
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "peacoat-and-skirt-combo",
+    "name": "Peacoat-and-skirt Combo",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "pear-dress",
+    "name": "Pear Dress",
+    "games": {
+      "nh": {
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6400
+          }
+        ],
+        "recipe": {
+          "pear": 8
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "pharaohs-outfit",
+    "name": "Pharaoh's Outfit",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Pharaoh Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pilots-uniform",
+    "name": "Pilot's Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "pinafore",
+    "name": "Pinafore",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 145
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 580
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pineapple-dress",
+    "name": "Pineapple Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "pink-lace-up-dress",
+    "name": "Pink Lace-up Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-party-dress",
+    "name": "Pink Party Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-polka-dress",
+    "name": "Pink Polka Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 155
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 620
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-zap-suit",
+    "name": "Pink-zap Suit",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Pink Superheroine",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 190
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 760
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pintuck-pleated-dress",
+    "name": "Pintuck-pleated Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "pj-outfit",
+    "name": "Pj Outfit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 262
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1050
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "plaid-cami-dress",
+    "name": "Plaid Cami Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "plaid-print-dress",
+    "name": "Plaid-print Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "plover-dress",
+    "name": "Plover Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "plum-coat",
+    "name": "Plum Coat",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "polka-dot-dress",
+    "name": "Polka-dot Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pompompurin-dress",
+    "name": "Pompompurin Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "marty"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "poncho",
+    "name": "Poncho",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Vaquero Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 145
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 580
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pop-bloom-dress",
+    "name": "Pop Bloom Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "power-suit",
+    "name": "Power Suit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 945
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3780
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "prep-school-uniform",
+    "name": "Prep-school Uniform",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 190
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 760
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "prim-outfit",
+    "name": "Prim Outfit",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 155
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 620
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "princess-dress",
+    "name": "Princess Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5500
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "princess-zelda-dress",
+    "name": "Princess Zelda Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Official"
+        ],
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "rvs": [
+          "wolf-link"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "racing-outfit",
+    "name": "Racing Outfit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 612
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2450
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "rad-power-skirt-suit",
+    "name": "Rad Power Skirt Suit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "red-dress",
+    "name": "Red Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-riding-dress",
+    "name": "Red Riding Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "renaissance-dress",
+    "name": "Renaissance Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "retro-a-line-dress",
+    "name": "Retro A-line Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 637
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2550
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "retro-dress",
+    "name": "Retro Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 637
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2550
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "retro-sleeveless-dress",
+    "name": "Retro Sleeveless Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "ribbon-dress",
+    "name": "Ribbon Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rose-sky-tank-dress",
+    "name": "Rose-sky Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rose-tank-dress",
+    "name": "Rose Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ruffled-dress",
+    "name": "Ruffled Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1060
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "rugby-uniform",
+    "name": "Rugby Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 440
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1760
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "rumba-costume",
+    "name": "Rumba Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 650
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "rumba-dress",
+    "name": "Rumba Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 650
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sailor-collar-dress",
+    "name": "Sailor-collar Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sari",
+    "name": "Sari",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "satin-dress",
+    "name": "Satin Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "school-smock",
+    "name": "School Smock",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sea-captains-coat",
+    "name": "Sea Captain's Coat",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Quirky",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "set": "Pirate Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "security-uniform",
+    "name": "Security Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "shawl-and-dress-combo",
+    "name": "Shawl-and-dress Combo",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sheep-costume",
+    "name": "Sheep Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 425
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1700
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "shell-dress",
+    "name": "Shell Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 875
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "shirtdress",
+    "name": "Shirtdress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "shorts-outfit",
+    "name": "Shorts Outfit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "silk-bloom-dress",
+    "name": "Silk Bloom Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "simple-checkered-dress",
+    "name": "Simple Checkered Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "simple-dots-dress",
+    "name": "Simple-dots Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "simple-visiting-kimono",
+    "name": "Simple Visiting Kimono",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 620
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2480
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "skirt-with-suspenders",
+    "name": "Skirt With Suspenders",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sky-dress",
+    "name": "Sky Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sky-egg-outfit",
+    "name": "Sky-egg Outfit",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "recipe": {
+          "sky-egg": 3
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sleeveless-shirtdress",
+    "name": "Sleeveless Shirtdress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sleeveless-silk-dress",
+    "name": "Sleeveless Silk Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sleeveless-sweater-dress",
+    "name": "Sleeveless Sweater Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "space-suit",
+    "name": "Space Suit",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Astronaut Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "spring-kimono",
+    "name": "Spring Kimono",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sprite-costume",
+    "name": "Sprite Costume",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "star-costume",
+    "name": "Star Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 700
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "star-tank-dress",
+    "name": "Star Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "steampunk-costume",
+    "name": "Steampunk Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 560
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2240
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "stellar-jumpsuit",
+    "name": "Stellar Jumpsuit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "stone-egg-outfit",
+    "name": "Stone-egg Outfit",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "recipe": {
+          "stone-egg": 3
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "strawberry-dress",
+    "name": "Strawberry Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "striped-dress",
+    "name": "Striped Dress",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "striped-halter-dress",
+    "name": "Striped Halter Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "striped-maxi-dress",
+    "name": "Striped Maxi Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 350
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1400
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "stylish-jumpsuit",
+    "name": "Stylish Jumpsuit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "suit-of-lights",
+    "name": "Suit Of Lights",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "suit-with-stand-up-collar",
+    "name": "Suit With Stand-up Collar",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sunflower-dress",
+    "name": "Sunflower Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "superhero-uniform",
+    "name": "Superhero Uniform",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 910
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3640
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "suspender-outfit",
+    "name": "Suspender Outfit",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 475
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1900
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sweater-dress",
+    "name": "Sweater Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 367
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1470
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sweet-dress",
+    "name": "Sweet Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 675
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2700
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "sweetheart-dress",
+    "name": "Sweetheart Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "tan-dogtooth-dress",
+    "name": "Tan Dogtooth Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tango-dress",
+    "name": "Tango Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 650
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "tartan-plaid-outfit",
+    "name": "Tartan-plaid Outfit",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tee-dress",
+    "name": "Tee Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "tiger-face-tee-dress",
+    "name": "Tiger-face Tee Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "tight-punk-outfit",
+    "name": "Tight Punk Outfit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "toga",
+    "name": "Toga",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tropical-muumuu",
+    "name": "Tropical Muumuu",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "tuna-sushi-costume",
+    "name": "Tuna-sushi Costume",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "turnip-dress",
+    "name": "Turnip Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 155
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 620
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tweed-dress",
+    "name": "Tweed Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "twinkle-tank-dress",
+    "name": "Twinkle Tank Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "u-r-here-dress",
+    "name": "U-r-here Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "victorian-dress",
+    "name": "Victorian Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 630
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2520
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "visual-punk-dress",
+    "name": "Visual-punk Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 510
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2040
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "visual-punk-outfit",
+    "name": "Visual-punk Outfit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 510
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2040
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "vogue-dress",
+    "name": "Vogue Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "waitress-dress",
+    "name": "Waitress Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "water-egg-outfit",
+    "name": "Water-egg Outfit",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "recipe": {
+          "water-egg": 3
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "watermelon-dress",
+    "name": "Watermelon Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "witchs-robe",
+    "name": "Witch's Robe",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Historical"
+        ],
+        "set": "Witch Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "GracieGrace (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wizards-robe",
+    "name": "Wizard's Robe",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "wood-egg-outfit",
+    "name": "Wood-egg Outfit",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "recipe": {
+          "wood-egg": 3
+        }
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "wrestler-uniform",
+    "name": "Wrestler Uniform",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "wrestling-singlet",
+    "name": "Wrestling Singlet",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "yellow-dotted-dress",
+    "name": "Yellow Dotted Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 7200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-raincoat",
+    "name": "Yellow Raincoat",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yodel-dress",
+    "name": "Yodel Dress",
+    "category": "Dresses",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 170
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "zap-suit",
+    "name": "Zap Suit",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 690
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2760
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  },
+  {
+    "id": "zigzag-print-dress",
+    "name": "Zigzag-print Dress",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Dresses"
+  }
+]

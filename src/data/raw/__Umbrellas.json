@@ -1,0 +1,2038 @@
+[
+  {
+    "id": "apple-umbrella",
+    "name": "Apple Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5600
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "bat-umbrella",
+    "name": "Bat Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "beach-umbrella",
+    "name": "Beach Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bear-umbrella",
+    "name": "Bear Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 392
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1570
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "black-chic-umbrella",
+    "name": "Black Chic Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 405
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1620
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "black-lace-umbrella",
+    "name": "Black Lace Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "blue-dot-parasol",
+    "name": "Blue Dot Parasol",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-shiny-bows-parasol",
+    "name": "Blue Shiny-bows Parasol",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 405
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1620
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "blue-umbrella",
+    "name": "Blue Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "busted-umbrella",
+    "name": "Busted Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 392
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1570
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "camo-umbrella",
+    "name": "Camo Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 162
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 650
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "candy-umbrella",
+    "name": "Candy Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cherry-blossom-umbrella",
+    "name": "Cherry-blossom Umbrella",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 11200
+          }
+        ],
+        "recipe": {
+          "cherry-blossom-petal": 7
+        }
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "cherry-umbrella",
+    "name": "Cherry Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5600
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "daisy-umbrella",
+    "name": "Daisy Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dal-umbrella",
+    "name": "Dal Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1010
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4040
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "eggy-parasol",
+    "name": "Eggy Parasol",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "elegant-umbrella",
+    "name": "Elegant Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "exquisite-parasol",
+    "name": "Exquisite Parasol",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 417
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1670
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "fairy-tale-umbrella",
+    "name": "Fairy-tale Umbrella",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 205
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 820
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "fish-umbrella",
+    "name": "Fish Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "flame-umbrella",
+    "name": "Flame Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "forest-umbrella",
+    "name": "Forest Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "frog-umbrella",
+    "name": "Frog Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 392
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1570
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "fruit-panel-umbrella",
+    "name": "Fruit-panel Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sources": [
+          "Complete Story Mode on Slightly Harder difficulty in Puzzle League"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gelato-umbrella",
+    "name": "Gelato Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ghost-umbrella",
+    "name": "Ghost Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 88
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 352
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 417
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1670
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gracie-umbrella",
+    "name": "Gracie Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "grape-umbrella",
+    "name": "Grape Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 387
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1550
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "green-chic-umbrella",
+    "name": "Green Chic Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 405
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1620
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "green-umbrella",
+    "name": "Green Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hydrangea-umbrella",
+    "name": "Hydrangea Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "kabuki-umbrella",
+    "name": "Kabuki Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 417
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1670
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "kiwi-umbrella",
+    "name": "Kiwi Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 387
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1550
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "lacy-parasol",
+    "name": "Lacy Parasol",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 387
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1550
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ladybug-umbrella",
+    "name": "Ladybug Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "leaf-umbrella",
+    "name": "Leaf Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "recipe": {
+          "clump-of-weeds": 15
+        }
+      }
+    }
+  },
+  {
+    "id": "lemon-umbrella",
+    "name": "Lemon Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "leopard-umbrella",
+    "name": "Leopard Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "logo-umbrella",
+    "name": "Logo Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 162
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 650
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "maple-leaf-umbrella",
+    "name": "Maple-leaf Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 11200
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "maple-umbrella",
+    "name": "Maple Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "melon-umbrella",
+    "name": "Melon Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mini-flower-print-umbrella",
+    "name": "Mini-flower-print Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "mint-umbrella",
+    "name": "Mint Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "modern-umbrella",
+    "name": "Modern Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "GracieGrace (spring",
+          "during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mush-umbrella",
+    "name": "Mush Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "nook-inc-umbrella",
+    "name": "Nook Inc. Umbrella",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Miles System"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        },
+        "buyPrices": [
+          {
+            "currency": "miles",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "orange-umbrella",
+    "name": "Orange Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5600
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "panda-umbrella",
+    "name": "Panda Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 392
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1570
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "paper-parasol",
+    "name": "Paper Parasol",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 217
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 870
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "patterned-vinyl-umbrella",
+    "name": "Patterned Vinyl Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "paw-umbrella",
+    "name": "Paw Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "peach-umbrella",
+    "name": "Peach Umbrella",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1400
+        },
+        "recipe": {
+          "peach": 7
+        }
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "peachs-parasol",
+    "name": "Peach's Parasol",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "sources": [
+          "Fortune cookie #7"
+        ]
+      }
+    }
+  },
+  {
+    "id": "pear-umbrella",
+    "name": "Pear Umbrella",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1400
+        },
+        "recipe": {
+          "pear": 7
+        }
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "petal-parasol",
+    "name": "Petal Parasol",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 397
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1590
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "picnic-umbrella",
+    "name": "Picnic Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pineapple-umbrella",
+    "name": "Pineapple Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 387
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1550
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "pink-shiny-bows-parasol",
+    "name": "Pink Shiny-bows Parasol",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 405
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1620
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "pink-umbrella",
+    "name": "Pink Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "purple-chic-umbrella",
+    "name": "Purple Chic Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 405
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1620
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "purple-shiny-bows-parasol",
+    "name": "Purple Shiny-bows Parasol",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 405
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1620
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "rainbow-umbrella",
+    "name": "Rainbow Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "raindrop-umbrella",
+    "name": "Raindrop Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "red-chic-umbrella",
+    "name": "Red Chic Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 405
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1620
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "red-umbrella",
+    "name": "Red Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ribbon-umbrella",
+    "name": "Ribbon Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "snowflake-umbrella",
+    "name": "Snowflake Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 387
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1550
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "spider-umbrella",
+    "name": "Spider Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "strawberry-umbrella",
+    "name": "Strawberry Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 387
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1550
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "striped-umbrella",
+    "name": "Striped Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "sunny-parasol",
+    "name": "Sunny Parasol",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tartan-check-umbrella",
+    "name": "Tartan-check Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "toad-parasol",
+    "name": "Toad Parasol",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 750
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "two-tone-umbrella",
+    "name": "Two-tone Umbrella",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "vinyl-umbrella",
+    "name": "Vinyl Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "watermelon-umbrella",
+    "name": "Watermelon Umbrella",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 387
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1550
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "white-shiny-bows-parasol",
+    "name": "White Shiny-bows Parasol",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 405
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1620
+          }
+        ]
+      }
+    },
+    "category": "Umbrellas"
+  },
+  {
+    "id": "yellow-umbrella",
+    "name": "Yellow Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "zebra-umbrella",
+    "name": "Zebra Umbrella",
+    "category": "Umbrellas",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  }
+]

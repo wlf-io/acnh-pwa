@@ -1,0 +1,32 @@
+<div class="row">
+    <div class="col">
+        <div class="card card-body bg-light">
+            <div class="form-group">
+                <select class="form-control" id="exampleFormControlSelect1">
+                    <option value=""> -- Filter --</option>
+                    <option value="available">Available</option>
+                    <option value="unavailable">Unavailable</option>
+                    <option value="not_donated">Not Donated</option>
+                    <option value="donated">Donated</option>
+                    <option value="none">None</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col">
+        {{#each critters}}
+        {{#isEven @index}}
+        <div class="card card-body bg-light">{{@index}} - {{this.name}}</div>
+        {{/isEven}}
+        {{/each}}
+    </div>
+    <div class="col">
+        {{#each critters}}
+        {{#isOdd @index}}
+        <div class="card card-body bg-light">{{@index}} - {{this.name}}</div>
+        {{/isOdd}}
+        {{/each}}
+    </div>
+</div>

@@ -1,0 +1,6098 @@
+[
+  {
+    "id": "acid-washed-jeans",
+    "name": "Acid-washed Jeans",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "acid-washed-pants",
+    "name": "Acid-washed Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "aloha-shorts",
+    "name": "Aloha Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 187
+        },
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 15
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "animal-stripes-skirt",
+    "name": "Animal-stripes Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "apron-skirt",
+    "name": "Apron Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "arctic-camo-pants",
+    "name": "Arctic-camo Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "armor-pants",
+    "name": "Armor Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Historical"
+        ],
+        "set": "Knight Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "athletic-pants",
+    "name": "Athletic Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "athletic-shorts",
+    "name": "Athletic Shorts",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "baseball-pants",
+    "name": "Baseball Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "basketball-shorts",
+    "name": "Basketball Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bear-costume-pants",
+    "name": "Bear-costume Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "set": "Bear Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bell-bottoms",
+    "name": "Bell-bottoms",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "belted-wraparound-skirt",
+    "name": "Belted Wraparound Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "black-denim-pants",
+    "name": "Black-denim Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-denim-skirt",
+    "name": "Black-denim Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-formal-pants",
+    "name": "Black Formal Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-formal-skirt",
+    "name": "Black Formal Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-track-pants",
+    "name": "Black Track Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-boxing-shorts",
+    "name": "Blue Boxing Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-grid-skirt",
+    "name": "Blue-grid Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-gym-shorts",
+    "name": "Blue Gym Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-pj-bottoms",
+    "name": "Blue Pj Bottoms",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-polka-shorts",
+    "name": "Blue Polka Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-stripe-pants",
+    "name": "Blue-stripe Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-warm-up-pants",
+    "name": "Blue Warm-up Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-zap-pants",
+    "name": "Blue-zap Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Blue Superhero Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "boa-shorts",
+    "name": "Boa Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "boa-skirt",
+    "name": "Boa Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "bomber-style-skirt",
+    "name": "Bomber-style Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "bone-pants",
+    "name": "Bone Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "botanical-shorts",
+    "name": "Botanical Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "box-pleated-skirt",
+    "name": "Box-pleated Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "brown-argyle-skirt",
+    "name": "Brown Argyle Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "brown-formal-pants",
+    "name": "Brown Formal Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "brown-plaid-shorts",
+    "name": "Brown Plaid Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "buttoned-lace-skirt",
+    "name": "Buttoned Lace Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "buttoned-wraparound-skirt",
+    "name": "Buttoned Wraparound Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 455
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1820
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "callie-pants",
+    "name": "Callie Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "cece"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "camo-pants",
+    "name": "Camo Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "camo-skirt",
+    "name": "Camo Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "career-skirt",
+    "name": "Career Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "cargo-pants",
+    "name": "Cargo Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cargo-shorts",
+    "name": "Cargo Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 270
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1080
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "casual-pants",
+    "name": "Casual Pants",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "caveman-shorts",
+    "name": "Caveman Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Historical"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "chain-pants",
+    "name": "Chain Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "checkerboard-skirt",
+    "name": "Checkerboard Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "chino-pants",
+    "name": "Chino Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "colorful-skirt",
+    "name": "Colorful Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "comedians-pants",
+    "name": "Comedian's Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "comic-shorts",
+    "name": "Comic Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 285
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1140
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "corduroy-pants",
+    "name": "Corduroy Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "corduroy-skirt",
+    "name": "Corduroy Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "corseted-skirt",
+    "name": "Corseted Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "corte-skirt",
+    "name": "Corte Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "cow-pants",
+    "name": "Cow Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cropped-pants",
+    "name": "Cropped Pants",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 230
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 920
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "cuffed-pants",
+    "name": "Cuffed Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "culottes",
+    "name": "Culottes",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "cut-pleather-skirt",
+    "name": "Cut-pleather Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "cycling-shorts",
+    "name": "Cycling Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "dance-warm-up-pants",
+    "name": "Dance Warm-up Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "dapper-skirt",
+    "name": "Dapper Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dark-polka-skirt",
+    "name": "Dark Polka Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Modern"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "denim-cutoffs",
+    "name": "Denim Cutoffs",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping, Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "denim-painters-pants",
+    "name": "Denim Painter's Pants",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "denim-pants",
+    "name": "Denim Pants",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "denim-skirt",
+    "name": "Denim Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "desert-camo-pants",
+    "name": "Desert-camo Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dogtooth-pants",
+    "name": "Dogtooth Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dotted-shorts",
+    "name": "Dotted Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "down-pants",
+    "name": "Down Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "down-skirt",
+    "name": "Down Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "dragon-leggings",
+    "name": "Dragon Leggings",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "draped-skirt",
+    "name": "Draped Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 455
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1820
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "dreamy-pants",
+    "name": "Dreamy Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 360
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1440
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "dress-pants",
+    "name": "Dress Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "dry-denim-pants",
+    "name": "Dry-denim Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dry-denim-skirt",
+    "name": "Dry-denim Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "elephant-print-pants",
+    "name": "Elephant-print Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "embellished-denim-pants",
+    "name": "Embellished Denim Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "embroidered-floral-skirt",
+    "name": "Embroidered Floral Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "embroidered-pattern-skirt",
+    "name": "Embroidered-pattern Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "emerald-polka-skirt",
+    "name": "Emerald Polka Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "explorer-pants",
+    "name": "Explorer Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Explorer Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "explorer-shorts",
+    "name": "Explorer Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "faux-fur-skirt",
+    "name": "Faux-fur Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 360
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1440
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "faux-shearling-skirt",
+    "name": "Faux-shearling Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "festivale-pants",
+    "name": "Festivale Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters (the week before Festivale through Festivale)"
+        ],
+        "rvs": [
+          "pave"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "firefighter-pants",
+    "name": "Firefighter Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Firefighter Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flame-pants",
+    "name": "Flame Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flare-skirt",
+    "name": "Flare Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 285
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1140
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "flashy-slacks",
+    "name": "Flashy Slacks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "floral-lace-skirt",
+    "name": "Floral Lace Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "floral-skirt",
+    "name": "Floral Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "football-pants",
+    "name": "Football Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "formal-shorts",
+    "name": "Formal Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "frilly-pants",
+    "name": "Frilly Pants",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "frilly-skirt",
+    "name": "Frilly Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "frilly-sweatpants",
+    "name": "Frilly Sweatpants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "fringe-skirt",
+    "name": "Fringe Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "frog-costume-pants",
+    "name": "Frog-costume Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "set": "Frog Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "funky-dot-skirt",
+    "name": "Funky-dot Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ganondorf-pants",
+    "name": "Ganondorf Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "ganon"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gaucho-pants",
+    "name": "Gaucho Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "genie-pants",
+    "name": "Genie Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Genie Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "geometric-print-pants",
+    "name": "Geometric-print Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "gingham-picnic-skirt",
+    "name": "Gingham Picnic Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "giraffe-pants",
+    "name": "Giraffe Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gobelin-shorts",
+    "name": "Gobelin Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "gold-armor-pants",
+    "name": "Gold-armor Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Historical"
+        ],
+        "set": "Centurion Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "grass-skirt",
+    "name": "Grass Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gray-formal-pants",
+    "name": "Gray Formal Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gray-formal-skirt",
+    "name": "Gray Formal Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gray-stripe-pants",
+    "name": "Gray-stripe Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gray-sweatpants",
+    "name": "Gray Sweatpants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gray-tartan-skirt",
+    "name": "Gray Tartan Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-gingham-shorts",
+    "name": "Green Gingham Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "toby"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-grass-skirt",
+    "name": "Green Grass Skirt",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "recipe": {
+          "clump-of-weeds": 7
+        }
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "green-gym-shorts",
+    "name": "Green Gym Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-plaid-shorts",
+    "name": "Green Plaid Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-tartan-pants",
+    "name": "Green Tartan Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-warm-up-pants",
+    "name": "Green Warm-up Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-zap-pants",
+    "name": "Green-zap Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Green Superhero Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "heros-pants",
+    "name": "Hero's Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Hero Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "sources": [
+          "Fortune cookie #5"
+        ]
+      }
+    }
+  },
+  {
+    "id": "hickory-stripe-pants",
+    "name": "Hickory-stripe Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "high-spirits-pants",
+    "name": "High-spirits Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-Roll"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "holden"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hot-spring-skirt",
+    "name": "Hot Spring Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "imperial-pants",
+    "name": "Imperial Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Imperial Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "jester-pants",
+    "name": "Jester Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "set": "Jester Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "jinbei-shorts",
+    "name": "Jinbei Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "jogging-shorts",
+    "name": "Jogging Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "jungle-camo-pants",
+    "name": "Jungle-camo Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "jungle-camo-shorts",
+    "name": "Jungle-camo Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kappa-costume-pants",
+    "name": "Kappa-costume Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "set": "Kappa Outfit",
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 15
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kilt",
+    "name": "Kilt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "knit-pants",
+    "name": "Knit Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 227
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 910
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "knit-skirt",
+    "name": "Knit Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 227
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 910
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "kung-fu-pants",
+    "name": "Kung-fu Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "labelle-shorts",
+    "name": "Labelle Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 635
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2540
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "labelle-skirt",
+    "name": "Labelle Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 775
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "lace-shorts",
+    "name": "Lace Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "lace-skirt",
+    "name": "Lace Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 230
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 920
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "lemon-skirt",
+    "name": "Lemon Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "leopard-miniskirt",
+    "name": "Leopard Miniskirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 455
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1820
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "leopard-pants",
+    "name": "Leopard Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "leopard-skirt",
+    "name": "Leopard Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lite-polka-skirt",
+    "name": "Lite Polka Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "long-chino-skirt",
+    "name": "Long Chino Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "long-denim-skirt",
+    "name": "Long Denim Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "long-plaid-skirt",
+    "name": "Long Plaid Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 362
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1450
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "long-pleated-skirt",
+    "name": "Long Pleated Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "long-polka-skirt",
+    "name": "Long Polka Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "long-sailor-skirt",
+    "name": "Long Sailor Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "long-sweatskirt",
+    "name": "Long Sweatskirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "matadors-pants",
+    "name": "Matador's Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "military-pants",
+    "name": "Military Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mint-gingham-skirt",
+    "name": "Mint Gingham Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "muay-thai-shorts",
+    "name": "Muay-thai Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "multicolor-shorts",
+    "name": "Multicolor Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "mummy-pants",
+    "name": "Mummy Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "set": "Mummy Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "natty-skirt",
+    "name": "Natty Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "navy-formal-pants",
+    "name": "Navy Formal Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "navy-formal-skirt",
+    "name": "Navy Formal Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "new-spring-skirt",
+    "name": "New Spring Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ninja-pants",
+    "name": "Ninja Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Historical"
+        ],
+        "set": "Ninja Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "noble-pants",
+    "name": "Noble Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1075
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "orange-pants",
+    "name": "Orange Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Worker Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "outdoor-shorts",
+    "name": "Outdoor Shorts",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "pastel-check-skirt",
+    "name": "Pastel-check Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "patched-knee-pants",
+    "name": "Patched-knee Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "patched-pants",
+    "name": "Patched Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Halloween (Neighbor trick)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "patchwork-skirt",
+    "name": "Patchwork Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "pearl-skirt",
+    "name": "Pearl Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "pep-squad-skirt",
+    "name": "Pep-squad Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "petal-skirt",
+    "name": "Petal Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "picnic-skirt",
+    "name": "Picnic Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pineapple-aloha-shorts",
+    "name": "Pineapple Aloha Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "pink-argyle-skirt",
+    "name": "Pink Argyle Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-pj-bottoms",
+    "name": "Pink Pj Bottoms",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-sweatpants",
+    "name": "Pink Sweatpants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "plaid-shorts",
+    "name": "Plaid Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "pleather-flare-skirt",
+    "name": "Pleather Flare Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "pleather-pants",
+    "name": "Pleather Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pleather-patch-skirt",
+    "name": "Pleather Patch Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "pleather-shorts",
+    "name": "Pleather Shorts",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "pleather-skirt",
+    "name": "Pleather Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "plover-skirt",
+    "name": "Plover Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "polka-dot-mini-skirt",
+    "name": "Polka-dot Mini Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "punk-pants",
+    "name": "Punk Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 455
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1820
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "racing-pants",
+    "name": "Racing Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Racer Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rain-pants",
+    "name": "Rain Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "rainbow-plaid-shorts",
+    "name": "Rainbow Plaid Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-boxing-shorts",
+    "name": "Red Boxing Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-grid-skirt",
+    "name": "Red-grid Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-gym-shorts",
+    "name": "Red Gym Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Able Sisters (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-plaid-skirt",
+    "name": "Red Plaid Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-polka-skirt",
+    "name": "Red Polka Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-stripe-pants",
+    "name": "Red-stripe Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-tartan-pants",
+    "name": "Red Tartan Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-warm-up-pants",
+    "name": "Red Warm-up Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-zap-pants",
+    "name": "Red-zap Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Red Superhero Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "relay-shorts",
+    "name": "Relay Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "royal-shorts",
+    "name": "Royal Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "set": "King Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "running-pants",
+    "name": "Running Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sailor-skirt",
+    "name": "Sailor Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "samurai-pants",
+    "name": "Samurai Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Harmonious",
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Historical"
+        ],
+        "set": "Samurai Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "santa-pants",
+    "name": "Santa Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters (12/1 - 12/24)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "satin-pants",
+    "name": "Satin Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "scale-armor-pants",
+    "name": "Scale-armor Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Historical"
+        ],
+        "set": "Viking Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "school-pants",
+    "name": "School Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "sheik-pants",
+    "name": "Sheik Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "epona"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "silk-floral-print-pants",
+    "name": "Silk Floral-print Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 360
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1440
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "silk-pants",
+    "name": "Silk Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 360
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1440
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "ski-pants",
+    "name": "Ski Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "slacks",
+    "name": "Slacks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "soccer-shorts",
+    "name": "Soccer Shorts",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "space-pants",
+    "name": "Space Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Astronaut Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "spangle-shorts",
+    "name": "Spangle Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "sporty-skirt",
+    "name": "Sporty Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "striped-bell-bottoms",
+    "name": "Striped Bell-bottoms",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "striped-pants",
+    "name": "Striped Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "striped-shorts",
+    "name": "Striped Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "surfing-shorts",
+    "name": "Surfing Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "sweatpants",
+    "name": "Sweatpants",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "tan-dogtooth-pants",
+    "name": "Tan Dogtooth Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tennis-skirt",
+    "name": "Tennis Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 360
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1440
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "terry-cloth-shorts",
+    "name": "Terry-cloth Shorts",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 315
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1260
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "three-quarter-sweatpants",
+    "name": "Three-quarter Sweatpants",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "tie-dye-skirt",
+    "name": "Tie-dye Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 315
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1260
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "tiered-skirt",
+    "name": "Tiered Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "tiger-pants",
+    "name": "Tiger Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "torn-pants",
+    "name": "Torn Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "track-pants",
+    "name": "Track Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "traditional-monpe-pants",
+    "name": "Traditional Monpe Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "traditional-suteteko-pants",
+    "name": "Traditional Suteteko Pants",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "tweed-frilly-skirt",
+    "name": "Tweed Frilly Skirt",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "tweed-pants",
+    "name": "Tweed Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "tweed-skirt",
+    "name": "Tweed Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "two-tone-pants",
+    "name": "Two-tone Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shipping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "upcycled-skirt",
+    "name": "Upcycled Skirt",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "varia-suit-pants",
+    "name": "Varia Suit Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "set": "Bounty Hunter Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "sources": [
+          "Fortune cookie #42"
+        ]
+      }
+    }
+  },
+  {
+    "id": "vibrant-shorts",
+    "name": "Vibrant Shorts",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "western-pants",
+    "name": "Western Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Cowboy Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-formal-pants",
+    "name": "White Formal Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-lace-skirt",
+    "name": "White-lace Skirt",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wide-chino-pants",
+    "name": "Wide Chino Pants",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "workout-pants",
+    "name": "Workout Pants",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "worn-out-cutoffs",
+    "name": "Worn-out Cutoffs",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 960
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "worn-out-jeans",
+    "name": "Worn-out Jeans",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wrestler-pants",
+    "name": "Wrestler Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Pro Wrestler Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Able Sisters"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yacht-shorts",
+    "name": "Yacht Shorts",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Bottoms"
+  },
+  {
+    "id": "zebra-pants",
+    "name": "Zebra Pants",
+    "category": "Bottoms",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 900
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  }
+]

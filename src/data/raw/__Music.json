@@ -1,0 +1,3749 @@
+[
+  {
+    "id": "agent-kk",
+    "name": "Agent K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "aloha-kk",
+    "name": "Aloha K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "animal-city",
+    "name": "Animal City",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    },
+    "category": "Music"
+  },
+  {
+    "id": "bubblegum-kk",
+    "name": "Bubblegum K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cafe-kk",
+    "name": "Café K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "comrade-kk",
+    "name": "Comrade K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dj-kk",
+    "name": "DJ K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "drivin",
+    "name": "Drivin'",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    },
+    "category": "Music"
+  },
+  {
+    "id": "farewell",
+    "name": "Farewell",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    },
+    "category": "Music"
+  },
+  {
+    "id": "forest-life",
+    "name": "Forest Life",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "go-kk-rider",
+    "name": "Go K.K. Rider",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hypno-kk",
+    "name": "Hypno K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "i-love-you",
+    "name": "I Love You",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "imperial-kk",
+    "name": "Imperial K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "king-kk",
+    "name": "King K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-adventure",
+    "name": "K.K. Adventure",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-aria",
+    "name": "K.K. Aria",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-ballad",
+    "name": "K.K. Ballad",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-bazaar",
+    "name": "K.K. Bazaar",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-birthday",
+    "name": "K.K. Birthday",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-blues",
+    "name": "K.K. Blues",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-bossa",
+    "name": "K.K. Bossa",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-calypso",
+    "name": "K.K. Calypso",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-casbah",
+    "name": "K.K. Casbah",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-chorale",
+    "name": "K.K. Chorale",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-condor",
+    "name": "K.K. Condor",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-country",
+    "name": "K.K. Country",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic",
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-cruisin",
+    "name": "K.K. Cruisin'",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-db",
+    "name": "K.K. D&B",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-dirge",
+    "name": "K.K. Dirge",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-disco",
+    "name": "K.K. Disco",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-dixie",
+    "name": "K.K. Dixie",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-etude",
+    "name": "K.K. Étude",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-faire",
+    "name": "K.K. Faire",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-flamenco",
+    "name": "K.K. Flamenco",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-folk",
+    "name": "K.K. Folk",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-fusion",
+    "name": "K.K. Fusion",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-groove",
+    "name": "K.K. Groove",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-gumbo",
+    "name": "K.K. Gumbo",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-house",
+    "name": "K.K. House",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-island",
+    "name": "K.K. Island",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-jazz",
+    "name": "K.K. Jazz",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-jongara",
+    "name": "K.K. Jongara",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-lament",
+    "name": "K.K. Lament",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-love-song",
+    "name": "K.K. Love Song",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-lullaby",
+    "name": "K.K. Lullaby",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-mambo",
+    "name": "K.K. Mambo",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-marathon",
+    "name": "K.K. Marathon",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-march",
+    "name": "K.K. March",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-mariachi",
+    "name": "K.K. Mariachi",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    },
+    "category": "Music"
+  },
+  {
+    "id": "kk-metal",
+    "name": "K.K. Metal",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-milonga",
+    "name": "K.K. Milonga",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-moody",
+    "name": "K.K. Moody",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-oasis",
+    "name": "K.K. Oasis",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-parade",
+    "name": "K.K. Parade",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-ragtime",
+    "name": "K.K. Ragtime",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic",
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-rally",
+    "name": "K.K. Rally",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-reggae",
+    "name": "K.K. Reggae",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-rock",
+    "name": "K.K. Rock",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-rockabilly",
+    "name": "K.K. Rockabilly",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-safari",
+    "name": "K.K. Safari",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-salsa",
+    "name": "K.K. Salsa",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-samba",
+    "name": "K.K. Samba",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic",
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-ska",
+    "name": "K.K. Ska",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-sonata",
+    "name": "K.K. Sonata",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-song",
+    "name": "K.K. Song",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-soul",
+    "name": "K.K. Soul",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-steppe",
+    "name": "K.K. Steppe",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-stroll",
+    "name": "K.K. Stroll",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-swing",
+    "name": "K.K. Swing",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-synth",
+    "name": "K.K. Synth",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-tango",
+    "name": "K.K. Tango",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-technopop",
+    "name": "K.K. Technopop",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-waltz",
+    "name": "K.K. Waltz",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kk-western",
+    "name": "K.K. Western",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lucky-kk",
+    "name": "Lucky K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "marine-song-2001",
+    "name": "Marine Song 2001",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mountain-song",
+    "name": "Mountain Song",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mr-kk",
+    "name": "Mr. K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "my-place",
+    "name": "My Place",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "neapolitan",
+    "name": "Neapolitan",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "only-me",
+    "name": "Only Me",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pondering",
+    "name": "Pondering",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rockin-kk",
+    "name": "Rockin' K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "senor-kk",
+    "name": "Señor K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "soulful-kk",
+    "name": "Soulful K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "space-kk",
+    "name": "Space K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "spring-blossoms",
+    "name": "Spring Blossoms",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "stale-cupcakes",
+    "name": "Stale Cupcakes",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "steep-hill",
+    "name": "Steep Hill",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "surfin-kk",
+    "name": "Surfin' K.K.",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "the-k-funk",
+    "name": "The K. Funk",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "to-the-edge",
+    "name": "To The Edge",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "two-days-ago",
+    "name": "Two Days Ago",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wandering",
+    "name": "Wandering",
+    "category": "Music",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "K.K. Slider",
+          "T.I.Y."
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "welcome-horizons",
+    "name": "Welcome Horizons",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    },
+    "category": "Music"
+  }
+]

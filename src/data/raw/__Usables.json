@@ -1,0 +1,2155 @@
+[
+  {
+    "id": "acorn",
+    "name": "Acorn",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "aquarius-fragment",
+    "name": "Aquarius Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "aries-fragment",
+    "name": "Aries Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "bamboo-piece",
+    "name": "Bamboo Piece",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hitting bamboo with an axe"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "bamboo-shoot",
+    "name": "Bamboo Shoot",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "sources": [
+          "T&T Emporium"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        }
+      }
+    }
+  },
+  {
+    "id": "beans",
+    "name": "Beans",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Bean Day (JP",
+          "Nookling stores)",
+          "Harvey (While feeding birds)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bell-voucher",
+    "name": "Bell Voucher",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "birthday-cupcake",
+    "name": "Birthday Cupcake",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "black-wrapping-paper",
+    "name": "Black Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "blue-glow-wand",
+    "name": "Blue Glow Wand",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Winter Solstice (Isabelle)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-ornament",
+    "name": "Blue Ornament",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "blue-wrapping-paper",
+    "name": "Blue Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "boot",
+    "name": "Boot",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": -80
+        },
+        "sources": [
+          "Freshwater or sea (medium shadow)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Fishing"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        }
+      }
+    }
+  },
+  {
+    "id": "brown-wrapping-paper",
+    "name": "Brown Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "bubble-wand",
+    "name": "Bubble Wand",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Happy Home Showcase (6 StreetPass)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Harvest Festival (villagers)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cancer-fragment",
+    "name": "Cancer Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "candy",
+    "name": "Candy",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Halloween (villagers)",
+          "Nookling stores (October)",
+          "Bunny Day (eating egg)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "capricorn-fragment",
+    "name": "Capricorn Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "cedar-sapling",
+    "name": "Cedar Sapling",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15
+        },
+        "sources": [
+          "Gardening Store"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        }
+      }
+    }
+  },
+  {
+    "id": "chartreuse-wrapping-paper",
+    "name": "Chartreuse Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "cherry-blossom-petal",
+    "name": "Cherry-blossom Petal",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Catch with a net"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "choco-soft-serve",
+    "name": "Choco Soft-serve",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Happy Home Showcase (9 StreetPass)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "chocolate-coin",
+    "name": "Chocolate Coin",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Gulliver (incorrect -- any country)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "chocolate-heart",
+    "name": "Chocolate Heart",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Valentine's Day (Letter from villager with maximum friendship level)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "clay",
+    "name": "Clay",
+    "category": "Usables",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hitting rocks with a shovel or axe"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        }
+      }
+    }
+  },
+  {
+    "id": "clump-of-weeds",
+    "name": "Clump Of Weeds",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Pick up from ground"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "coffee",
+    "name": "Coffee",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Brewster (standing)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "customizable-phone-case-kit",
+    "name": "Customizable Phone Case Kit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 9000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 36000
+          }
+        ]
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "customization-kit",
+    "name": "Customization Kit",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "deep-sea-egg",
+    "name": "Deep-sea Egg",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Bunny Day (diving",
+          "small shadow)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "earth-egg",
+    "name": "Earth Egg",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Bunny Day (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "egg-message-bottle",
+    "name": "Egg Message Bottle",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 222
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "elegant-mushroom",
+    "name": "Elegant Mushroom",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        },
+        "sources": [
+          "Near trees (only in November)"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        }
+      }
+    }
+  },
+  {
+    "id": "empty-can",
+    "name": "Empty Can",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": -80
+        },
+        "sources": [
+          "Freshwater or sea (small shadow)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Fishing"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        }
+      }
+    }
+  },
+  {
+    "id": "fertilizer",
+    "name": "Fertilizer",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "T&T Emporium"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fish-bait",
+    "name": "Fish Bait",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "recipe": {
+          "manila-clam": 1
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "flat-mushroom",
+    "name": "Flat Mushroom",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Near trees (only in November)"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "flour",
+    "name": "Flour",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Harvest Festival (villagers)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "fortune-cookie",
+    "name": "Fortune Cookie",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fountain-firework",
+    "name": "Fountain Firework",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Isabelle (Fireworks Show)",
+          "Nookling stores (August)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gemini-fragment",
+    "name": "Gemini Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "gold-nugget",
+    "name": "Gold Nugget",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Inside rocks (smash with a shovel)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hitting rocks with a shovel or axe"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        }
+      }
+    }
+  },
+  {
+    "id": "gold-ornament",
+    "name": "Gold Ornament",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "gold-wrapping-paper",
+    "name": "Gold Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "good-coffee-beans",
+    "name": "Good Coffee Beans",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "Brewster (work at The Roost",
+          "5-8 correct options)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "good-luck-roll",
+    "name": "Good-luck Roll",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Bean Day (JP",
+          "Nookling stores)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "grand-prize-ticket",
+    "name": "Grand-prize Ticket",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Bunny Day (eating egg)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gray-wrapping-paper",
+    "name": "Gray Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "green-glow-wand",
+    "name": "Green Glow Wand",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Nookling stores (December)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-wrapping-paper",
+    "name": "Green Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "hardwood",
+    "name": "Hardwood",
+    "category": "Usables",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hitting trees with an axe"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        }
+      }
+    }
+  },
+  {
+    "id": "iron-nugget",
+    "name": "Iron Nugget",
+    "category": "Usables",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hitting rocks with a shovel or axe"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        }
+      }
+    }
+  },
+  {
+    "id": "large-snowflake",
+    "name": "Large Snowflake",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "large-star-fragment",
+    "name": "Large Star Fragment",
+    "games": {
+      "nh": {
+        "sources": [
+          "May be found on the beach the day after wishing on a star"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "leaf-egg",
+    "name": "Leaf Egg",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shake trees"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "lemon-double-scoop",
+    "name": "Lemon Double Scoop",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Happy Home Showcase (8 StreetPass)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "leo-fragment",
+    "name": "Leo Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "libra-fragment",
+    "name": "Libra Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "light-blue-wrapping-paper",
+    "name": "Light-blue Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "lollipop",
+    "name": "Lollipop",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Halloween (scaring villagers)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "manila-clam",
+    "name": "Manila Clam",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Dig up on beach"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "maple-leaf",
+    "name": "Maple Leaf",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "matcha-soft-serve",
+    "name": "Matcha Soft-serve",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Happy Home Showcase (9 StreetPass)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "medicine",
+    "name": "Medicine",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Nookling stores (T&T Mart at least)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        }
+      }
+    }
+  },
+  {
+    "id": "message-bottle",
+    "name": "Message Bottle",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "milk",
+    "name": "Milk",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Harvest Festival (villagers)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mint-double-scoop",
+    "name": "Mint Double Scoop",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Happy Home Showcase (8 StreetPass)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mint-wrapping-paper",
+    "name": "Mint Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "mitten",
+    "name": "Mitten",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Undelivered lost item"
+        ]
+      }
+    }
+  },
+  {
+    "id": "navy-wrapping-paper",
+    "name": "Navy Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "nook-miles-ticket",
+    "name": "Nook Miles Ticket",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10000
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "normal-coffee-beans",
+    "name": "Normal Coffee Beans",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Brewster (work at The Roost",
+          "1-4 correct options)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ocarina",
+    "name": "Ocarina",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "recipe": {
+          "clay": 5
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "old-tire",
+    "name": "Old Tire",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Fishing"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "orange-wrapping-paper",
+    "name": "Orange Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "paper-scrap",
+    "name": "Paper Scrap",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": -120
+        },
+        "sources": [
+          "Undelivered petition form"
+        ]
+      }
+    }
+  },
+  {
+    "id": "party-popper",
+    "name": "Party Popper",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Redd (Fireworks Show)",
+          "Nookling stores (December)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 300
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 25
+        }
+      }
+    }
+  },
+  {
+    "id": "pine-cone",
+    "name": "Pine Cone",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "pink-glow-wand",
+    "name": "Pink Glow Wand",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Nookling stores (December)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-wrapping-paper",
+    "name": "Pink Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "pisces-fragment",
+    "name": "Pisces Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "pitfall-seed",
+    "name": "Pitfall Seed",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        },
+        "sources": [
+          "Dig spot",
+          "Police Station (lost and found)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "recipe": {
+          "clump-of-weeds": 4,
+          "tree-branch": 6
+        }
+      }
+    }
+  },
+  {
+    "id": "pouch",
+    "name": "Pouch",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Undelivered lost item"
+        ]
+      }
+    }
+  },
+  {
+    "id": "purple-wrapping-paper",
+    "name": "Purple Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "rare-mushroom",
+    "name": "Rare Mushroom",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 16000
+        },
+        "sources": [
+          "Near trees (only in November)"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 16000
+        }
+      }
+    }
+  },
+  {
+    "id": "red-ornament",
+    "name": "Red Ornament",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "red-wrapping-paper",
+    "name": "Red Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "roman-candle",
+    "name": "Roman Candle",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Isabelle (Countdown",
+          "Fireworks Show)",
+          "Redd (Fireworks Show -- dud ticket)",
+          "Nookling stores (August)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 500
+          },
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "round-mushroom",
+    "name": "Round Mushroom",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Near trees (only in November)"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "rusted-part",
+    "name": "Rusted Part",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Recycling Bin",
+          "Letting communicator parts rust"
+        ]
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "sagittarius-fragment",
+    "name": "Sagittarius Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "saharah-ticket",
+    "name": "Saharah Ticket",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "sapling",
+    "name": "Sapling",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15
+        },
+        "sources": [
+          "Gardening Store"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        }
+      }
+    }
+  },
+  {
+    "id": "scorpius-fragment",
+    "name": "Scorpius Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "skinny-mushroom",
+    "name": "Skinny Mushroom",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Near trees (only in November)",
+          "near tree stumps."
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        }
+      }
+    }
+  },
+  {
+    "id": "sky-egg",
+    "name": "Sky Egg",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Bunny Day (gift balloon)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hit an egg balloon with a slingshot"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "snowflake",
+    "name": "Snowflake",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "softwood",
+    "name": "Softwood",
+    "category": "Usables",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hitting trees with an axe"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        }
+      }
+    }
+  },
+  {
+    "id": "sparkler",
+    "name": "Sparkler",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Isabelle (Countdown",
+          "Fireworks Show)",
+          "Redd (Fireworks Show -- dud ticket)",
+          "Nookling stores (August)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 500
+          },
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sparkling-cider",
+    "name": "Sparkling Cider",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Countdown (Isabelle)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "star-fragment",
+    "name": "Star Fragment",
+    "games": {
+      "nh": {
+        "sources": [
+          "May be found on the beach the day after wishing on a star"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "stone-egg",
+    "name": "Stone Egg",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Bunny Day (breakable rock)"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "stone",
+    "name": "Stone",
+    "category": "Usables",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hitting rocks with a shovel or axe"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 75
+        }
+      }
+    }
+  },
+  {
+    "id": "strawberry-ice-cream",
+    "name": "Strawberry Ice Cream",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Happy Home Showcase (8 StreetPass)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sugar",
+    "name": "Sugar",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Harvest Festival (villagers)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "superb-coffee-beans",
+    "name": "Superb Coffee Beans",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "Brewster (work at The Roost",
+          "9-12 correct options)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "swirl-soft-serve",
+    "name": "Swirl Soft-serve",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Happy Home Showcase (9 StreetPass)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tailors-ticket",
+    "name": "Tailors Ticket",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "taurus-fragment",
+    "name": "Taurus Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "tire",
+    "name": "Tire",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": -80
+        },
+        "sources": [
+          "Freshwater or sea (shadow)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "towel",
+    "name": "Towel",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 12
+        },
+        "sources": [
+          "April Fool's (villagers)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tree-branch",
+    "name": "Tree Branch",
+    "category": "Usables",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Shaking trees",
+          "Pick up from ground"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5
+        }
+      }
+    }
+  },
+  {
+    "id": "tree-egg",
+    "name": "Tree Egg",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Bunny Day (shaking trees)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tricky-pitfall-seed",
+    "name": "Tricky Pitfall Seed",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 20
+        },
+        "sources": [
+          "Police Station (lost and found)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tweeter",
+    "name": "Tweeter",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Happy Home Showcase (10 StreetPass)",
+          "Countdown (Isabelle -- EU English and Italian)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "used-firework",
+    "name": "Used Firework",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Using fountain firework"
+        ]
+      }
+    }
+  },
+  {
+    "id": "vanilla-ice-cream",
+    "name": "Vanilla Ice Cream",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Happy Home Showcase (8 StreetPass)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "vanilla-soft-serve",
+    "name": "Vanilla Soft-serve",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Happy Home Showcase (9 StreetPass)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "vinegar",
+    "name": "Vinegar",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Harvest Festival (villagers)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "virgo-fragment",
+    "name": "Virgo Fragment",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "wasp-nest",
+    "name": "Wasp Nest",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Trees"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "water-egg",
+    "name": "Water Egg",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Bunny Day (fishing",
+          "small shadow)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Fishing"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    }
+  },
+  {
+    "id": "white-wrapping-paper",
+    "name": "White Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "winning-ticket",
+    "name": "Winning Ticket",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Bunny Day (eating egg)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "wisp-spirit-piece",
+    "name": "Wisp Spirit Piece",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Catch with your net while Wisp quest is active"
+        ]
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "wood-egg",
+    "name": "Wood Egg",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hitting trees with an axe"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "wood",
+    "name": "Wood",
+    "category": "Usables",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Hitting trees with an axe"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        }
+      }
+    }
+  },
+  {
+    "id": "wrapping-paper",
+    "name": "Wrapping Paper",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-glow-wand",
+    "name": "Yellow Glow Wand",
+    "category": "Usables",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Nookling stores (December)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-wrapping-paper",
+    "name": "Yellow Wrapping Paper",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        }
+      }
+    },
+    "category": "Usables"
+  },
+  {
+    "id": "young-spring-bamboo",
+    "name": "Young Spring Bamboo",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Chopping down bamboo in the spring"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        }
+      }
+    },
+    "category": "Usables"
+  }
+]

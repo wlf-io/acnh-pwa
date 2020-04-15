@@ -1,0 +1,2200 @@
+[
+  {
+    "id": "aerobics-leggings",
+    "name": "Aerobics Leggings",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "aran-knit-socks",
+    "name": "Aran-knit Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "argyle-crew-socks",
+    "name": "Argyle Crew Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "argyle-socks",
+    "name": "Argyle Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "argyle-tights",
+    "name": "Argyle Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "back-bow-socks",
+    "name": "Back-bow Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "beige-tights",
+    "name": "Beige Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-ankle-socks",
+    "name": "Black Ankle Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 30
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 120
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-leggings",
+    "name": "Black Leggings",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-stockings",
+    "name": "Black Stockings",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-tights",
+    "name": "Black Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-stripe-tights",
+    "name": "Blue-stripe Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bobby-socks",
+    "name": "Bobby Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "brown-socks",
+    "name": "Brown Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "brown-stripe-socks",
+    "name": "Brown-stripe Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "callie-tights",
+    "name": "Callie Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-Roll"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "cece"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "checkered-socks",
+    "name": "Checkered Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "color-blocked-socks",
+    "name": "Color-blocked Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "colorful-socks",
+    "name": "Colorful Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "compression-tights",
+    "name": "Compression Tights",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "country-socks",
+    "name": "Country Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "crocheted-socks",
+    "name": "Crocheted Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "denim-leggings",
+    "name": "Denim Leggings",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 135
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 540
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "dotted-knee-high-socks",
+    "name": "Dotted Knee-high Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "dress-socks",
+    "name": "Dress Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 30
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 120
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "embroidered-flower-tights",
+    "name": "Embroidered-flower Tights",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "everyday-socks",
+    "name": "Everyday Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "everyday-tights",
+    "name": "Everyday Tights",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "fishnet-tights",
+    "name": "Fishnet Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flowery-dot-tights",
+    "name": "Flowery-dot Tights",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "frilly-knee-high-socks",
+    "name": "Frilly Knee-high Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "frilly-socks",
+    "name": "Frilly Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "funny-face-socks",
+    "name": "Funny-face Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "garter-socks",
+    "name": "Garter Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "geometric-print-socks",
+    "name": "Geometric-print Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 237
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 950
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "gray-leggings",
+    "name": "Gray Leggings",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gray-socks",
+    "name": "Gray Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gray-tights",
+    "name": "Gray Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-stripe-socks",
+    "name": "Green-stripe Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-tights",
+    "name": "Green Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hand-knit-socks",
+    "name": "Hand-knit Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "heart-print-tights",
+    "name": "Heart-print Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hiking-gaiters",
+    "name": "Hiking Gaiters",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "holey-socks",
+    "name": "Holey Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "holey-tights",
+    "name": "Holey Tights",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 87
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 350
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "kiddie-socks",
+    "name": "Kiddie Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "kiki-and-lala-socks",
+    "name": "Kiki And Lala Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "etoile"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "labelle-socks",
+    "name": "Labelle Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 235
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 940
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "labelle-tights",
+    "name": "Labelle Tights",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 310
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1240
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "lace-socks",
+    "name": "Lace Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "layered-socks",
+    "name": "Layered Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "leg-warmers",
+    "name": "Leg Warmers",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 110
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 440
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "marie-tights",
+    "name": "Marie Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-Roll"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "viche"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mixed-tweed-socks",
+    "name": "Mixed-tweed Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "navy-socks",
+    "name": "Navy Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "neon-leggings",
+    "name": "Neon Leggings",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 135
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 540
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "neon-tights",
+    "name": "Neon Tights",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "no-show-socks",
+    "name": "No-show Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "nook-inc-socks",
+    "name": "Nook Inc. Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Miles System"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "buyPrices": [
+          {
+            "currency": "miles",
+            "value": 400
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "nordic-socks",
+    "name": "Nordic Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "patterned-stockings",
+    "name": "Patterned Stockings",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 235
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 940
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "polka-dot-socks",
+    "name": "Polka-dot Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pom-pom-socks",
+    "name": "Pom-pom Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "puckered-socks",
+    "name": "Puckered Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "purple-star-socks",
+    "name": "Purple Star Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "purple-stripe-tights",
+    "name": "Purple-stripe Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rainbow-tights",
+    "name": "Rainbow Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 75
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-striped-socks",
+    "name": "Red Striped Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "toby"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-tights",
+    "name": "Red Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "running-tights",
+    "name": "Running Tights",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 137
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 550
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "semi-opaque-socks",
+    "name": "Semi-opaque Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "semi-opaque-tights",
+    "name": "Semi-opaque Tights",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "sequin-leggings",
+    "name": "Sequin Leggings",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 235
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 940
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "sheer-socks",
+    "name": "Sheer Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "simple-accent-socks",
+    "name": "Simple-accent Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "simple-knee-high-socks",
+    "name": "Simple Knee-high Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "soccer-socks",
+    "name": "Soccer Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "spider-web-tights",
+    "name": "Spider-web Tights",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "star-tights",
+    "name": "Star Tights",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 50
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "stockings",
+    "name": "Stockings",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "stretch-leggings",
+    "name": "Stretch Leggings",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 112
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 450
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "striped-socks",
+    "name": "Striped Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "striped-tights",
+    "name": "Striped Tights",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "tabi",
+    "name": "Tabi",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "terry-cloth-socks",
+    "name": "Terry-cloth Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "tube-socks",
+    "name": "Tube Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ultra-no-show-socks",
+    "name": "Ultra No-show Socks",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "vivid-leggings",
+    "name": "Vivid Leggings",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 112
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 450
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "vivid-socks",
+    "name": "Vivid Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "vivid-tights",
+    "name": "Vivid Tights",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "wave-print-socks",
+    "name": "Wave-print Socks",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    },
+    "category": "Socks"
+  },
+  {
+    "id": "white-ankle-socks",
+    "name": "White Ankle Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-lace-socks",
+    "name": "White-lace Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 30
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 120
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-socks",
+    "name": "White Socks",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-stockings",
+    "name": "White Stockings",
+    "category": "Socks",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  }
+]

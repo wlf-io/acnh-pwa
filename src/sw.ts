@@ -7,7 +7,7 @@ import WebRequest from "./services/WebRequest";
         private static instance: Worker | null = null;
 
         public static readonly CachePrefix = "pwaCache";
-        public static readonly CacheName = Worker.CachePrefix + "%%%DATE%%%";
+        public static readonly CacheName = Worker.CachePrefix + "%%%VERSION%%%";
 
         public static Factory(): Worker {
             if (Worker.instance === null) {

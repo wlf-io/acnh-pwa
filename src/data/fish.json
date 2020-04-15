@@ -1,0 +1,5818 @@
+[
+  {
+    "id": "anchovy",
+    "name": "Anchovy",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 200
+    }
+  },
+  {
+    "id": "angelfish",
+    "name": "Angelfish",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 3000
+    }
+  },
+  {
+    "id": "arapaima",
+    "name": "Arapaima",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 10000
+    }
+  },
+  {
+    "id": "arowana",
+    "name": "Arowana",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 10000
+    }
+  },
+  {
+    "id": "barred-knifejaw",
+    "name": "Barred Knifejaw",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "sep",
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 5000
+    }
+  },
+  {
+    "id": "barreleye",
+    "name": "Barreleye",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 15000
+    }
+  },
+  {
+    "id": "betta",
+    "name": "Betta",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 2500
+    }
+  },
+  {
+    "id": "bitterling",
+    "name": "Bitterling",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 900
+    }
+  },
+  {
+    "id": "black-bass",
+    "name": "Black Bass",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 400
+    }
+  },
+  {
+    "id": "blowfish",
+    "name": "Blowfish",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 5000
+    }
+  },
+  {
+    "id": "blue-marlin",
+    "name": "Blue Marlin",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jul",
+          "aug",
+          "sep",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": null
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 10000
+    }
+  },
+  {
+    "id": "bluegill",
+    "name": "Bluegill",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 180
+    }
+  },
+  {
+    "id": "butterfly-fish",
+    "name": "Butterfly Fish",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1000
+    }
+  },
+  {
+    "id": "carp",
+    "name": "Carp",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": null
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 300
+    }
+  },
+  {
+    "id": "catfish",
+    "name": "Catfish",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": null
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 800
+    }
+  },
+  {
+    "id": "char",
+    "name": "Char",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 3800
+    }
+  },
+  {
+    "id": "cherry-salmon",
+    "name": "Cherry Salmon",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1000
+    }
+  },
+  {
+    "id": "clown-fish",
+    "name": "Clown Fish",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 650
+    }
+  },
+  {
+    "id": "coelacanth",
+    "name": "Coelacanth",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 15000
+    }
+  },
+  {
+    "id": "crawfish",
+    "name": "Crawfish",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": null
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 200
+    }
+  },
+  {
+    "id": "crucian-carp",
+    "name": "Crucian Carp",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 160
+    }
+  },
+  {
+    "id": "dab",
+    "name": "Dab",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 300
+    }
+  },
+  {
+    "id": "dace",
+    "name": "Dace",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 240
+    }
+  },
+  {
+    "id": "dorado",
+    "name": "Dorado",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 15000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "football-fish",
+    "name": "Football Fish",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 2500
+    }
+  },
+  {
+    "id": "freshwater-goby",
+    "name": "Freshwater Goby",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 400
+    }
+  },
+  {
+    "id": "frog",
+    "name": "Frog",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 120
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb"
+        ],
+        "locale": null
+      }
+    ]
+  },
+  {
+    "id": "gar",
+    "name": "Gar",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 6000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": null
+      }
+    ]
+  },
+  {
+    "id": "giant-snakehead",
+    "name": "Giant Snakehead",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 5500
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb"
+        ],
+        "locale": null
+      }
+    ]
+  },
+  {
+    "id": "giant-trevally",
+    "name": "Giant Trevally",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 4500
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": null
+      }
+    ]
+  },
+  {
+    "id": "golden-trout",
+    "name": "Golden Trout",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 15000
+    },
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may",
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "goldfish",
+    "name": "Goldfish",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": null
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1300
+    }
+  },
+  {
+    "id": "great-white-shark",
+    "name": "Great White Shark",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 15000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "guppy",
+    "name": "Guppy",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1300
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "hammerhead-shark",
+    "name": "Hammerhead Shark",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 8000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "horse-mackerel",
+    "name": "Horse Mackerel",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 150
+    }
+  },
+  {
+    "id": "killifish",
+    "name": "Killifish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 300
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb"
+        ],
+        "locale": null
+      }
+    ]
+  },
+  {
+    "id": "king-salmon",
+    "name": "King Salmon",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1800
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [],
+        "locale": "river"
+      },
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "koi",
+    "name": "Koi",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": null
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 4000
+    }
+  },
+  {
+    "id": "loach",
+    "name": "Loach",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 400
+    }
+  },
+  {
+    "id": "mahi-mahi",
+    "name": "Mahi-mahi",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 6000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": null
+      }
+    ]
+  },
+  {
+    "id": "mitten-crab",
+    "name": "Mitten Crab",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 2000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "moray-eel",
+    "name": "Moray Eel",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 2000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "napoleonfish",
+    "name": "Napoleonfish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 10000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "months": [
+          "jul",
+          "aug"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "months": [
+          "jan",
+          "feb"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "neon-tetra",
+    "name": "Neon Tetra",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 500
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "nibble-fish",
+    "name": "Nibble Fish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1500
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "n",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "oarfish",
+    "name": "Oarfish",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 9000
+    }
+  },
+  {
+    "id": "ocean-sunfish",
+    "name": "Ocean Sunfish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 4000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "months": [
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "olive-flounder",
+    "name": "Olive Flounder",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 800
+    }
+  },
+  {
+    "id": "pale-chub",
+    "name": "Pale Chub",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 200
+    }
+  },
+  {
+    "id": "pike",
+    "name": "Pike",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1800
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may",
+          "jun"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "piranha",
+    "name": "Piranha",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 2500
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "pond-smelt",
+    "name": "Pond Smelt",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 400
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "pop-eyed-goldfish",
+    "name": "Pop-eyed Goldfish",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": null
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1300
+    }
+  },
+  {
+    "id": "puffer-fish",
+    "name": "Puffer Fish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 250
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "rainbowfish",
+    "name": "Rainbowfish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 800
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "ranchu-goldfish",
+    "name": "Ranchu Goldfish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 4500
+    },
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": null
+      }
+    ]
+  },
+  {
+    "id": "ray",
+    "name": "Ray",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 3000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "months": [
+          "aug",
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "months": [
+          "feb",
+          "mar",
+          "apr",
+          "may"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "red-snapper",
+    "name": "Red Snapper",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 3000
+    }
+  },
+  {
+    "id": "ribbon-eel",
+    "name": "Ribbon Eel",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 600
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "saddled-bichir",
+    "name": "Saddled Bichir",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 4000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "n",
+        "times": [
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "salmon",
+    "name": "Salmon",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 700
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "saw-shark",
+    "name": "Saw Shark",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 12000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "sea-bass",
+    "name": "Sea Bass",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": null,
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 400
+    }
+  },
+  {
+    "id": "sea-butterfly",
+    "name": "Sea Butterfly",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1000
+    }
+  },
+  {
+    "id": "sea-horse",
+    "name": "Sea Horse",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1100
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "snapping-turtle",
+    "name": "Snapping Turtle",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 5000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "soft-shelled-turtle",
+    "name": "Soft-shelled Turtle",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 3750
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "squid",
+    "name": "Squid",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb"
+        ],
+        "locale": "sea"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 500
+    }
+  },
+  {
+    "id": "stringfish",
+    "name": "Stringfish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 15000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "sturgeon",
+    "name": "Sturgeon",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "sep",
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 10000
+    }
+  },
+  {
+    "id": "suckerfish",
+    "name": "Suckerfish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1500
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "surgeonfish",
+    "name": "Surgeonfish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 1000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "sweetfish",
+    "name": "Sweetfish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 900
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "tadpole",
+    "name": "Tadpole",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "mar",
+          "apr",
+          "may",
+          "jun",
+          "jul"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "sep",
+          "oct",
+          "nov",
+          "dec",
+          "jan"
+        ],
+        "locale": null
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 100
+    }
+  },
+  {
+    "id": "tilapia",
+    "name": "Tilapia",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 800
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": "river"
+      }
+    ]
+  },
+  {
+    "id": "tuna",
+    "name": "Tuna",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr"
+        ],
+        "locale": null
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct"
+        ],
+        "locale": null
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 7000
+    }
+  },
+  {
+    "id": "whale-shark",
+    "name": "Whale Shark",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 13000
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "sea"
+      }
+    ]
+  },
+  {
+    "id": "yellow-perch",
+    "name": "Yellow Perch",
+    "category": "Fish",
+    "orderable": false,
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar"
+        ],
+        "locale": "river"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep"
+        ],
+        "locale": "river"
+      }
+    ],
+    "sellPrice": {
+      "currency": "bells",
+      "value": 300
+    }
+  },
+  {
+    "id": "zebra-turkeyfish",
+    "name": "Zebra Turkeyfish",
+    "category": "Fish",
+    "orderable": false,
+    "sellPrice": {
+      "currency": "bells",
+      "value": 500
+    },
+    "sources": [
+      {
+        "region": "n",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "apr",
+          "may",
+          "jun",
+          "jul",
+          "aug",
+          "sep",
+          "oct",
+          "nov"
+        ],
+        "locale": "sea"
+      },
+      {
+        "region": "s",
+        "times": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "months": [
+          "oct",
+          "nov",
+          "dec",
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "may"
+        ],
+        "locale": "sea"
+      }
+    ]
+  }
+]

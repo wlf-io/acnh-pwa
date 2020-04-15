@@ -1,0 +1,2770 @@
+[
+  {
+    "id": "acanthostega",
+    "name": "Acanthostega",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "amber",
+    "name": "Amber",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        }
+      }
+    }
+  },
+  {
+    "id": "ammonite",
+    "name": "Ammonite",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1100
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1100
+        }
+      }
+    }
+  },
+  {
+    "id": "ankylo-model",
+    "name": "Ankylo Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 9000
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ankylo-skull",
+    "name": "Ankylo Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        }
+      }
+    }
+  },
+  {
+    "id": "ankylo-tail",
+    "name": "Ankylo Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    }
+  },
+  {
+    "id": "ankylo-torso",
+    "name": "Ankylo Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    }
+  },
+  {
+    "id": "anomalocaris",
+    "name": "Anomalocaris",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "apato-model",
+    "name": "Apato Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 13500
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "apato-skull",
+    "name": "Apato Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "apato-tail",
+    "name": "Apato Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "apato-torso",
+    "name": "Apato Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "archaeopteryx",
+    "name": "Archaeopteryx",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        }
+      }
+    }
+  },
+  {
+    "id": "archelon-model",
+    "name": "Archelon Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7500
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "archelon-skull",
+    "name": "Archelon Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    }
+  },
+  {
+    "id": "archelon-tail",
+    "name": "Archelon Tail",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "archelon-torso",
+    "name": "Archelon Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "australopith",
+    "name": "Australopith",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1100
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "brachio-chest",
+    "name": "Brachio Chest",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "brachio-pelvis",
+    "name": "Brachio Pelvis",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "brachio-skull",
+    "name": "Brachio Skull",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "brachio-tail",
+    "name": "Brachio Tail",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "coprolite",
+    "name": "Coprolite",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1100
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1100
+        }
+      }
+    }
+  },
+  {
+    "id": "corpolite",
+    "name": "Corpolite",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1100
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "deinony-tail",
+    "name": "Deinony Tail",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "deinony-torso",
+    "name": "Deinony Torso",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "dimetrodon-model",
+    "name": "Dimetrodon Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dimetrodon-skull",
+    "name": "Dimetrodon Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        }
+      }
+    }
+  },
+  {
+    "id": "dimetrodon-tail",
+    "name": "Dimetrodon Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "dimetrodon-torso",
+    "name": "Dimetrodon Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    }
+  },
+  {
+    "id": "dinosaur-egg",
+    "name": "Dinosaur Egg",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1400
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "dinosaur-track",
+    "name": "Dinosaur Track",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    }
+  },
+  {
+    "id": "diplo-chest",
+    "name": "Diplo Chest",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    }
+  },
+  {
+    "id": "diplo-hip",
+    "name": "Diplo Hip",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "diplo-model",
+    "name": "Diplo Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 22000
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "diplo-neck",
+    "name": "Diplo Neck",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        }
+      }
+    }
+  },
+  {
+    "id": "diplo-pelvis",
+    "name": "Diplo Pelvis",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "diplo-skull",
+    "name": "Diplo Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    }
+  },
+  {
+    "id": "diplo-tail-tip",
+    "name": "Diplo Tail Tip",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "diplo-tail",
+    "name": "Diplo Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    }
+  },
+  {
+    "id": "dunkleosteus",
+    "name": "Dunkleosteus",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "eusthenopteron",
+    "name": "Eusthenopteron",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "fern-fossil",
+    "name": "Fern Fossil",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "fossil",
+    "name": "Fossil",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Dig spot"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ichthyo-model",
+    "name": "Ichthyo Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ichthyo-skull",
+    "name": "Ichthyo Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ichthyo-torso",
+    "name": "Ichthyo Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "iguanodon-model",
+    "name": "Iguanodon Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10500
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "iguanodon-skull",
+    "name": "Iguanodon Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    }
+  },
+  {
+    "id": "iguanodon-tail",
+    "name": "Iguanodon Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    }
+  },
+  {
+    "id": "iguanodon-torso",
+    "name": "Iguanodon Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        }
+      }
+    }
+  },
+  {
+    "id": "juramaia",
+    "name": "Juramaia",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "left-megalo-side",
+    "name": "Left Megalo Side",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "left-ptera-wing",
+    "name": "Left Ptera Wing",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "left-quetzal-wing",
+    "name": "Left Quetzal Wing",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "mammoth-model",
+    "name": "Mammoth Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mammoth-skull",
+    "name": "Mammoth Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    }
+  },
+  {
+    "id": "mammoth-torso",
+    "name": "Mammoth Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    }
+  },
+  {
+    "id": "megacero-model",
+    "name": "Megacero Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 11000
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "megacero-skull",
+    "name": "Megacero Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        }
+      }
+    }
+  },
+  {
+    "id": "megacero-tail",
+    "name": "Megacero Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    }
+  },
+  {
+    "id": "megacero-torso",
+    "name": "Megacero Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        }
+      }
+    }
+  },
+  {
+    "id": "myllokunmingia",
+    "name": "Myllokunmingia",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "ophthalmo-skull",
+    "name": "Ophthalmo Skull",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "ophthalmo-torso",
+    "name": "Ophthalmo Torso",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "opthalmo-skull",
+    "name": "Opthalmo Skull",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "opthalmo-torso",
+    "name": "Opthalmo Torso",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "pachy-model",
+    "name": "Pachy Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Re-Tail (refurbish)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "pachy-skull",
+    "name": "Pachy Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    }
+  },
+  {
+    "id": "pachy-tail",
+    "name": "Pachy Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        }
+      }
+    }
+  },
+  {
+    "id": "pachy-torso",
+    "name": "Pachy Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "parasaur-model",
+    "name": "Parasaur Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 9000
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "parasaur-skull",
+    "name": "Parasaur Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        }
+      }
+    }
+  },
+  {
+    "id": "parasaur-tail",
+    "name": "Parasaur Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    }
+  },
+  {
+    "id": "parasaur-torso",
+    "name": "Parasaur Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    }
+  },
+  {
+    "id": "peking-man",
+    "name": "Peking Man",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1100
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "plesio-body",
+    "name": "Plesio Body",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "plesio-model",
+    "name": "Plesio Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 13000
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "plesio-neck",
+    "name": "Plesio Neck",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "plesio-skull",
+    "name": "Plesio Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    }
+  },
+  {
+    "id": "plesio-tail",
+    "name": "Plesio Tail",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "plesio-torso",
+    "name": "Plesio Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ptera-body",
+    "name": "Ptera Body",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "ptera-left-wing",
+    "name": "Ptera Left Wing",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ptera-model",
+    "name": "Ptera Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 13000
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ptera-right-wing",
+    "name": "Ptera Right Wing",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ptera-skull",
+    "name": "Ptera Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "quetzal-torso",
+    "name": "Quetzal Torso",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "raptor-model",
+    "name": "Raptor Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "raptor-skull",
+    "name": "Raptor Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "raptor-torso",
+    "name": "Raptor Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "right-megalo-side",
+    "name": "Right Megalo Side",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "right-ptera-wing",
+    "name": "Right Ptera Wing",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "right-quetzal-wing",
+    "name": "Right Quetzal Wing",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "sabertooth-model",
+    "name": "Sabertooth Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sabertooth-skull",
+    "name": "Sabertooth Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    }
+  },
+  {
+    "id": "sabertooth-tail",
+    "name": "Sabertooth Tail",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "sabertooth-torso",
+    "name": "Sabertooth Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "shark-tooth-pattern",
+    "name": "Shark-tooth Pattern",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        }
+      }
+    },
+    "category": "Fossils"
+  },
+  {
+    "id": "shark-tooth",
+    "name": "Shark Tooth",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "spino-model",
+    "name": "Spino Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 9500
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "spino-skull",
+    "name": "Spino Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    }
+  },
+  {
+    "id": "spino-tail",
+    "name": "Spino Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        }
+      }
+    }
+  },
+  {
+    "id": "spino-torso",
+    "name": "Spino Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    }
+  },
+  {
+    "id": "stego-model",
+    "name": "Stego Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 13500
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "stego-skull",
+    "name": "Stego Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    }
+  },
+  {
+    "id": "stego-tail",
+    "name": "Stego Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        }
+      }
+    }
+  },
+  {
+    "id": "stego-torso",
+    "name": "Stego Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        }
+      }
+    }
+  },
+  {
+    "id": "styraco-model",
+    "name": "Styraco Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 9000
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "styraco-skull",
+    "name": "Styraco Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "styraco-tail",
+    "name": "Styraco Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "styraco-torso",
+    "name": "Styraco Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "t-rex-model",
+    "name": "T. Rex Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 16500
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "t-rex-skull",
+    "name": "T. Rex Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        }
+      }
+    }
+  },
+  {
+    "id": "t-rex-tail",
+    "name": "T. Rex Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    }
+  },
+  {
+    "id": "t-rex-torso",
+    "name": "T. Rex Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        }
+      }
+    }
+  },
+  {
+    "id": "tricera-model",
+    "name": "Tricera Model",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 15000
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tricera-skull",
+    "name": "Tricera Skull",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5500
+        }
+      }
+    }
+  },
+  {
+    "id": "tricera-tail",
+    "name": "Tricera Tail",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4500
+        }
+      }
+    }
+  },
+  {
+    "id": "tricera-torso",
+    "name": "Tricera Torso",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        }
+      }
+    }
+  },
+  {
+    "id": "trilobite",
+    "name": "Trilobite",
+    "category": "Fossils",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        },
+        "sources": [
+          "Underground (dig spot)"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Underground (dig spot)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        }
+      }
+    }
+  }
+]

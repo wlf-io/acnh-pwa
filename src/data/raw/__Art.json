@@ -1,0 +1,876 @@
+[
+  {
+    "id": "amazing-painting",
+    "name": "Amazing Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ancient-statue",
+    "name": "Ancient Statue",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "basic-painting",
+    "name": "Basic Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "beautiful-statue",
+    "name": "Beautiful Statue",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "calm-painting",
+    "name": "Calm Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "common-painting",
+    "name": "Common Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dynamic-painting",
+    "name": "Dynamic Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "famous-painting",
+    "name": "Famous Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fine-painting",
+    "name": "Fine Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flowery-painting",
+    "name": "Flowery Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gallant-statue",
+    "name": "Gallant Statue",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "graceful-painting",
+    "name": "Graceful Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "great-statue",
+    "name": "Great Statue",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "jolly-painting",
+    "name": "Jolly Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "moody-painting",
+    "name": "Moody Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "motherly-statue",
+    "name": "Motherly Statue",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "moving-painting",
+    "name": "Moving Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mystic-statue",
+    "name": "Mystic Statue",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "neutral-painting",
+    "name": "Neutral Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "nice-painting",
+    "name": "Nice Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "perfect-painting",
+    "name": "Perfect Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "proper-painting",
+    "name": "Proper Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "quaint-painting",
+    "name": "Quaint Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "robust-statue",
+    "name": "Robust Statue",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "scary-painting",
+    "name": "Scary Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "scenic-painting",
+    "name": "Scenic Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "serene-painting",
+    "name": "Serene Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "solemn-painting",
+    "name": "Solemn Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "valiant-statue",
+    "name": "Valiant Statue",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "warm-painting",
+    "name": "Warm Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wild-painting",
+    "name": "Wild Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wistful-painting",
+    "name": "Wistful Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "worthy-painting",
+    "name": "Worthy Painting",
+    "category": "Art",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 980
+        },
+        "sources": [
+          "Redd (Redd's Gallery)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3920
+          }
+        ]
+      }
+    }
+  }
+]

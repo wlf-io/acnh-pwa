@@ -1,6 +1,7 @@
 import $ from "jquery";
+import BaseComponent from "./BaseComponent";
 
-export default class Checklist implements iComponent {
+export default class Checklist extends BaseComponent {
     protected defaultItemList: string[] = [];
 
     protected renderer: iRenderer;
@@ -16,22 +17,20 @@ export default class Checklist implements iComponent {
     constructor(
         rootElementID: string,
         templateName: string,
-        storage: iStorage,
         renderer: iRenderer,
+        storage: iStorage,
         acday: iACDay,
         defaultItems: string[] = [],
     ) {
+        super(rootElementID, templateName, renderer)
         this.rootElementID = rootElementID;
         this.templateName = templateName;
         this.storage = storage;
         this.renderer = renderer;
         this.acday = acday;
         this.defaultItemList = defaultItems;
+        this.shownDate = this.acday.currentACDate();
         this.buildItemList();
-    }
-
-    public run() {
-        this.draw(Date.now().toString());
     }
 
     protected getItemList() {
@@ -55,13 +54,12 @@ export default class Checklist implements iComponent {
         });
     }
 
-    private draw(date: string) {
-        const acdate = this.acday.convertToACDate(date);
-        this.renderer
-            .fill(`#${this.rootElementID}`)
-            .with(this.templateName, this.getRenderDataForDate(acdate));
+    protected postDraw() {
         this.bindChecklist();
-        this.shownDate = acdate;
+    }
+
+    protected getRenderData() {
+        return this.getRenderDataForDate(this.shownDate);
     }
 
     private getDataKey(date: string): string {

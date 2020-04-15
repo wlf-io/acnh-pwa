@@ -1,0 +1,9958 @@
+[
+  {
+    "id": "alpine-rug",
+    "name": "Alpine Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "set": "Alpine",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 350
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "aluminum-rug",
+    "name": "Aluminum Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "ancient-tile",
+    "name": "Ancient Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "apple-rug",
+    "name": "Apple Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "aqua-tile-flooring",
+    "name": "Aqua Tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 225
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 900
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "arabesque-flooring",
+    "name": "Arabesque Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 530
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2120
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "arched-brick-floor",
+    "name": "Arched Brick Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "olive"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "arched-brick-flooring",
+    "name": "Arched-brick Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "argyle-tile-flooring",
+    "name": "Argyle Tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 437
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1750
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "artsy-parquet-flooring",
+    "name": "Artsy Parquet Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "astro-floor",
+    "name": "Astro Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Trendy"
+        ],
+        "set": "Astro",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 530
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2120
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "autumn-floor",
+    "name": "Autumn Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1700
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "backyard-lawn",
+    "name": "Backyard Lawn",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "set": "Mossy Garden",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "ketchup",
+          "sprocket"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "balloon-floor",
+    "name": "Balloon Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Balloon",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "sources": [
+          "Gift balloon"
+        ]
+      }
+    }
+  },
+  {
+    "id": "bamboo-flooring",
+    "name": "Bamboo Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 340
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1360
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 9600
+          }
+        ],
+        "recipe": {
+          "bamboo-piece": 15
+        }
+      }
+    }
+  },
+  {
+    "id": "basement-floor",
+    "name": "Basement Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2125
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "norma"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "basement-flooring",
+    "name": "Basement Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6000
+          }
+        ],
+        "recipe": {
+          "stone": 10
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "bath-tile",
+    "name": "Bath Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "set": "Spa",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1700
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "beige-desert-tile-flooring",
+    "name": "Beige Desert-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "berry-chocolates-flooring",
+    "name": "Berry-chocolates Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "birch-flooring",
+    "name": "Birch Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-blocks-rug",
+    "name": "Black Blocks Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "black-brick-flooring",
+    "name": "Black-brick Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "black-design-kitchen-mat",
+    "name": "Black-design Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "black-iron-parquet-flooring",
+    "name": "Black Iron-parquet Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 587
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2350
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "black-wooden-deck-rug",
+    "name": "Black Wooden-deck Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "block-floor",
+    "name": "Block Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Mario",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "sources": [
+          "Fortune cookie #2"
+        ]
+      }
+    }
+  },
+  {
+    "id": "block-flooring",
+    "name": "Block Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "cashmere",
+          "huck",
+          "mabel"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-argyle-rug",
+    "name": "Blue Argyle Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-blocks-rug",
+    "name": "Blue Blocks Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-camo-flooring",
+    "name": "Blue Camo Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-desert-tile-flooring",
+    "name": "Blue Desert-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-design-kitchen-mat",
+    "name": "Blue-design Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-dot-flooring",
+    "name": "Blue Dot Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-dotted-rug",
+    "name": "Blue Dotted Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-flooring",
+    "name": "Blue Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "set": "Blue",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 395
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1580
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-floral-flooring",
+    "name": "Blue Floral Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1520
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-honeycomb-tile",
+    "name": "Blue Honeycomb Tile",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 355
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1420
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-kilim-style-carpet",
+    "name": "Blue Kilim-style Carpet",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-kitchen-mat",
+    "name": "Blue Kitchen Mat",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-medium-round-mat",
+    "name": "Blue Medium Round Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-message-mat",
+    "name": "Blue Message Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-mosaic-tile-flooring",
+    "name": "Blue Mosaic-tile Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 225
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 900
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-paint-flooring",
+    "name": "Blue-paint Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-persian-rug",
+    "name": "Blue Persian Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-rubber-flooring",
+    "name": "Blue Rubber Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 212
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 850
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-shaggy-rug",
+    "name": "Blue Shaggy Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-small-round-mat",
+    "name": "Blue Small Round Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-stripes-rug",
+    "name": "Blue Stripes Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-vinyl-sheet",
+    "name": "Blue Vinyl Sheet",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "blue-wavy-rug",
+    "name": "Blue Wavy Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Sahara"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "botanical-rug",
+    "name": "Botanical Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "boxing-ring-mat",
+    "name": "Boxing-ring Mat",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Boxing",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2500
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "brown-argyle-rug",
+    "name": "Brown Argyle Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "brown-argyle-tile-flooring",
+    "name": "Brown Argyle-tile Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 360
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1440
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "brown-brick-flooring",
+    "name": "Brown-brick Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "brown-floral-flooring",
+    "name": "Brown Floral Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1520
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "brown-honeycomb-tile",
+    "name": "Brown Honeycomb Tile",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 355
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1420
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "brown-iron-parquet-flooring",
+    "name": "Brown Iron-parquet Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 587
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2350
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "brown-kitchen-mat",
+    "name": "Brown Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "brown-shaggy-rug",
+    "name": "Brown Shaggy Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "brown-wooden-deck-rug",
+    "name": "Brown Wooden-deck Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "bunny-day-flooring",
+    "name": "Bunny Day Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4800
+        },
+        "recipe": {
+          "earth-egg": 2,
+          "stone-egg": 2,
+          "leaf-egg": 2,
+          "wood-egg": 2,
+          "sky-egg": 2,
+          "water-egg": 2
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "bunny-day-rug",
+    "name": "Bunny Day Rug",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "recipe": {
+          "earth-egg": 1,
+          "stone-egg": 1,
+          "leaf-egg": 1,
+          "wood-egg": 1,
+          "sky-egg": 1,
+          "water-egg": 1
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cabana-flooring",
+    "name": "Cabana Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "set": "Cabana",
+        "sources": [
+          "Island Gift Shop (rare)"
+        ],
+        "rvs": [
+          "kappn"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cabin-rug",
+    "name": "Cabin Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "set": "Cabin",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "camo-flooring",
+    "name": "Camo Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "card-carpet",
+    "name": "Card Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Card",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 49000
+        },
+        "sources": [
+          "GracieGrace (during sales)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ceramic-tile",
+    "name": "Ceramic Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 348
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1392
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "charcoal-tile",
+    "name": "Charcoal Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "checkered-tile",
+    "name": "Checkered Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cheese-floor",
+    "name": "Cheese Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 340
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cherry-blossom-flooring",
+    "name": "Cherry-blossom Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4400
+        },
+        "recipe": {
+          "cherry-blossom-petal": 10,
+          "clump-of-weeds": 20
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cherry-rug",
+    "name": "Cherry Rug",
+    "games": {
+      "nh": {
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ],
+        "recipe": {
+          "cherry": 6
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "chessboard-rug",
+    "name": "Chessboard Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2075
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cinnamoroll-floor",
+    "name": "Cinnamoroll Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "chai"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "circuit-board-flooring",
+    "name": "Circuit-board Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "citrus-carpet",
+    "name": "Citrus Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 333
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1330
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "classic-carpet",
+    "name": "Classic Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "set": "Classic",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 575
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "classroom-floor",
+    "name": "Classroom Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi"
+        ],
+        "set": "Classroom",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "leopold"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "closed-road",
+    "name": "Closed Road",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "set": "Construction",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1625
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "boyd"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cloud-flooring",
+    "name": "Cloud Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          }
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "colored-leaves-flooring",
+    "name": "Colored-leaves Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 17200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "colorful-mosaic-tile-flooring",
+    "name": "Colorful Mosaic-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 225
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 900
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "colorful-puzzle-flooring",
+    "name": "Colorful Puzzle Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 362
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1450
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "colorful-tile-flooring",
+    "name": "Colorful Tile Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 405
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1620
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "colorful-vinyl-sheet",
+    "name": "Colorful Vinyl Sheet",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "common-floor",
+    "name": "Common Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "common-flooring",
+    "name": "Common Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "concrete-floor",
+    "name": "Concrete Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky",
+          "Sci-Fi"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "concrete-flooring",
+    "name": "Concrete Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 205
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 820
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "construction-site-flooring",
+    "name": "Construction-site Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "convenient-floor",
+    "name": "Convenient Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "filly"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cool-paint-flooring",
+    "name": "Cool-paint Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cool-vinyl-flooring",
+    "name": "Cool Vinyl Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 287
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1150
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cork-flooring",
+    "name": "Cork Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cowhide-rug",
+    "name": "Cowhide Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "creepy-floor",
+    "name": "Creepy Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Jack (Halloween)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "crop-circles-flooring",
+    "name": "Crop-circles Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "crosswalk-flooring",
+    "name": "Crosswalk Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cubic-parquet-flooring",
+    "name": "Cubic Parquet Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cute-blue-tile-flooring",
+    "name": "Cute Blue-tile Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 195
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 780
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cute-paint-flooring",
+    "name": "Cute-paint Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cute-red-tile-flooring",
+    "name": "Cute Red-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 195
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 780
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cute-white-tile-flooring",
+    "name": "Cute White-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 195
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 780
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "cute-yellow-tile-flooring",
+    "name": "Cute Yellow-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 195
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 780
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "daisy-meadow",
+    "name": "Daisy Meadow",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "rex"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dark-bamboo-rug",
+    "name": "Dark Bamboo Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 960
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3840
+          }
+        ],
+        "recipe": {
+          "bamboo-piece": 6
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "dark-block-flooring",
+    "name": "Dark-block Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 345
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1380
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "dark-chocolates-flooring",
+    "name": "Dark-chocolates Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "dark-herringbone-flooring",
+    "name": "Dark Herringbone Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "dark-parquet-flooring",
+    "name": "Dark Parquet Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "dark-wood-pattern-flooring",
+    "name": "Dark Wood-pattern Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "dig-site-floor",
+    "name": "Dig-site Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Museum Shop (donate 30 fossils or more)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dig-site-flooring",
+    "name": "Dig-site Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "diner-tile",
+    "name": "Diner Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dirt-floor",
+    "name": "Dirt Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "rvs": [
+          "booker",
+          "boots",
+          "buzz"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dirt-flooring",
+    "name": "Dirt Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "dotted-rug",
+    "name": "Dotted Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Polka-dot",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "earth-rug",
+    "name": "Earth Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "egg-floor",
+    "name": "Egg Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Egg",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8888
+        },
+        "sources": [
+          "Zipper T. Bunny (Bunny Day)"
+        ],
+        "rvs": [
+          "zipper-t-bunny"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "exhibit-room-floor",
+    "name": "Exhibit-room Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Museum Shop"
+        ]
+      }
+    }
+  },
+  {
+    "id": "exotic-rug",
+    "name": "Exotic Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "set": "Exotic",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 455
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1820
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "exquisite-rug",
+    "name": "Exquisite Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 490
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1960
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fancy-carpet",
+    "name": "Fancy Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 745
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2980
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fancy-tile-floor",
+    "name": "Fancy Tile Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "gonzo",
+          "weber"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "field-floor",
+    "name": "Field Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "tad"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "field-flooring",
+    "name": "Field Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "fish-rug",
+    "name": "Fish Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "flagstone-floor",
+    "name": "Flagstone Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "maggie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flagstone-flooring",
+    "name": "Flagstone Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 425
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1700
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "floral-mosaic-tile-flooring",
+    "name": "Floral Mosaic-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 270
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1080
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "floral-rush-mat-flooring",
+    "name": "Floral Rush-mat Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "flower-pop-carpet",
+    "name": "Flower Pop Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flowing-river-flooring",
+    "name": "Flowing-river Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "fluffy-rug",
+    "name": "Fluffy Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "forest-floor",
+    "name": "Forest Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Mush",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 0
+        },
+        "sources": [
+          "Pick mushrooms during November"
+        ]
+      }
+    }
+  },
+  {
+    "id": "forest-flooring",
+    "name": "Forest Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 35000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 140000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "fossil-rug",
+    "name": "Fossil Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "fruit-panel-floor",
+    "name": "Fruit-panel Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "sources": [
+          "Start Story Mode in Puzzle League"
+        ]
+      }
+    }
+  },
+  {
+    "id": "fueki-floor",
+    "name": "Fueki Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "holden"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "future-tech-flooring",
+    "name": "Future-tech Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "galaxy-floor",
+    "name": "Galaxy Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "villager"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "galaxy-flooring",
+    "name": "Galaxy Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 30000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "gallery-floor",
+    "name": "Gallery Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "blathers"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "garbage-heap-flooring",
+    "name": "Garbage-heap Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "recipe": {
+          "empty-can": 2,
+          "boot": 2,
+          "old-tire": 2
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "giraffe-print-flooring",
+    "name": "Giraffe-print Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "gold-iron-parquet-flooring",
+    "name": "Gold Iron-parquet Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 587
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2350
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "golden-carpet",
+    "name": "Golden Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "set": "Golden",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        },
+        "sources": [
+          "Re-Tail (refurbish)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "golden-flooring",
+    "name": "Golden Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40000
+        },
+        "recipe": {
+          "gold-nugget": 4
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "gorgeous-floor",
+    "name": "Gorgeous Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Gorgeous",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 31000
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gracie-carpet",
+    "name": "Gracie Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Gracie",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 31000
+        },
+        "sources": [
+          "GracieGrace (summer)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "gravel-flooring",
+    "name": "Gravel Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "gray-argyle-tile-flooring",
+    "name": "Gray Argyle-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 360
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1440
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "gray-patterned-floor",
+    "name": "Gray Patterned Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "toby"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gray-vinyl-flooring",
+    "name": "Gray Vinyl Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 287
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1150
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-checked-rug",
+    "name": "Green Checked Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-floral-flooring",
+    "name": "Green Floral Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1520
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-honeycomb-tile",
+    "name": "Green Honeycomb Tile",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 355
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1420
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-kilim-style-carpet",
+    "name": "Green Kilim-style Carpet",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-kitchen-mat",
+    "name": "Green Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-paint-flooring",
+    "name": "Green-paint Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-retro-flooring",
+    "name": "Green Retro Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-rubber-flooring",
+    "name": "Green Rubber Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 212
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 850
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-rug",
+    "name": "Green Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "set": "Green",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-shaggy-rug",
+    "name": "Green Shaggy Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-stripes-rug",
+    "name": "Green Stripes Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "green-vinyl-flooring",
+    "name": "Green Vinyl Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 287
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1150
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "harvest-rug",
+    "name": "Harvest Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Harvest",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 834
+        },
+        "sources": [
+          "Nookling stores (11/1 through Harvest Festival)"
+        ],
+        "rvs": [
+          "franklin"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3336
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hello-kitty-floor",
+    "name": "Hello Kitty Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "rilla"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "herringbone-floor",
+    "name": "Herringbone Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "digby",
+          "julia",
+          "stella"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hexagonal-floral-flooring",
+    "name": "Hexagonal Floral Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 215
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 860
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "highway-flooring",
+    "name": "Highway Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "honeycomb-flooring",
+    "name": "Honeycomb Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "hopscotch-floor",
+    "name": "Hopscotch Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 960
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ice-floor",
+    "name": "Ice Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Ice",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8888
+        },
+        "sources": [
+          "Snowmam"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ice-flooring",
+    "name": "Ice Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 32800
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "iceberg-flooring",
+    "name": "Iceberg Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 16000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "illusion-floor",
+    "name": "Illusion Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "imperial-tile",
+    "name": "Imperial Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 745
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2980
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ink-splattered-floor",
+    "name": "Ink-splattered Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "inkwell"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "inkopolis-floor",
+    "name": "Inkopolis Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "cece",
+          "viche"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "iron-entrance-mat",
+    "name": "Iron Entrance Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "ivory-medium-round-mat",
+    "name": "Ivory Medium Round Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "ivory-simple-bath-mat",
+    "name": "Ivory Simple Bath Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "ivory-small-round-mat",
+    "name": "Ivory Small Round Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "jingle-carpet",
+    "name": "Jingle Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Jingle",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1224
+        },
+        "sources": [
+          "Nookling stores (12/1 through 12/23)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4896
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "joined-mat-flooring",
+    "name": "Joined-mat Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1050
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "jointed-mat-flooring",
+    "name": "Jointed-mat Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 262
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1050
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "jungle-floor",
+    "name": "Jungle Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Museum Shop (donate 50 insects or more)"
+        ],
+        "rvs": [
+          "nat"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "jungle-flooring",
+    "name": "Jungle Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2200
+        },
+        "recipe": {
+          "clump-of-weeds": 10,
+          "clay": 10
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "kiddie-carpet",
+    "name": "Kiddie Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Kiddie",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 408
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1632
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kiki-and-lala-floor",
+    "name": "Kiki And Lala Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "etoile"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kitchen-flooring",
+    "name": "Kitchen Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 308
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1232
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kitchen-tile",
+    "name": "Kitchen Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 473
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1892
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kitschy-tile",
+    "name": "Kitschy Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "candi"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lab-floor",
+    "name": "Lab Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Sci-Fi"
+        ],
+        "set": "Mad Scientist",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lacy-rug",
+    "name": "Lacy Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "ladybug-carpet",
+    "name": "Ladybug Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Insect",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 410
+        },
+        "sources": [
+          "Bug Off"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ladybug-rug",
+    "name": "Ladybug Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "lava-floor",
+    "name": "Lava Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "felyne"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lava-flooring",
+    "name": "Lava Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "leopard-print-flooring",
+    "name": "Leopard-print Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "light-bamboo-rug",
+    "name": "Light Bamboo Rug",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "recipe": {
+          "young-spring-bamboo": 6
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "light-herringbone-flooring",
+    "name": "Light Herringbone Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "light-parquet-flooring",
+    "name": "Light Parquet Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "light-wood-pattern-flooring",
+    "name": "Light Wood-pattern Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "lobby-floor",
+    "name": "Lobby Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "bitty",
+          "boris"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lobby-flooring",
+    "name": "Lobby Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "lovely-carpet",
+    "name": "Lovely Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Lovely",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 495
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1980
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lunar-surface",
+    "name": "Lunar Surface",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi"
+        ],
+        "set": "Space",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 30000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "magic-circle-rug",
+    "name": "Magic-circle Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "marine-pop-floor",
+    "name": "Marine Pop Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 410
+        },
+        "sources": [
+          "Fishing Tourney"
+        ]
+      }
+    }
+  },
+  {
+    "id": "marine-pop-flooring",
+    "name": "Marine Pop Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 505
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2020
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "maze-floor",
+    "name": "Maze Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mermaid-carpet",
+    "name": "Mermaid Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Mermaid",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mint-dot-flooring",
+    "name": "Mint Dot Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "modern-tile",
+    "name": "Modern Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Modern",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "modern-wavy-rug",
+    "name": "Modern Wavy Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "modern-wood-flooring",
+    "name": "Modern Wood Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "set": "Modern Wood",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "isabelle",
+          "kk",
+          "tasha"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "moms-cool-kitchen-mat",
+    "name": "Mom's Cool Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 88
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 352
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "moms-lively-kitchen-mat",
+    "name": "Mom's Lively Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 88
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 352
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "moms-playful-kitchen-mat",
+    "name": "Mom's Playful Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 88
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 352
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "moms-reliable-kitchen-mat",
+    "name": "Mom's Reliable Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 88
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 352
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "money-flooring",
+    "name": "Money Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 25000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 100000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "monochromatic-dot-flooring",
+    "name": "Monochromatic Dot Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "monochromatic-dotted-rug",
+    "name": "Monochromatic Dotted Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny",
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "monochromatic-tile-flooring",
+    "name": "Monochromatic Tile Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 405
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1620
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "monochromatic-wavy-rug",
+    "name": "Monochromatic Wavy Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "monochrome-floor",
+    "name": "Monochrome Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "claude",
+          "timmy-tommy"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mosaic-tile",
+    "name": "Mosaic Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 575
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mossy-carpet",
+    "name": "Mossy Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mossy-garden-flooring",
+    "name": "Mossy-garden Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "museum-floor",
+    "name": "Museum Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Museum Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mush-rug",
+    "name": "Mush Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "music-room-floor",
+    "name": "Music-room Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "my-melody-floor",
+    "name": "My Melody Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "chelsea"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "natural-block-flooring",
+    "name": "Natural-block Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 345
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1380
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "natural-wood-floor",
+    "name": "Natural Wood Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "bea",
+          "louie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "natural-wooden-deck-rug",
+    "name": "Natural Wooden-deck Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "neutral-floor",
+    "name": "Neutral Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Minimalist",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "sandy"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "nook-inc-botanical-rug",
+    "name": "Nook Inc. Botanical Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Miles System"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "buyPrices": [
+          {
+            "currency": "miles",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "nook-inc-flooring",
+    "name": "Nook Inc. Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Miles System"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6000
+        },
+        "buyPrices": [
+          {
+            "currency": "miles",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "nook-inc-rug",
+    "name": "Nook Inc. Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Miles System"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5000
+        },
+        "buyPrices": [
+          {
+            "currency": "miles",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "nook-inc-silk-rug",
+    "name": "Nook Inc. Silk Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Mail"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "notebook-floor",
+    "name": "Notebook Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5940
+        },
+        "sources": [
+          "DLC (JP)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 23760
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "oasis-flooring",
+    "name": "Oasis Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "observatory-floor",
+    "name": "Observatory Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "rvs": [
+          "celeste"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "office-flooring",
+    "name": "Office Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1700
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "oil-stained-floor",
+    "name": "Oil-stained Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "cyrus",
+          "dobie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "old-board-floor",
+    "name": "Old Board Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "hornsby"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "old-flooring",
+    "name": "Old Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Halloween (Neighbor trick)"
+        ],
+        "rvs": [
+          "resetti"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "olive-desert-tile-flooring",
+    "name": "Olive Desert-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "opulent-rug",
+    "name": "Opulent Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 308
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1232
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "orange-camo-flooring",
+    "name": "Orange Camo Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "orange-retro-flooring",
+    "name": "Orange Retro Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "orange-rug",
+    "name": "Orange Rug",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ],
+        "recipe": {
+          "orange": 6
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "ornate-rug",
+    "name": "Ornate Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "oval-entrance-mat",
+    "name": "Oval Entrance Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "paintball-floor",
+    "name": "Paintball Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Museum Shop (donate 20 artworks or more)"
+        ],
+        "rvs": [
+          "wendell"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "paintball-flooring",
+    "name": "Paintball Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "palace-tile",
+    "name": "Palace Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "panel-carpet-floor",
+    "name": "Panel Carpet Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "cleo",
+          "piper"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "parking-flooring",
+    "name": "Parking Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "parquet-floor-welcome-amiibo",
+    "name": "Parquet Floor [Welcome Amiibo]",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "billy",
+          "copper",
+          "vivian"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "parquet-floor",
+    "name": "Parquet Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 588
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2352
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "party-flooring",
+    "name": "Party Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "pastel-dot-rug",
+    "name": "Pastel-dot Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pastel-puzzle-flooring",
+    "name": "Pastel Puzzle Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 362
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1450
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "patchwork-tile-flooring",
+    "name": "Patchwork-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "pave-floor",
+    "name": "Pavé Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Pavé",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "Pavé (Festivale)"
+        ],
+        "rvs": [
+          "pave"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pavement-floor",
+    "name": "Pavement Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "ike",
+          "stu"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "peach-checked-rug",
+    "name": "Peach Checked Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "peach-rug",
+    "name": "Peach Rug",
+    "games": {
+      "nh": {
+        "sources": [
+          "Villagers (recipe)"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ],
+        "recipe": {
+          "peach": 6
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "peach-stripes-rug",
+    "name": "Peach Stripes Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "pear-rug",
+    "name": "Pear Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ],
+        "recipe": {
+          "pear": 6
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "pine-board-flooring",
+    "name": "Pine-board Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 625
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "pink-heart-rug",
+    "name": "Pink Heart Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "pink-paint-flooring",
+    "name": "Pink-paint Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "pink-rose-rug",
+    "name": "Pink Rose Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "pink-wood-floor",
+    "name": "Pink Wood Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "carrie",
+          "lottie",
+          "reese"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "plank-flooring",
+    "name": "Plank Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "planked-tatami",
+    "name": "Planked Tatami",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 335
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1340
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "playroom-rug",
+    "name": "Playroom Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "set": "Nursery",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 340
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "plaza-tile",
+    "name": "Plaza Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 545
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2180
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "plush-carpet",
+    "name": "Plush Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 540
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pompompurin-floor",
+    "name": "Pompompurin Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "marty"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "princess-carpet",
+    "name": "Princess Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Princess",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 31000
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 124000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "purple-camo-flooring",
+    "name": "Purple Camo Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "purple-desert-tile-flooring",
+    "name": "Purple Desert-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "purple-heart-rug",
+    "name": "Purple Heart Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "purple-persian-rug",
+    "name": "Purple Persian Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "purple-puzzle-flooring",
+    "name": "Purple Puzzle Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 362
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1450
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "purple-shaggy-rug",
+    "name": "Purple Shaggy Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "pyramid-tile",
+    "name": "Pyramid Tile",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "racetrack-flooring",
+    "name": "Racetrack Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "ramshackle-floor",
+    "name": "Ramshackle Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "jacob"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ramshackle-flooring",
+    "name": "Ramshackle Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "ranch-flooring",
+    "name": "Ranch Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "set": "Ranch",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 438
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "ursala"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1752
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "random-square-tile-flooring",
+    "name": "Random-square-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 340
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1360
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "rattan-flooring",
+    "name": "Rattan Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-and-black-vinyl-flooring",
+    "name": "Red-and-black Vinyl Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 287
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1150
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-and-blue-checked-rug",
+    "name": "Red-and-blue Checked Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-argyle-rug",
+    "name": "Red Argyle Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-blocks-rug",
+    "name": "Red Blocks Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-brick-flooring",
+    "name": "Red-brick Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-carpet",
+    "name": "Red Carpet",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-design-kitchen-mat",
+    "name": "Red-design Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-dot-flooring",
+    "name": "Red Dot Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-dotted-rug",
+    "name": "Red Dotted Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-kilim-style-carpet",
+    "name": "Red Kilim-style Carpet",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-medium-round-mat",
+    "name": "Red Medium Round Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-message-mat",
+    "name": "Red Message Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-persian-rug",
+    "name": "Red Persian Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-rose-rug",
+    "name": "Red Rose Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-small-round-mat",
+    "name": "Red Small Round Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-tile",
+    "name": "Red Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-vinyl-sheet",
+    "name": "Red Vinyl Sheet",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "red-wavy-rug",
+    "name": "Red Wavy Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "regal-carpet",
+    "name": "Regal Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale"
+        ],
+        "set": "Regal",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 713
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2852
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "retro-dotted-rug",
+    "name": "Retro Dotted Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "robo-floor",
+    "name": "Robo-floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "set": "Robo",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rocky-mountain-flooring",
+    "name": "Rocky-mountain Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "rococo-floor",
+    "name": "Rococo Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale"
+        ],
+        "set": "Rococo",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rose-flooring",
+    "name": "Rose Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "rosewood-flooring",
+    "name": "Rosewood Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 605
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2420
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "rough-rug",
+    "name": "Rough Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "round-carpet",
+    "name": "Round Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 270
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1080
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rubber-mud-mat",
+    "name": "Rubber Mud Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "rubber-tile-flooring",
+    "name": "Rubber-tile Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "rush-tatami-flooring",
+    "name": "Rush Tatami Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "rush-tatami",
+    "name": "Rush Tatami",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "saharahs-desert",
+    "name": "Saharah's Desert",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1800
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sakura-wood-flooring",
+    "name": "Sakura-wood Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3200
+        },
+        "recipe": {
+          "cherry-blossom-petal": 5,
+          "wood": 10
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "sand-garden",
+    "name": "Sand Garden",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1750
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sandlot",
+    "name": "Sandlot",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1700
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sandy-beach-floor",
+    "name": "Sandy-beach Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "rvs": [
+          "gulliver",
+          "plucky"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sandy-beach-flooring",
+    "name": "Sandy-beach Flooring",
+    "games": {
+      "nh": {
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4120
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 16480
+          }
+        ],
+        "recipe": {
+          "sea-snail": 1,
+          "venus-comb": 1,
+          "sand-dollar": 1,
+          "coral": 1,
+          "giant-clam": 1,
+          "cowrie": 1
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "school-hall-floor",
+    "name": "School-hall Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "rvs": [
+          "raddle",
+          "rover"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sci-fi-floor",
+    "name": "Sci-fi Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1500
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sci-fi-flooring",
+    "name": "Sci-fi Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 30000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "scramble-crosswalk",
+    "name": "Scramble Crosswalk",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "sepia-puzzle-flooring",
+    "name": "Sepia Puzzle Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 362
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1450
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "shanty-mat",
+    "name": "Shanty Mat",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious",
+          "Quirky",
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "shell-rug",
+    "name": "Shell Rug",
+    "games": {
+      "nh": {
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 21600
+          }
+        ],
+        "recipe": {
+          "giant-clam": 3
+        }
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "ship-deck",
+    "name": "Ship Deck",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "set": "Pirate Ship",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "Pascal"
+        ],
+        "rvs": [
+          "chip",
+          "pascal"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sidewalk-flooring",
+    "name": "Sidewalk Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "sidewalk",
+    "name": "Sidewalk",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1950
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "simple-blue-flooring",
+    "name": "Simple Blue Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-green-bath-mat",
+    "name": "Simple Green Bath Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-medium-avocado-mat",
+    "name": "Simple Medium Avocado Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-medium-black-mat",
+    "name": "Simple Medium Black Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-medium-blue-mat",
+    "name": "Simple Medium Blue Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-medium-brown-mat",
+    "name": "Simple Medium Brown Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-medium-orange-mat",
+    "name": "Simple Medium Orange Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-medium-purple-mat",
+    "name": "Simple Medium Purple Mat",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-medium-red-mat",
+    "name": "Simple Medium Red Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-navy-bath-mat",
+    "name": "Simple Navy Bath Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-pink-bath-mat",
+    "name": "Simple Pink Bath Mat",
+    "games": {
+      "nh": {
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-purple-flooring",
+    "name": "Simple Purple Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-red-flooring",
+    "name": "Simple Red Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-small-avocado-mat",
+    "name": "Simple Small Avocado Mat",
+    "games": {
+      "nh": {
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-small-black-mat",
+    "name": "Simple Small Black Mat",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-small-blue-mat",
+    "name": "Simple Small Blue Mat",
+    "games": {
+      "nh": {
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-small-brown-mat",
+    "name": "Simple Small Brown Mat",
+    "games": {
+      "nh": {
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-small-orange-mat",
+    "name": "Simple Small Orange Mat",
+    "games": {
+      "nh": {
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-small-purple-mat",
+    "name": "Simple Small Purple Mat",
+    "games": {
+      "nh": {
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-small-red-mat",
+    "name": "Simple Small Red Mat",
+    "games": {
+      "nh": {
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "simple-white-flooring",
+    "name": "Simple White Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "ski-slope-floor",
+    "name": "Ski-slope Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "sources": [
+          "Snowman"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ski-slope-flooring",
+    "name": "Ski-slope Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12800
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "skull-print-flooring",
+    "name": "Skull-print Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "slate-flooring",
+    "name": "Slate Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 345
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1380
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 345
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1380
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sleek-carpet",
+    "name": "Sleek Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Trendy"
+        ],
+        "set": "Sleek",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 385
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1540
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sloppy-carpet",
+    "name": "Sloppy Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "set": "Sloppy",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Re-Tail (flea market) or Police Station (lost and found)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sloppy-rug",
+    "name": "Sloppy Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "snowflake-rug",
+    "name": "Snowflake Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "snowman-carpet",
+    "name": "Snowman Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Snowman",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 8888
+        },
+        "sources": [
+          "Snowboy"
+        ]
+      }
+    }
+  },
+  {
+    "id": "spooky-carpet",
+    "name": "Spooky Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "set": "Spooky",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1031
+        },
+        "sources": [
+          "Nookling stores (Oct.)"
+        ],
+        "rvs": [
+          "jack"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4124
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sporty-floor",
+    "name": "Sporty Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "sources": [
+          "Saharah"
+        ]
+      }
+    }
+  },
+  {
+    "id": "starry-sands-flooring",
+    "name": "Starry-sands Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7720
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 30880
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "steel-flooring",
+    "name": "Steel Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Sci-Fi",
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "admiral"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 5250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 21000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "stirpe-flooring",
+    "name": "Stirpe Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "stone-tile-floor",
+    "name": "Stone-tile Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "murphy"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "stone-tile",
+    "name": "Stone Tile",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 688
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2752
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "stripe-carpet",
+    "name": "Stripe Carpet",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "set": "Stripe",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "stripe-flooring",
+    "name": "Stripe Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "sumo-ring",
+    "name": "Sumo Ring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "swamp-flooring",
+    "name": "Swamp Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "sweets-floor",
+    "name": "Sweets Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "set": "Sweets",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 31000
+        },
+        "sources": [
+          "GracieGrace (fall)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tartan-rug",
+    "name": "Tartan Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 455
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1820
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tatami-floor",
+    "name": "Tatami Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "snooty",
+          "wade"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tatami-flooring",
+    "name": "Tatami Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "tatami-mat",
+    "name": "Tatami Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "tatami",
+    "name": "Tatami",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2125
+        },
+        "sources": [
+          "Saharah"
+        ],
+        "rvs": [
+          "joan"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tent-rug",
+    "name": "Tent Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "saharah"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "terra-cotta-floor",
+    "name": "Terra-cotta Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "rvs": [
+          "ellie",
+          "kicks",
+          "tom-nook",
+          "tybalt"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "terra-cotta-flooring",
+    "name": "Terra-cotta Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "terrace-rug",
+    "name": "Terrace Rug",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "spike"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tiger-print-flooring",
+    "name": "Tiger-print Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "train-station-flooring",
+    "name": "Train-station Flooring",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "Saharah"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "tropical-floor",
+    "name": "Tropical Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1250
+        },
+        "sources": [
+          "Island Gift Shop (rare)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 100
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tropical-rug",
+    "name": "Tropical Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "turquoise-heart-rug",
+    "name": "Turquoise Heart Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "underwater-floor",
+    "name": "Underwater Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Museum Shop (donate 50 fish/deep-sea catches or more)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "underwater-flooring",
+    "name": "Underwater Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 6600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 26400
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "water-floor",
+    "name": "Water Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sources": [
+          "Unlock advanced levels in Desert Island Escape"
+        ]
+      }
+    }
+  },
+  {
+    "id": "water-flooring",
+    "name": "Water Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 7200
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 28800
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "western-desert",
+    "name": "Western Desert",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Western",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1700
+        },
+        "sources": [
+          "Saharah"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-brick-flooring",
+    "name": "White-brick Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-chocolates-flooring",
+    "name": "White-chocolates Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-heart-rug",
+    "name": "White Heart Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-honeycomb-tile",
+    "name": "White Honeycomb Tile",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 355
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1420
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-iron-parquet-flooring",
+    "name": "White Iron-parquet Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 587
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2350
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-message-mat",
+    "name": "White Message Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-mosaic-tile-flooring",
+    "name": "White Mosaic-tile Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 225
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 900
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-paint-flooring",
+    "name": "White-paint Flooring",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-rose-rug",
+    "name": "White Rose Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-simple-medium-mat",
+    "name": "White Simple Medium Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-simple-small-mat",
+    "name": "White Simple Small Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "white-tile-floor",
+    "name": "White Tile Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "paolo"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-wood-floor",
+    "name": "White Wood Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "rvs": [
+          "jingle",
+          "june"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-wooden-deck-rug",
+    "name": "White Wooden-deck Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "wildflower-floor",
+    "name": "Wildflower Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 370
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "rvs": [
+          "maddie"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1480
+          },
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wildflower-meadow",
+    "name": "Wildflower Meadow",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 750
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "wooden-deck-floor",
+    "name": "Wooden-deck Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "sylvana"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wooden-knot-flooring",
+    "name": "Wooden-knot Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 195
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 780
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-argyle-rug",
+    "name": "Yellow Argyle Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-blocks-rug",
+    "name": "Yellow Blocks Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-checked-rug",
+    "name": "Yellow Checked Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-design-kitchen-mat",
+    "name": "Yellow-design Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-flooring",
+    "name": "Yellow Flooring",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "rvs": [
+          "blanca",
+          "hopkins"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-floral-flooring",
+    "name": "Yellow Floral Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 380
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1520
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-kilim-style-carpet",
+    "name": "Yellow Kilim-style Carpet",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-kitchen-mat",
+    "name": "Yellow Kitchen Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-medium-round-mat",
+    "name": "Yellow Medium Round Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-message-mat",
+    "name": "Yellow Message Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-persian-rug",
+    "name": "Yellow Persian Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-rose-rug",
+    "name": "Yellow Rose Rug",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-small-round-mat",
+    "name": "Yellow Small Round Mat",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-stripes-rug",
+    "name": "Yellow Stripes Rug",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "yellow-vinyl-sheet",
+    "name": "Yellow Vinyl Sheet",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "zebra-print-flooring",
+    "name": "Zebra-print Flooring",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook's Cranny"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Flooring"
+  },
+  {
+    "id": "zelda-floor",
+    "name": "Zelda Floor",
+    "category": "Flooring",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "epona",
+          "ganon",
+          "medli",
+          "wolf-link"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  }
+]

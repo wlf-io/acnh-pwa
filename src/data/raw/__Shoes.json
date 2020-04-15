@@ -1,0 +1,3451 @@
+[
+  {
+    "id": "antique-boots",
+    "name": "Antique Boots",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 660
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2640
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "armor-shoes",
+    "name": "Armor Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Historical"
+        ],
+        "set": "Knight Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 960
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "babouches",
+    "name": "Babouches",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "ballet-slippers",
+    "name": "Ballet Slippers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Kicks"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "basketball-shoes",
+    "name": "Basketball Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "beaded-sandals",
+    "name": "Beaded Sandals",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "black-loafers",
+    "name": "Black Loafers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 105
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-pumps",
+    "name": "Black Pumps",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "black-rain-boots",
+    "name": "Black Rain Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-pumps",
+    "name": "Blue Pumps",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 115
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 460
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-sneakers",
+    "name": "Blue Sneakers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-wrestling-shoes",
+    "name": "Blue Wrestling Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Pro Wrestler Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 225
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 900
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "boots",
+    "name": "Boots",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "brown-loafers",
+    "name": "Brown Loafers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "brown-pumps",
+    "name": "Brown Pumps",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 115
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 460
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "brown-slip-ons",
+    "name": "Brown Slip-ons",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 105
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "business-shoes",
+    "name": "Business Shoes",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "callie-shoes",
+    "name": "Callie Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-Roll"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "cece"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cinnamoroll-shoes",
+    "name": "Cinnamoroll Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "chai"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cleats",
+    "name": "Cleats",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "climbing-shoes",
+    "name": "Climbing Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "clogs",
+    "name": "Clogs",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Modern"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "colorful-sneakers",
+    "name": "Colorful Sneakers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 115
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 460
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "comfy-sandals",
+    "name": "Comfy Sandals",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "cowboy-boots",
+    "name": "Cowboy Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Cowboy Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "GracieGrace (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 595
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2380
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cross-belt-sandals",
+    "name": "Cross-belt Sandals",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "cute-sneakers",
+    "name": "Cute Sneakers",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Balloon",
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 315
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1260
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "dal-slippers",
+    "name": "Dal Slippers",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "In the mail"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1010
+        }
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "earth-egg-shoes",
+    "name": "Earth-egg Shoes",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "recipe": {
+          "earth-egg": 2
+        }
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "embroidered-shoes",
+    "name": "Embroidered Shoes",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "faux-fur-ankle-booties",
+    "name": "Faux-fur Ankle Booties",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 362
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1450
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "faux-shearling-boots",
+    "name": "Faux-shearling Boots",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "faux-suede-sneakers",
+    "name": "Faux-suede Sneakers",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 270
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1080
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "flip-flops",
+    "name": "Flip-flops",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 20
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 87
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 350
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flower-fairy-boots",
+    "name": "Flower Fairy Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Obtain at least 2",
+          "500 points in Time Attack on any difficulty in Puzzle League"
+        ]
+      }
+    }
+  },
+  {
+    "id": "flower-loafers",
+    "name": "Flower Loafers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flower-sandals",
+    "name": "Flower Sandals",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "ghillie-brogues",
+    "name": "Ghillie Brogues",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 585
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2340
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "gladiator-sandals",
+    "name": "Gladiator Sandals",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Gulliver (correct -- Greece)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gold-armor-shoes",
+    "name": "Gold-armor Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Historical"
+        ],
+        "set": "Centurion Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-buckled-shoes",
+    "name": "Green Buckled Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 105
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-loafers",
+    "name": "Green Loafers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "toby"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-polka-pumps",
+    "name": "Green Polka Pumps",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-sandals",
+    "name": "Green Sandals",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-stripe-shoes",
+    "name": "Green-stripe Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 105
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hello-kitty-shoes",
+    "name": "Hello Kitty Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "rilla"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "heros-boots",
+    "name": "Hero's Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Hero Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "sources": [
+          "Fortune cookie #49"
+        ]
+      }
+    }
+  },
+  {
+    "id": "hi-tech-sneakers",
+    "name": "Hi-tech Sneakers",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 315
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1260
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "high-tops",
+    "name": "High-tops",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 270
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1080
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "hiking-boots",
+    "name": "Hiking Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "house-slippers",
+    "name": "House Slippers",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "jesters-shoes",
+    "name": "Jester's Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "set": "Jester Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 475
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1900
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kiddie-sneakers",
+    "name": "Kiddie Sneakers",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "kiki-and-lala-shoes",
+    "name": "Kiki And Lala Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "etoile"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kimono-sandals",
+    "name": "Kimono Sandals",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Geisha Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kung-fu-shoes",
+    "name": "Kung-fu Shoes",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 315
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1260
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "labelle-pumps",
+    "name": "Labelle Pumps",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 875
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3500
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "labelle-sneakers",
+    "name": "Labelle Sneakers",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 825
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3300
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "lace-up-boots",
+    "name": "Lace-up Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "leaf-egg-shoes",
+    "name": "Leaf-egg Shoes",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "recipe": {
+          "leaf-egg": 2
+        }
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "leopard-pumps",
+    "name": "Leopard Pumps",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "GracieGrace (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "loafers",
+    "name": "Loafers",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "mages-booties",
+    "name": "Mage's Booties",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 387
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1550
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "marie-shoes",
+    "name": "Marie Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-Roll"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "viche"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mary-janes",
+    "name": "Mary Janes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "moccasin-boots",
+    "name": "Moccasin Boots",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "moccasins",
+    "name": "Moccasins",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 270
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1080
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "monochrome-shoes",
+    "name": "Monochrome Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "my-melody-shoes",
+    "name": "My Melody Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "rvs": [
+          "chelsea"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ninja-sandals",
+    "name": "Ninja Sandals",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Harmonious"
+        ],
+        "fashionThemes": [
+          "Historical"
+        ],
+        "set": "Ninja Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "nook-inc-slippers",
+    "name": "Nook Inc. Slippers",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Miles System"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "buyPrices": [
+          {
+            "currency": "miles",
+            "value": 400
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "orange-sandals",
+    "name": "Orange Sandals",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 105
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "orange-shoes",
+    "name": "Orange Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 105
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "outdoor-sandals",
+    "name": "Outdoor Sandals",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 157
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 630
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "patched-shoes",
+    "name": "Patched Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sources": [
+          "Halloween (Neighbor trick)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "paw-slippers",
+    "name": "Paw Slippers",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Kicks"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 315
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1260
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "pink-slip-ons",
+    "name": "Pink Slip-ons",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 105
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-sneakers",
+    "name": "Pink Sneakers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pleather-ankle-booties",
+    "name": "Pleather Ankle Booties",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 320
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1280
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "pleather-sneakers",
+    "name": "Pleather Sneakers",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "polka-dot-rain-boots",
+    "name": "Polka-dot Rain Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pom-pom-boots",
+    "name": "Pom-pom Boots",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "pompompurin-shoes",
+    "name": "Pompompurin Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Fancy"
+        ],
+        "set": "Welcome amiibo Update",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "rvs": [
+          "marty"
+        ],
+        "buyPrices": [
+          {
+            "currency": "meow",
+            "value": 3
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "power-boots",
+    "name": "Power Boots",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 787
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3150
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "purple-dot-shoes",
+    "name": "Purple Dot Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 115
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 460
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "purple-high-tops",
+    "name": "Purple High-tops",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "purple-pumps",
+    "name": "Purple Pumps",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "rain-boots",
+    "name": "Rain Boots",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "recycled-boots",
+    "name": "Recycled Boots",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "recipe": {
+          "boot": 2
+        }
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "red-boat-shoes",
+    "name": "Red Boat Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-shoes",
+    "name": "Red Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 105
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-wrestling-shoes",
+    "name": "Red Wrestling Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "set": "Pro Wrestler Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 225
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 900
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "restroom-slippers",
+    "name": "Restroom Slippers",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 87
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 350
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "ribbon-sandals",
+    "name": "Ribbon Sandals",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "rubber-toe-high-tops",
+    "name": "Rubber-toe High Tops",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 315
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1260
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "rubber-toe-sneakers",
+    "name": "Rubber-toe Sneakers",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters",
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 270
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1080
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "samurai-greaves",
+    "name": "Samurai Greaves",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1075
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4300
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "santa-boots",
+    "name": "Santa Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 240
+        },
+        "sources": [
+          "Kicks (12/1 through 12/24)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 960
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "shearling-boots",
+    "name": "Shearling Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "shiny-bow-platform-shoes",
+    "name": "Shiny Bow Platform Shoes",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "shower-sandals",
+    "name": "Shower Sandals",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 87
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 350
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "ski-boots",
+    "name": "Ski Boots",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "sky-egg-shoes",
+    "name": "Sky-egg Shoes",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "recipe": {
+          "sky-egg": 2
+        }
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "slip-on-loafers",
+    "name": "Slip-on Loafers",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "slip-on-sandals",
+    "name": "Slip-on Sandals",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "slip-on-school-shoes",
+    "name": "Slip-on School Shoes",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 87
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 350
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "slippers",
+    "name": "Slippers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 87
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 350
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "snow-boots",
+    "name": "Snow Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "space-boots",
+    "name": "Space Boots",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1075
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4300
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "sporty-sandals",
+    "name": "Sporty Sandals",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "steel-toed-boots",
+    "name": "Steel-toed Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 155
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 620
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 660
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "stone-egg-shoes",
+    "name": "Stone-egg Shoes",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "recipe": {
+          "stone-egg": 2
+        }
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "strappy-heels",
+    "name": "Strappy Heels",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "stripe-shoes",
+    "name": "Stripe Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Modern"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "GracieGrace (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tasseled-loafers",
+    "name": "Tasseled Loafers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "traditional-flower-shoes",
+    "name": "Traditional Flower Shoes",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "trekking-shoes",
+    "name": "Trekking Shoes",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "tropical-sandals",
+    "name": "Tropical Sandals",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "varia-suit-shoes",
+    "name": "Varia Suit Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "set": "Bounty Hunter Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "sources": [
+          "Fortune cookie #43"
+        ]
+      }
+    }
+  },
+  {
+    "id": "velour-boots",
+    "name": "Velour Boots",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "vinyl-round-toed-pumps",
+    "name": "Vinyl Round-toed Pumps",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 375
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1500
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "visual-punk-boots",
+    "name": "Visual-punk Boots",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 550
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2200
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "walking-shoes",
+    "name": "Walking Shoes",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Balloon",
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "water-egg-shoes",
+    "name": "Water-egg Shoes",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "recipe": {
+          "water-egg": 2
+        }
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "water-sandals",
+    "name": "Water Sandals",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "water-shoes",
+    "name": "Water Shoes",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 225
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 900
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "white-leather-shoes",
+    "name": "White Leather Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1000
+        },
+        "sources": [
+          "GracieGrace (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "white-patent-shoes",
+    "name": "White Patent Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wingtip-shoes",
+    "name": "Wingtip Shoes",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Balloon",
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 225
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 900
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "winklepickers",
+    "name": "Winklepickers",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 227
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 910
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "wood-egg-shoes",
+    "name": "Wood-egg Shoes",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "recipe": {
+          "wood-egg": 2
+        }
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "wooden-clogs",
+    "name": "Wooden Clogs",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 130
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 520
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "work-boots",
+    "name": "Work Boots",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 480
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1920
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "wrestling-shoes",
+    "name": "Wrestling Shoes",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 270
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1080
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": "yellow-buckled-shoes",
+    "name": "Yellow Buckled Shoes",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 105
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 420
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-rain-boots",
+    "name": "Yellow Rain Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yellow-sneakers",
+    "name": "Yellow Sneakers",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "zap-boots",
+    "name": "Zap Boots",
+    "category": "Shoes",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 180
+        },
+        "sources": [
+          "Kicks"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 720
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 660
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2640
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "zori",
+    "name": "Zori",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1075
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4300
+          }
+        ]
+      }
+    },
+    "category": "Shoes"
+  }
+]

@@ -1,0 +1,3695 @@
+[
+  {
+    "id": "3d-glasses",
+    "name": "3D Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "acorn-pochette",
+    "name": "Acorn Pochette",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 9600
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "aviator-shades",
+    "name": "Aviator Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "sources": [
+          "GracieGrace (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bad-bros-stache",
+    "name": "Bad Bro's Stache",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "sources": [
+          "Fortune cookie #44"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ballroom-mask",
+    "name": "Ballroom Mask",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "set": "Dancer Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bandage",
+    "name": "Bandage",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 20
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 80
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 35
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 140
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "basket-pack",
+    "name": "Basket Pack",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "recipe": {
+          "young-spring-bamboo": 6
+        }
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "beak",
+    "name": "Beak",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "big-bros-mustache",
+    "name": "Big Bro's Mustache",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "sources": [
+          "Fortune cookie #45"
+        ]
+      }
+    }
+  },
+  {
+    "id": "birthday-shades",
+    "name": "Birthday Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Birthday (if you're good friends with a neighbor)"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 620
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2480
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "blue-frames",
+    "name": "Blue Frames",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bottom-rimmed-glasses",
+    "name": "Bottom-rimmed Glasses",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "browline-glasses",
+    "name": "Browline Glasses",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "brown-glasses",
+    "name": "Brown Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bubblegum",
+    "name": "Bubblegum",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 35
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 140
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "bug-cage",
+    "name": "Bug Cage",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "bunny-day-bag",
+    "name": "Bunny Day Bag",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "recipe": {
+          "earth-egg": 1,
+          "stone-egg": 1,
+          "leaf-egg": 1,
+          "wood-egg": 1,
+          "sky-egg": 1,
+          "water-egg": 1
+        }
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "bunny-nose",
+    "name": "Bunny Nose",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "butterfly-backpack",
+    "name": "Butterfly Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "butterfly-shades",
+    "name": "Butterfly Shades",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "candy-skull-mask",
+    "name": "Candy-skull Mask",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3200
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "canvas-backpack",
+    "name": "Canvas Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "cat-nose",
+    "name": "Cat Nose",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "cherry-blossom-pochette",
+    "name": "Cherry-blossom Pochette",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 9600
+          }
+        ],
+        "recipe": {
+          "cherry-blossom-petal": 6
+        }
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "cloth-shoulder-bag",
+    "name": "Cloth Shoulder Bag",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Kick's"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 350
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1400
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "crossbody-bag",
+    "name": "Crossbody Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "crossbody-boston-bag",
+    "name": "Crossbody Boston Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "cucumber-pack",
+    "name": "Cucumber Pack",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "curly-mustache",
+    "name": "Curly Mustache",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cyber-shades",
+    "name": "Cyber Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dal-backpack",
+    "name": "Dal Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1010
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4040
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "dal-eye-mask",
+    "name": "Dal Eye Mask",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "sources": [
+          "In the mail"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1010
+        }
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "dal-sunglasses",
+    "name": "Dal Sunglasses",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1010
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4040
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "doctors-mask",
+    "name": "Doctor's Mask",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi"
+        ],
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 20
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 80
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 35
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 140
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "doctors-mirror",
+    "name": "Doctor's Mirror",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Sci-Fi"
+        ],
+        "fashionThemes": [
+          "Official"
+        ],
+        "set": "Doctor Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dog-nose",
+    "name": "Dog Nose",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "double-bridge-glasses",
+    "name": "Double-bridge Glasses",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "drinking-straw-glasses",
+    "name": "Drinking-straw Glasses",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "dry-bag",
+    "name": "Dry Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "evening-bag",
+    "name": "Evening Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 312
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1250
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "extra-large-backpack",
+    "name": "Extra-large Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 525
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2100
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "eye-mask",
+    "name": "Eye Mask",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "eye-patch",
+    "name": "Eye Patch",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "set": "Pirate Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 35
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 140
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "facial-mask",
+    "name": "Facial Mask",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fake-nose",
+    "name": "Fake Nose",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "faux-fur-bag",
+    "name": "Faux-fur Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 350
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1400
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "fish-pochette",
+    "name": "Fish Pochette",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "flower-sunglasses",
+    "name": "Flower Sunglasses",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "foldover-top-backpack",
+    "name": "Foldover-top Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "food-mess",
+    "name": "Food Mess",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "funky-glasses",
+    "name": "Funky Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "funny-glasses",
+    "name": "Funny Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gas-mask",
+    "name": "Gas Mask",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "glass-bottle-glasses",
+    "name": "Glass-bottle Glasses",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "goatee",
+    "name": "Goatee",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "goggles",
+    "name": "Goggles",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 70
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 280
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gracie-glasses",
+    "name": "Gracie Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Modern"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1550
+        },
+        "sources": [
+          "GracieGrace (summer)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 6200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "green-glasses",
+    "name": "Green Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gumdrop-shoulder-bag",
+    "name": "Gumdrop Shoulder Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "hand-knit-pouch",
+    "name": "Hand-knit Pouch",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 312
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1250
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "handlebar-mustache",
+    "name": "Handlebar Mustache",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "hard-shell-backpack",
+    "name": "Hard-shell Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 420
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1680
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "heart-shades",
+    "name": "Heart Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "sources": [
+          "GracieGrace (spring)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hmd",
+    "name": "Hmd",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 450
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1800
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "huge-shades",
+    "name": "Huge Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "jesters-mask",
+    "name": "Jester's Mask",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "set": "Jester Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 160
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 640
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 440
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1760
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kings-beard",
+    "name": "King's Beard",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Ornate"
+        ],
+        "set": "King Outfit",
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 8000
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "knapsack",
+    "name": "Knapsack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 157
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 630
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "knitted-grass-backpack",
+    "name": "Knitted-grass Backpack",
+    "games": {
+      "nh": {
+        "orderable": false,
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "recipe": {
+          "clump-of-weeds": 20
+        }
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "labelle-sunglasses",
+    "name": "Labelle Sunglasses",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 500
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "ladder-shades",
+    "name": "Ladder Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "sources": [
+          "Summer Solstice (Isabelle)"
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "leaf",
+    "name": "Leaf",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Rustic"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 30
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 120
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 100
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 400
+          }
+        ],
+        "recipe": {
+          "clump-of-weeds": 5
+        }
+      }
+    }
+  },
+  {
+    "id": "lemon-pack",
+    "name": "Lemon Pack",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 90
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 360
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "log-pack",
+    "name": "Log Pack",
+    "games": {
+      "nh": {
+        "customizable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 960
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 3840
+          }
+        ],
+        "recipe": {
+          "wood": 3,
+          "hardwood": 5
+        }
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "maple-leaf-pochette",
+    "name": "Maple-leaf Pochette",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 9600
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "masquerade-mask",
+    "name": "Masquerade Mask",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique",
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 120
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 480
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 227
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 910
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "messenger-bag",
+    "name": "Messenger Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "mini-pleather-bag",
+    "name": "Mini Pleather Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1600
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "mint-glasses",
+    "name": "Mint Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "moms-knapsack",
+    "name": "Mom's Knapsack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "monocle",
+    "name": "Monocle",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Antique"
+        ],
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "night-vision-goggles",
+    "name": "Night-vision Goggles",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "nook-inc-eye-mask",
+    "name": "Nook Inc. Eye Mask",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Miles System"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2000
+        },
+        "buyPrices": [
+          {
+            "currency": "miles",
+            "value": 400
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "nook-inc-knapsack",
+    "name": "Nook Inc. Knapsack",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Miles System"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 4000
+        },
+        "buyPrices": [
+          {
+            "currency": "miles",
+            "value": 800
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "nose-drip",
+    "name": "Nose Drip",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "octagonal-glasses",
+    "name": "Octagonal Glasses",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "outdoor-backpack",
+    "name": "Outdoor Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "oval-glasses",
+    "name": "Oval Glasses",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "oval-shades",
+    "name": "Oval Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Trendy"
+        ],
+        "fashionThemes": [
+          "Modern"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pacifier",
+    "name": "Pacifier",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 30
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 120
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pig-nose",
+    "name": "Pig Nose",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "pilot-shades",
+    "name": "Pilot Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Official"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 150
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 600
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pink-glasses",
+    "name": "Pink Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Fairy Tale"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pixel-shades",
+    "name": "Pixel Shades",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 330
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1320
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "pleather-crossbody-bag",
+    "name": "Pleather Crossbody Bag",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Kicks"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 280
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1120
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "pleather-fringe-bag",
+    "name": "Pleather Fringe Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "pleather-mask",
+    "name": "Pleather Mask",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "pleather-shoulder-bag",
+    "name": "Pleather Shoulder Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "post-op-patch",
+    "name": "Post-op Patch",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Quirky"
+        ],
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "privacy-mask",
+    "name": "Privacy Mask",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "purple-glasses",
+    "name": "Purple Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Basic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-glasses",
+    "name": "Red Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "red-nose",
+    "name": "Red Nose",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 20
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 80
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "reflector",
+    "name": "Reflector",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 140
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "retro-shades",
+    "name": "Retro Shades",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "retro-sports-bag",
+    "name": "Retro Sports Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 350
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1400
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "rhinestone-shades",
+    "name": "Rhinestone Shades",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "rimmed-glasses",
+    "name": "Rimmed Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Historical"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 157
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 630
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "round-glasses",
+    "name": "Round Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Historical"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "round-shades",
+    "name": "Round Shades",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "round-tinted-shades",
+    "name": "Round Tinted Shades",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "rounded-beard",
+    "name": "Rounded Beard",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "sacoche-bag",
+    "name": "Sacoche Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "santa-beard",
+    "name": "Santa Beard",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1224
+        },
+        "sources": [
+          "Labelle (12/1 through 12/24)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4896
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "shattered-glasses",
+    "name": "Shattered Glasses",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 40
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "shellfish-pochette",
+    "name": "Shellfish Pochette",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 10800
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 43200
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "silver-frames",
+    "name": "Silver Frames",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ski-goggles",
+    "name": "Ski Goggles",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "snorkel-mask",
+    "name": "Snorkel Mask",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 250
+        },
+        "sources": [
+          "Island Gift Shop"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 20
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "snowflake-pochette",
+    "name": "Snowflake Pochette",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 2400
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 9600
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "sporty-shades",
+    "name": "Sporty Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Nook Shopping"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "square-backpack",
+    "name": "Square Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "square-glasses",
+    "name": "Square Glasses",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "stache-glasses",
+    "name": "Stache & Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 192
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 770
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "star-pochette",
+    "name": "Star Pochette",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 3000
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 12000
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "star-shades",
+    "name": "Star Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1200
+        },
+        "sources": [
+          "GracieGrace (fall)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 4800
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "steampunk-glasses",
+    "name": "Steampunk Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Sci-Fi",
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Flashy"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 600
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2400
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 325
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1300
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sticky-rice",
+    "name": "Sticky Rice",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 122
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 490
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "straw-pochette",
+    "name": "Straw Pochette",
+    "games": {
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Kicks"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 245
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 980
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "studded-backpack",
+    "name": "Studded Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "superhero-mask",
+    "name": "Superhero Mask",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "interiorThemes": [
+          "Toy Shop"
+        ],
+        "fashionThemes": [
+          "Sporty"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 300
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sources": [
+          "Able Sisters"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tackle-bag",
+    "name": "Tackle Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 175
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 700
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "thick-glasses",
+    "name": "Thick Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 80
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 320
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tiny-shades",
+    "name": "Tiny Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Historical"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      },
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 275
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1100
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tool-bag",
+    "name": "Tool Bag",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 227
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 910
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "tortoise-specs",
+    "name": "Tortoise Specs",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "fashionThemes": [
+          "Iconic"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 1300
+        },
+        "sources": [
+          "GracieGrace (winter)"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 5200
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "town-backpack",
+    "name": "Town Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 260
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1040
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "travel-pouch",
+    "name": "Travel Pouch",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 210
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 840
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "travelers-backpack",
+    "name": "Traveler's Backpack",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 735
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 2940
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "triangle-shades",
+    "name": "Triangle Shades",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Rock-n'-roll"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      },
+      "nh": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 220
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 880
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wooden-frame-glasses",
+    "name": "Wooden-frame Glasses",
+    "games": {
+      "nh": {
+        "sellPrice": {
+          "currency": "bells",
+          "value": 390
+        },
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 1560
+          }
+        ]
+      }
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": "yellow-glasses",
+    "name": "Yellow Glasses",
+    "category": "Accessories",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "fashionThemes": [
+          "Cute"
+        ],
+        "sellPrice": {
+          "currency": "bells",
+          "value": 60
+        },
+        "sources": [
+          "Labelle"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 240
+          }
+        ]
+      }
+    }
+  }
+]

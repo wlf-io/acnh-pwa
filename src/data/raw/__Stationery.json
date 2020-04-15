@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "academy-paper",
+    "name": "Academy Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Villager letters (rare)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "airmail-paper",
+    "name": "Airmail Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bathtub-paper",
+    "name": "Bathtub Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bejeweled-paper",
+    "name": "Bejeweled Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "birthday-card",
+    "name": "Birthday Card",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bubble-paper",
+    "name": "Bubble Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "buttercup-paper",
+    "name": "Buttercup Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "butterfly-paper",
+    "name": "Butterfly Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "camouflage-paper",
+    "name": "Camouflage Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "campground-paper",
+    "name": "Campground Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sources": [
+          "Villager letters (rare)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "card-paper",
+    "name": "Card Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "chic-paper",
+    "name": "Chic Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cloudy-paper",
+    "name": "Cloudy Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "composer-paper",
+    "name": "Composer Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cool-paper",
+    "name": "Cool Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cow-paper",
+    "name": "Cow Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "crater-paper",
+    "name": "Crater Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "elegant-paper",
+    "name": "Elegant Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 200
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 800
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fireworks-paper",
+    "name": "Fireworks Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "floral-paper",
+    "name": "Floral Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "flowery-paper",
+    "name": "Flowery Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "forest-paper",
+    "name": "Forest Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "four-leaf-paper",
+    "name": "Four-leaf Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "gallery-paper",
+    "name": "Gallery Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Villager letters (rare)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "geometric-paper",
+    "name": "Geometric Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "goldfish-paper",
+    "name": "Goldfish Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "halloween-paper",
+    "name": "Halloween Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Villager letters (rare)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "hamburger-paper",
+    "name": "Hamburger Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hieroglyph-paper",
+    "name": "Hieroglyph Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "imperial-paper",
+    "name": "Imperial Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "industrial-paper",
+    "name": "Industrial Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lacy-paper",
+    "name": "Lacy Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lemon-lime-paper",
+    "name": "Lemon-lime Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "leopard-paper",
+    "name": "Leopard Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lined-paper",
+    "name": "Lined Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lotus-paper",
+    "name": "Lotus Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "lovely-paper",
+    "name": "Lovely Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "maple-leaf-paper",
+    "name": "Maple-leaf Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "melody-paper",
+    "name": "Melody Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 125
+        },
+        "sources": [
+          "Super T&T"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 500
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mosaic-paper",
+    "name": "Mosaic Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "museum-paper",
+    "name": "Museum Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Villager letters (rare)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mushroom-paper",
+    "name": "Mushroom Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "new-years-cards",
+    "name": "New Year's Cards",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "night-sky-paper",
+    "name": "Night-sky Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "nintendo-paper",
+    "name": "Nintendo Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sources": [
+          "Villager letters (rare)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "nook-paper",
+    "name": "Nook Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "nooks-homes-paper",
+    "name": "Nook's Homes Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "set": "Welcome amiibo Update",
+        "sources": [
+          "Villager letters (rare)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "notebook-paper",
+    "name": "Notebook Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ocean-paper",
+    "name": "Ocean Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "petal-paper",
+    "name": "Petal Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "piano-paper",
+    "name": "Piano Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "plaid-paper",
+    "name": "Plaid Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "polka-dot-paper",
+    "name": "Polka-dot Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "post-office-paper",
+    "name": "Post-office Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Villager letters (rare)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rainbow-paper",
+    "name": "Rainbow Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ribbon-paper",
+    "name": "Ribbon Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "smb3-paper",
+    "name": "Smb3 Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "snowman-paper",
+    "name": "Snowman Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": false,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Villager letters (rare)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "snowy-paper",
+    "name": "Snowy Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "southwest-paper",
+    "name": "Southwest Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "sparkly-paper",
+    "name": "Sparkly Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "star-paper",
+    "name": "Star Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tartan-paper",
+    "name": "Tartan Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tile-paper",
+    "name": "Tile Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "town-view-paper",
+    "name": "Town-view Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "vine-paper",
+    "name": "Vine Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "weathered-paper",
+    "name": "Weathered Paper",
+    "category": "Stationery",
+    "games": {
+      "nl": {
+        "orderable": true,
+        "sellPrice": {
+          "currency": "bells",
+          "value": 40
+        },
+        "sources": [
+          "Nookling stores"
+        ],
+        "buyPrices": [
+          {
+            "currency": "bells",
+            "value": 160
+          }
+        ]
+      }
+    }
+  }
+]
